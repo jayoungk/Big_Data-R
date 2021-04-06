@@ -1,0 +1,250 @@
+---
+title: "BUS 41201 Homework 3 Assignment"
+date: "4/22/2020"
+output:
+  word_document: default
+  pdf_document:
+    fig_height: 4
+    fig_width: 6
+fontsize: 10 pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, 
+                      #include = TRUE, 
+                      fig.width = 6, fig.height = 4,
+                      results='markup',
+                      warning = FALSE,
+                      cache = TRUE,
+                      digits = 3,
+                      width = 48) 
+```
+# Amazon Reviews
+
+The dataset consists of 13 319 reviews for selected products on Amazon from Jan-Oct 2012.  Reviews include product information, ratings, and a plain text review. The data consists of three tables:
+
+##Review subset.csv
+is a table containing, for each review, its 
+\begin{itemize}
+\item ProductId: Amazon ASIN product code
+\item UserId: ID of the reviewer
+\item Score: numeric 1-5 (the number of stars)
+\item Time: date of the review
+\item Summary: review summary in words
+\item Nrev: number of reviews by the user
+\item Length: number of words in the review
+\item Prod Category: Amazon product category 
+\item Prod Group: Amazon product group
+\end{itemize}
+## Word freq.csv
+is a simple triplet matrix of word counts from the review text including 
+\begin{itemize}
+\item Review ID: the row index of Review subset.csv
+\item Word ID: the row index of words.csv
+\item Times Word: how many times the word occurred in the review
+\end{itemize}
+## Words.csv
+contains 1125 alphabetically ordered words that occur in the reviews. 
+
+
+
+
+```{r data xtable, results='asis'}
+
+setwd("C:/Users/13124/Desktop/Harris/2020-2 Spring/Big Data/HW/hw3/")
+library(knitr) # library for nice R markdown output
+library(tidyverse)
+library(dplyr)
+
+# READ REVIEWS
+
+data<-read.table("Review_subset.csv",header=TRUE)
+dim(data)
+
+# 13319 reviews
+# ProductID: Amazon ASIN product code
+# UserID:  id of the reviewer
+# Score: numeric from 1 to 5
+# Time: date of the review
+# Summary: text review
+# nrev: number of reviews by this user
+# Length: length of the review (number of words)
+
+# READ WORDS
+
+words<-read.table("words.csv")
+words<-words[,1]
+length(words)
+#1125 unique words
+
+# READ text-word pairings file
+
+doc_word<-read.table("word_freq.csv")
+names(doc_word)<-c("Review ID","Word ID","Times Word" )
+# Review ID: row of the file  Review_subset
+# Word ID: index of the word
+# Times Word: number of times this word occurred in the text
+
+
+
+
+```
+
+## Question 1
+
+We want to build a predictor of customer ratings from product reviews and product attributes. For these questions, you will fit a LASSO path of logistic regression using a binary outcome: 
+\begin{align}
+Y=1& \quad\text{for  5 stars}\\
+Y=0& \quad \text{for less than 5 stars}.
+\end{align}
+
+
+Fit a LASSO model with only product categories. The start code prepares a sparse design matrix of 142 product categories. What is the in-sample R2 for the AICc slice of the LASSO path? Why did we use standardize FALSE? (1 point)
+    + In-sample $R^{2}$: 0.1048737
+    + Rationale for using standardize=FALSE: standaridzation allows us to have different variables are scaled so that they are interpretable and features with larger sacales do not dominate another. However, in this case we only have dummy variables regardingn the cateogry of goods here. Using standardization would put more penalty on common categories and less penalty on rare categories, which might be undesirable.
+
+
+```{r data, results='asis'}
+
+
+# Let's define the binary outcome
+
+# Y=1 if the rating was 5 stars
+
+# Y=0 otherwise
+
+Y<-as.numeric(data$Score==5)
+
+# (a) Use only product category as a predictor
+
+library(gamlr)
+
+source("naref.R") 
+
+class(data$Prod_Category)
+
+# Since product category is a factor, we want to relevel it for the LASSO. 
+# We want each coefficient to be an intercept for each factor level rather than a contrast. 
+# Check the extra slides at the end of the lecture.
+# look inside naref.R. This function relevels the factors for us.
+
+data$Prod_Category<-naref(data$Prod_Category)
+
+# Create a design matrix using only products
+products<-data.frame(data$Prod_Category)
+
+x_cat<-sparse.model.matrix(~., data=products)[,-1]
+
+# Sparse matrix, storing 0's as .'s 
+# Remember that we removed intercept so that each category 
+# is standalone, not a contrast relative to the baseline category
+
+colnames(x_cat)<-levels(data$Prod_Category)[-1]
+
+# let's call the columns of the sparse design matrix as the product categories
+# Let's fit the LASSO with just the product categories
+lasso1<- gamlr(x_cat, y=Y, standardize=FALSE, family="binomial", lambda.min.ratio=1e-3)
+plot(lasso1) 
+
+# AICc selected coef
+beta <- coef(lasso1) 
+nrow(beta)
+
+# lambda
+log(lasso1$lambda[which.min(AICc(lasso1))])
+
+# No. of non-zero coef 
+sum(beta!=0) 
+
+# find R2 (method 1)
+source("deviance.R") 
+pred <- predict(lasso1, newdata = x_cat, type="response")
+R2(Y, pred, family = "binomial")
+
+# find R2 (method 2)
+summary(lasso1)$r2[which.min(AICc(lasso1))]
+
+```
+
+
+## Question 2
+
+Fit a LASSO model with both product categories and the review content (i.e. the frequency of occurrence of words). Use AICc to select lambda.
+How many words were selected as predictive of a  5 star review? Which 10 words have the most positive effect on odds of a 5 star review? What is the interpretation of the coefficient for the word `discount'? (3 points)
+    + Number of words selected: 1022
+    + Top 10 words: worried, plus, excellently, find, grains, hound, sliced, discount, youd, doggies
+    + Interpretation for 'discount' coefficient: the presence of a unit increase in the frequency of the word 'discount' in the review increases the odds ratios of receiving 5 stars by 1055.256.
+
+```{r xtable, results='asis'}
+
+# Fit a LASSO with all 142 product categories and 1125 words 
+spm<-sparseMatrix(i=doc_word[,1],
+                  j=doc_word[,2],
+                  x=doc_word[,3],
+                  dimnames=list(id=1:nrow(data),
+                  words=words))
+
+# 13319 reviews using 1125 words
+dim(spm)
+
+# new matrix with category and words
+x_cat2<-cbind(x_cat,spm)
+
+# Lasso with product category and words
+lasso2 <- gamlr(x_cat2, y=Y,lambda.min.ratio=1e-3,family="binomial")
+log(lasso2$lambda[which.min(AICc(lasso2))])
+
+# AICc selected coef
+beta2 <- coef(lasso2) 
+sum(beta2!=0) 
+
+# Number of words selected
+sum(beta2[(ncol(x_cat)+1):nrow(beta2)]!=0)
+
+# Top 10 words
+beta3<-coef(lasso2)[(ncol(x_cat)+1):nrow(beta2),]
+beta3[order(beta3,decreasing=TRUE)[1:10]]
+
+# 'discount' coef
+beta3['discount']
+exp(6.961539)
+exp(beta3['discount'])
+
+```
+
+
+
+## Question 3
+
+Continue with the model from Question 2.
+Run cross-validation to obtain the best lambda value that minimizes OOS deviance. How many coefficients are nonzero then? How many are nonzero under the 1se rule?  (1 point)
+    + No. of nonzero coefficinets for OOS D min: 974
+    + No. of nonzero coefficients for 1se rule: 831
+
+```{r xtable data, results='asis'}
+
+set.seed(123)
+
+cv.fit <- cv.gamlr(x_cat2,
+				   y=Y,
+				   lambda.min.ratio=1e-3,
+				   family="binomial",
+				   verb=TRUE)
+
+beta4<-coef(cv.fit, select="min") ## min cv selection
+beta5<-coef(cv.fit) ## 1se rule; see ?cv.gamlr
+
+sum(beta4!=0)
+sum(beta5!=0)
+
+log(cv.fit$lambda.min)
+log(cv.fit$lambda.1se)
+
+## plot them together
+par(mfrow=c(1,2))
+plot(cv.fit)
+plot(cv.fit$gamlr) 
+
+```
+
+

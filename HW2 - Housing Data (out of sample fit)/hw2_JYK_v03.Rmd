@@ -1,0 +1,155 @@
+---
+title: "HW2"
+author: "Jayoung Kang"
+date: "4/19/2020"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(knitr)
+library(dplyr)
+setwd("C:/Users/13124/Desktop/Harris/2020-2 Spring/Big Data/HW/hw2")
+```
+
+
+# QUESTION 1
+
+Regress log price onto all variables but mortgage. What is the $R^{2}$? How many coefficients are used in this model and how many are significant at 10% FDR? Re-run regression with only the significant covariates, and compare $R^{2}$ to the full model. (2 points)
++ $R^{2}$ = 0.4473061
++ Number of coefficients used: 41 (this does not include the intercept)
++ Number significant at 10% FDR: 41-5=36 (This number does not include the baseline variable STATECA)
++ $R^{2}$ of the new model: 0.4471907
++ The $R^{2}$ of the new model has decreased because the number of covariates explaining the model has decreased. However, it has only decreased by a very slight amount because the parameters removed were not significant. 
+
+```{r}
+homes <- read.csv("homes2004.csv")
+view(homes)
+pricey <- glm(log(LPRICE) ~ .-AMMORT, data=homes)
+summary(pricey)
+
+# R squared
+(13003.4 - 7186.9)/13003.4
+
+# number of coefficients
+15564 - 15523
+pvals <- summary(pricey)$coef[-1,4]
+length(pvals)
+
+# number of significant coefficients at 10% FDR
+pvals_ordered<-pvals[order(pvals,decreasing=F)]
+
+q<-0.1
+
+source("fdr.R")
+
+cutoff <- fdr_cut(pvals, q)
+
+names(pvals)[pvals<=cutoff]
+names(pvals)[pvals>cutoff]
+
+summary(homes$STATE)
+
+homes2 <- cbind(homes, model.matrix(~STATE-1, data=homes))
+homes2 <- homes2[-c(22,30)]
+
+names(homes2)
+
+
+pricey_2 <- glm(log(LPRICE) ~. -AMMORT-ETRANS-NUNITS-BEDRMS-STATECO-STATECT, data=homes2)
+summary(pricey_2)
+(13003.4 - 7188.4)/13003.4
+
+pvals2 <- summary(pricey_2)$coef[-1,4]
+length(pvals2)
+length(pvals)
+
+```
+
+
+
+# QUESTION 2
+
+Fit a regression for whether the buyer had more than 20 percent down (onto everything but AMMORT and LPRICE). Interpret effects for Pennsylvania state, 1st home buyers and the number  of bathrooms. Add and describe an interaction between 1st home-buyers and the number of baths. (2 points)
++ When the house state code is in Pennsylvania, the odss of the buyer having more than 20% down increase by 82.41242%, when compared to California.  
+
++ The odds of the buyer having more than 20% down is 0.6907343times higher for a unit increase in # of rooms amongst first home buyers than a unit increase in # of rooms amongst non-first home buyers. OR 
++ The odds of the buyer having more than 20% down is decrease by 30.92657% for a unit increase in # of rooms amongst first home buyers than a unit increase in # of rooms amongst non-first home buyers.  
+
++ The odds of the buyer having more than 20% down increases by 27.69827%, for a unit increase in # of bathrooms.
+
++ The odds of the buyer having more than 20% down is 0.8170949times higher for a unit increase in # of rooms amongst first home buyers than a unit increase in # of rooms amongst non-first home buyers. OR 
++ The odds of the buyer having more than 20% down is decrease by 18.29051% for a unit increase in # of rooms amongst first home buyers than a unit increase in # of rooms amongst non-first home buyers.  
+
+```{r}
+homes3<-homes
+homes3$gt20dwn <- factor(0.2<(homes3$LPRICE-homes3$AMMORT)/homes3$LPRICE)
+
+reg_gt20dwn <- glm(gt20dwn ~ .-AMMORT-LPRICE, data=homes3, family='binomial')
+summary(reg_gt20dwn)
+
+reg2_gt20dwn <- glm(gt20dwn ~ .-AMMORT-LPRICE+BATHS*FRSTHO, data=homes3, family='binomial')
+summary(reg2_gt20dwn)
+
+#times interpretation
+exp(6.011e-01); exp(-3.700e-01); exp(2.445e-01) 
+
+#% change interpretation 
+(exp(6.011e-01)-1)*100;(exp(-3.700e-01)-1)*100; (exp(2.445e-01)-1)*100
+
+#interaction term interpretation
+#BATHS:FRSTHOY   -2.020e-01  6.207e-02  -3.255 0.001135 ** 
+exp(-2.020e-01); (exp(-2.020e-01)-1)*100
+
+exp(-2.020e-01-2.137e-02); (exp(-2.020e-01-2.137e-02)-1)*100
+
+
+
+```
+ 
+
+
+# QUESTION 3
+
+Focus only on a subset of homes worth >100k. Train the full model from Question 1 on this subset. Predict the left-out homes using this model. What is the out-of-sample fit (i.e. R2)? Explain why you get this value. (1 point)
++ OOS $R^{2}$: -0.04988871
++ Although usually $R^{2}$ is between 0 and 1 the value here is negative because it is the out-of-sample $R^{2}$ and not the in-sample. In the case below the training sample is not a good representation of the whole dataset because it was not sampled out randomly. Therefore when we try to predict the left-out homes based on the model from the training sample, it is not a good fit.  $R^{2}$ compares the fit of the chosen model with that of a horizontal straight line (the null hypothesis). Since for this case the model from the training sample fits worse than a horizontal line, the $R^{2}$ is negative. 
+
+
+```{r}
+subset <- which(homes$VALUE>100000)
+
+train <- glm(log(LPRICE) ~ .-AMMORT, data=homes[subset,])
+
+ptrain <- predict(train, newdata=homes[-subset,], type="response")
+
+
+# Use the code ``deviance.R" to compute OOS deviance
+source("deviance.R")
+
+D <- deviance(y=log(homes$LPRICE[-subset]), pred=ptrain)
+
+# Null model has just one mean parameter
+ybar <- mean(log(homes$LPRICE[-subset]))
+
+D0 <- deviance(y=log(homes$LPRICE[-subset]), pred=ybar)
+
+
+## OOS R2
+1 - D/D0  
+
+summary(train) # will usually be a higher in-sample R2
+
+1-1227.8/4863.2
+
+
+```
+
+

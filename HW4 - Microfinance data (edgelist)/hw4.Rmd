@@ -1,0 +1,198 @@
+---
+title: "R Notebook"
+output:
+  word_document: default
+  html_notebook: default
+---
+
+
+```{r}
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, 
+                      #include = FALSE, 
+                      fig.width = 6, fig.height = 4,
+                      results='markup',
+                      warning = FALSE,
+                      cache = TRUE,
+                      digits = 3,
+                      width = 48) 
+```
+
+
+```{r data xtable, results='asis'}
+
+setwd("C:/Users/13124/Desktop/Harris/2020-2 Spring/Big Data/HW/hw4/")
+library(knitr) # library for nice R markdown output
+library(tidyverse)
+library(igraph)
+library(gamlr)
+```
+
+
+
+[1]. I’d transform degree to create our treatment variable d. What would you do and why?
++ Transformation: log(degree+1)
++ Since the data is skewed so that it has a light tailed distribution on the left, we sought to use log but due to the presence of zeros, we added 1 to degree so that log would be feasible. 
+
+```{r}
+hh <- read.csv("microfi_households.csv", row.names="hh")
+hh$village <- factor(hh$village)
+
+## We'll kick off with a bunch of network stuff.
+edges <- read.table("microfi_edges.txt", colClasses="character")
+## edges holds connections between the household ids
+hhnet <- graph.edgelist(as.matrix(edges))
+hhnet <- as.undirected(hhnet) # two-way connections.
+
+## igraph is all about plotting.  
+V(hhnet) ## our 8000+ household vertices
+## Each vertex (node) has some attributes, and we can add more.
+V(hhnet)$village <- as.character(hh[V(hhnet),'village'])
+## we'll color them by village membership
+vilcol <- rainbow(nlevels(hh$village))
+names(vilcol) <- levels(hh$village)
+V(hhnet)$color = vilcol[V(hhnet)$village]
+## drop HH labels from plot
+V(hhnet)$label=NA
+
+# graph plots try to force distances proportional to connectivity
+# imagine nodes connected by elastic bands that you are pulling apart
+# The graphs can take a very long time, but I've found
+# edge.curved=FALSE speeds things up a lot.  Not sure why.
+
+## we'll use induced.subgraph and plot a couple villages 
+village1 <- induced.subgraph(hhnet, v=which(V(hhnet)$village=="1"))
+village33 <- induced.subgraph(hhnet, v=which(V(hhnet)$village=="33"))
+
+# vertex.size=3 is small.  default is 15
+plot(village1, vertex.size=3, edge.curved=FALSE)
+plot(village33, vertex.size=3, edge.curved=FALSE)
+
+```
+
+
+```{r}
+#####  now, on to your homework stuff
+## match id's; I call these 'zebras' because they are like crosswalks
+zebra <- match(rownames(hh), V(hhnet)$name)
+
+## calculate the `degree' of each hh: 
+##  number of commerce/friend/family connections
+degree <- degree(hhnet)[zebra]
+names(degree) <- rownames(hh)
+degree[is.na(degree)] <- 0 # unconnected houses, not in our graph
+
+## if you run a full glm, it takes forever and is an overfit mess
+# > summary(full <- glm(loan ~ degree + .^2, data=hh, family="binomial"))
+# Warning messages:
+# 1: glm.fit: algorithm did not converge 
+# 2: glm.fit: fitted probabilities numerically 0 or 1 occurred 
+
+hist(degree)
+hist(log(degree+1))
+d<-log(degree+1)
+
+```
+
+
+
+[2]. Build a model to predict d from x, our controls. Comment on how tight the fit is, and what that implies for estimation of a treatment effect.
++ $R^{2}$ using normal regression: 0.08223472
++ $R^{2}$ using LASSO: 0.08187873
++ Since $R^{2}$ is quite low, this indicates that the part of d tgat can be predicted with x's isn't very high. This implies that the treatment effect, when estimated without the controls will not be overstiamted by too much, given that the controls we have are enough to account for the confounding effect
+
+```{r}
+#without LASSO
+reg_dx <- glm(d ~ .-loan, data=hh)
+summary(reg_dx)
+1-5826.8/6348.9
+
+
+#With LASSO
+x = sparse.model.matrix(~.-loan, data=hh)[,-1]
+treat <- gamlr(x,d,lambda.min.ratio=1e-4)
+dhat <- predict(treat, x, type="response") 
+cor(drop(dhat),d)^2
+
+```
+
+
+
+[3]. Use predictions from [2] in an estimator for effect of d on loan.
+
+
+```{r}
+
+dhat<-reg_dx$fitted.values
+
+causal <- gamlr(cBind(d,dhat,x),hh$loan,free=2,lmr=1e-4)
+
+coef(causal)["d",]
+
+```
+
+
+
+[4]. Compare the results from [3] to those from a straight (naive) lasso for loan on d and x. Explain why they are similar or different.
++ Similar, because the dependent part of d wasn't large
+
+```{r}
+naive <- gamlr(cBind(d,x),hh$loan)
+
+coef(naive)["d",]
+
+```
+
+
+
+[5]. Bootstrap your estimator from [3] and describe the uncertainty.
+
+
+```{r}
+
+y <- hh$loan
+n <- nrow(x)
+
+gamb <- c() # empty gamma
+
+for(b in 1:20){
+	## create a matrix of resampled indices
+
+	ib <- sample(1:n, n, replace=TRUE)
+
+	## create the resampled data
+
+	xb <- x[ib,]
+
+	db <- d[ib]
+
+	yb <- y[ib]
+
+	## run the treatment regression
+
+	treatb <- gamlr(xb,db,lambda.min.ratio=1e-3)
+
+	dhatb <- predict(treatb, xb, type="response")
+
+	fitb <- gamlr(cBind(db,dhatb,xb),yb,free=2)
+
+	gamb <- c(gamb,coef(fitb)["db",])
+
+	print(b)
+}
+
+summary(gamb) 
+coef(causal)["d",]/sd(gamb)
+se<-sd(gamb)
+se
+
+{hist(gamb)
+  abline(v=quantile(gamb,0.025),col=3,lwd=2)
+  abline(v=quantile(gamb,0.975),col=3,lwd=2)}
+
+```
+
+
+
+
+

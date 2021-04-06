@@ -1,0 +1,3608 @@
+"name" "first" "second" "gender" "confidence_male"
+"A Adam Ding" NA "Adam" "male" "0.9959"
+"A B Kristoffersen" NA NA "unknown" NA
+"A Bottle" NA NA "unknown" NA
+"A C Davison" NA NA "unknown" NA
+"A Chatterjee" NA NA "unknown" NA
+"A D Tsodikov" NA NA "unknown" NA
+"A David Cummings" NA "David" "unknown" NA
+"A E Ades" NA NA "unknown" NA
+"A Galichon" NA NA "unknown" NA
+"A Grane" NA NA "unknown" NA
+"A Guillin" NA NA "unknown" NA
+"A H Zwinderman" NA NA "unknown" NA
+"A J Hayter" NA NA "unknown" NA
+"A J Lee" NA NA "unknown" NA
+"A J Scott" NA NA "unknown" NA
+"A James OMalley" NA "James" "unknown" NA
+"A Jara" NA NA "unknown" NA
+"A Kong" NA NA "unknown" NA
+"A Mallik" NA NA "unknown" NA
+"A N Pettitt" NA NA "unknown" NA
+"A Philip Dawid" NA "Philip" "unknown" NA
+"A Richard Entsuah" NA "Richard" "unknown" NA
+"A Ronald Gallant" NA "Ronald" "unknown" NA
+"A Ruiz-Gazen" NA NA "unknown" NA
+"A S Foulkes" NA NA "unknown" NA
+"A S Hedayat" NA NA "unknown" NA
+"A Touati" NA NA "unknown" NA
+"A Trouve" NA NA "unknown" NA
+"Aad van der Vaart" "Aad" "van" "male" "0.5284"
+"Aad W van der Vaart" "Aad" NA "male" "0.5284"
+"Aaron King" "Aaron" NA "male" "0.9918"
+"Aarti Singh" "Aarti" NA "female" "0"
+"Abba M Krieger" "Abba" NA "male" "1"
+"Abbas Khalili" "Abbas" NA "male" "1"
+"Abdelhadi Akharif" "Abdelhadi" NA "male" "1"
+"Abdelkader Mokkadem" "Abdelkader" NA "unknown" NA
+"Abdessamad Saidi" "Abdessamad" NA "unknown" NA
+"Abdus S Wahed" "Abdus" NA "unknown" NA
+"Abel Rodriguez" "Abel" NA "male" "0.9972"
+"Abhishek Bhattacharya" "Abhishek" NA "male" "1"
+"Abhyuday Mandal" "Abhyuday" NA "unknown" NA
+"Adam Clements" "Adam" NA "male" "0.9959"
+"Adam J Rothman" "Adam" NA "male" "0.9959"
+"Adam N Glynn" "Adam" NA "male" "0.9959"
+"Adarsh Joshi" "Adarsh" NA "male" "1"
+"Adelchi Azzalini" "Adelchi" NA "male" "1"
+"Adelmo I Bertolde" "Adelmo" NA "male" "1"
+"Adi F Gazdar" "Adi" NA "female" "0.394"
+"Adin-Cristian Andrei" "Adin-Cristian" NA "unknown" NA
+"Adonis Yatchew" "Adonis" NA "male" "0.9879"
+"Adrian Baddeley" "Adrian" NA "male" "0.9268"
+"Adrian Barbu" "Adrian" NA "male" "0.9268"
+"Adrian Dobra" "Adrian" NA "male" "0.9268"
+"Adrian E Raftery" "Adrian" NA "male" "0.9268"
+"Agnes Desolneux" "Agnes" NA "female" "0.0023"
+"Agostino Nobile" "Agostino" NA "male" "1"
+"Agus Sudjianto" "Agus" NA "male" "0.5162"
+"Agustin Mayo-Iscar" "Agustin" NA "male" "0.9982"
+"Aidan McDermott" "Aidan" NA "male" "0.9733"
+"Aijun Zhang" "Aijun" NA "unknown" NA
+"Aimee Zaas" "Aimee" NA "female" "0.0014"
+"Aiyi Liu" "Aiyi" NA "unknown" NA
+"Aiyou Chen" "Aiyou" NA "unknown" NA
+"Ajay Jasra" "Ajay" NA "male" "1"
+"Ajit C Tamhane" "Ajit" NA "male" "1"
+"Akihiko Inoue" "Akihiko" NA "unknown" NA
+"Alain-Jacques Valleron" "Alain-Jacques" NA "unknown" NA
+"Alan Agresti" "Alan" NA "male" "0.9968"
+"Alan E Gelfand" "Alan" NA "male" "0.9968"
+"Alan E Hubbard" "Alan" NA "male" "0.9968"
+"Alan Edelman" "Alan" NA "male" "0.9968"
+"Alan F Karr" "Alan" NA "male" "0.9968"
+"Alan H Welsh" "Alan" NA "male" "0.9968"
+"Alan Huang" "Alan" NA "male" "0.9968"
+"Alan J Cohen" "Alan" NA "male" "0.9968"
+"Alan M Zaslavsky" "Alan" NA "male" "0.9968"
+"Alan T K Wan" "Alan" NA "male" "0.9968"
+"Albert Cohen" "Albert" NA "male" "0.9944"
+"Albert Maydeu-Olivares" "Albert" NA "male" "0.9944"
+"Alberto Abadie" "Alberto" NA "male" "0.9927"
+"Alberto Bernacchia" "Alberto" NA "male" "0.9927"
+"Alberto Rodriguez-Casal" "Alberto" NA "male" "0.9927"
+"Alberto Roverato" "Alberto" NA "male" "0.9927"
+"Albrecht M Kellerer" "Albrecht" NA "male" "1"
+"Aldo Solari" "Aldo" NA "male" "0.9991"
+"Alec Stephenson" "Alec" NA "male" "0.9927"
+"Alejandro Cruz-Marcelo" "Alejandro" NA "male" "0.9925"
+"Alejandro Veen" "Alejandro" NA "male" "0.9925"
+"Alekh Agarwal" "Alekh" NA "unknown" NA
+"Aleksandar Mijatovic" "Aleksandar" NA "male" "1"
+"Aleksey Min" "Aleksey" NA "male" "0.9687"
+"Aleksey S Polunchenko" "Aleksey" NA "male" "0.9687"
+"Alessandra Giovagnoli" "Alessandra" NA "female" "0"
+"Alessandra Luati" "Alessandra" NA "female" "0"
+"Alessandra Mattei" "Alessandra" NA "female" "0"
+"Alessandro Baldi Antognini" "Alessandro" "Baldi" "male" "1"
+"Alessandro Rinaldo" "Alessandro" NA "male" "1"
+"Alessandro Tarozzi" "Alessandro" NA "male" "1"
+"Alessandro Veneziani" "Alessandro" NA "male" "1"
+"Alessio Farcomeni" "Alessio" NA "male" "1"
+"Alex Gammerman" "Alex" NA "male" "0.9657"
+"Alex Kiss" "Alex" NA "male" "0.9657"
+"Alex Lenkoski" "Alex" NA "male" "0.9657"
+"Alex Lewin" "Alex" NA "male" "0.9657"
+"Alexander Aue" "Alexander" NA "male" "0.9921"
+"Alexander G Tartakovsky" "Alexander" NA "male" "0.9921"
+"Alexander Gluhovsky" "Alexander" NA "male" "0.9921"
+"Alexander Goldenshluger" "Alexander" NA "male" "0.9921"
+"Alexander J McNeil" "Alexander" NA "male" "0.9921"
+"Alexander J Smola" "Alexander" NA "male" "0.9921"
+"Alexander Lindner" "Alexander" NA "male" "0.9921"
+"Alexander M Spence" "Alexander" NA "male" "0.9921"
+"Alexander Meister" "Alexander" NA "male" "0.9921"
+"Alexander Samarov" "Alexander" NA "male" "0.9921"
+"Alexandra M Schmidt" "Alexandra" NA "female" "0.0037"
+"Alexandra Ramos" "Alexandra" NA "female" "0.0037"
+"Alexandre B Tsybakov" "Alexandre" NA "male" "0.9645"
+"Alexandre Belloni" "Alexandre" NA "male" "0.9645"
+"Alexandre Pintore" "Alexandre" NA "male" "0.9645"
+"Alexandre Rodrigues" "Alexandre" NA "male" "0.9645"
+"Alexandros Beskos" "Alexandros" NA "male" "1"
+"Alexis Diamond" "Alexis" NA "female" "0.1452"
+"Alfio Marazzi" "Alfio" NA "male" "1"
+"Alfonso Gordaliza" "Alfonso" NA "male" "0.997"
+"Alfonso Suarez-Llorens" "Alfonso" NA "male" "0.997"
+"Alfred Hero" "Alfred" NA "male" "0.9942"
+"Alfred Kume" "Alfred" NA "male" "0.9942"
+"Alfredo Navarro" "Alfredo" NA "male" "0.9939"
+"Ali Ekici" "Ali" NA "male" "0.6877"
+"Ali M Mosammam" "Ali" NA "male" "0.6877"
+"Ali Shojaie" "Ali" NA "male" "0.6877"
+"Alice S Whittemore" "Alice" NA "female" "0.0034"
+"Alicia Carriquiry" "Alicia" NA "female" "0.0031"
+"Aliye Atay-Kayis" "Aliye" NA "female" "0"
+"Allan R Sampson" "Allan" NA "male" "0.9972"
+"Allan Timmermann" "Allan" NA "male" "0.9972"
+"Alois Kneip" "Alois" NA "male" "0.9345"
+"Alvaro Sandroni" "Alvaro" NA "male" "0.9996"
+"Alysha M De Livera" "Alysha" NA "female" "0"
+"Amanda S Hering" "Amanda" NA "female" "0.0026"
+"Amgen Research Group" "Amgen" "Research" "unknown" NA
+"Amita Manatunga" "Amita" NA "female" "0"
+"Amnon Neeman" "Amnon" NA "male" "1"
+"Amy H Herring" "Amy" NA "female" "0.0026"
+"Amy J Braverman" "Amy" NA "female" "0.0026"
+"Ana-Maria Staicu" "Ana-Maria" NA "unknown" NA
+"Ana Broemeling" "Ana" NA "female" "0.006"
+"Ana Grohovac Rappold" "Ana" "Grohovac" "female" "0.006"
+"Ana J Villar" "Ana" NA "female" "0.006"
+"Ana Justel" "Ana" NA "female" "0.006"
+"Anand N Vidyashankar" "Anand" NA "male" "1"
+"Ananias A Escalante" "Ananias" NA "male" "1"
+"Ananya Roy" "Ananya" NA "female" "0"
+"Anastasia Ivanova" "Anastasia" NA "female" "7e-04"
+"Anastasia Papavasiliou" "Anastasia" NA "female" "7e-04"
+"Anastasios A Tsiatis" "Anastasios" NA "male" "1"
+"Anat Sakov" "Anat" NA "female" "0"
+"Anatoli B Juditsky" "Anatoli" NA "male" "1"
+"Anatoly Zhigljavsky" "Anatoly" NA "male" "1"
+"Anders Rahbek" "Anders" NA "male" "1"
+"Andrada E Ivanescu" "Andrada" NA "unknown" NA
+"Andre Lucas" "Andre" NA "male" "0.9803"
+"Andrea Bergesio" "Andrea" NA "female" "0.0125"
+"Andrea Cerioli" "Andrea" NA "female" "0.0125"
+"Andrea Hennerfeind" "Andrea" NA "female" "0.0125"
+"Andrea Rotnitzky" "Andrea" NA "female" "0.0125"
+"Andreas Brezger" "Andreas" NA "male" "0.992"
+"Andreas Buja" "Andreas" NA "male" "0.992"
+"Andreas Futschik" "Andreas" NA "male" "0.992"
+"Andrei Y Yakovlev" "Andrei" NA "male" "1"
+"Andrej Pazman" "Andrej" NA "male" "1"
+"Andres Farall" "Andres" NA "male" "0.9936"
+"Andrew B Nobel" "Andrew" NA "male" "0.996"
+"Andrew Gelman" "Andrew" NA "male" "0.996"
+"Andrew J Patton" "Andrew" NA "male" "0.996"
+"Andrew L Rukhin" "Andrew" NA "male" "0.996"
+"Andrew M Stuart" "Andrew" NA "male" "0.996"
+"Andrew O Finley" "Andrew" NA "male" "0.996"
+"Andrew P Robinson" "Andrew" NA "male" "0.996"
+"Andrew R Barron" "Andrew" NA "male" "0.996"
+"Andrew S Allen" "Andrew" NA "male" "0.996"
+"Andrew T A Wood" "Andrew" NA "male" "0.996"
+"Andrew T Walden" "Andrew" NA "male" "0.996"
+"Andrew V Carter" "Andrew" NA "male" "0.996"
+"Andrew W Bergen" "Andrew" NA "male" "0.996"
+"Andrey Pepelyshev" "Andrey" NA "male" "0.9478"
+"Andriy Norets" "Andriy" NA "male" "1"
+"Andrzej S Kozek" "Andrzej" NA "male" "1"
+"Andy J Minn" "Andy" NA "male" "0.9881"
+"Anestis Antoniadis" "Anestis" NA "male" "1"
+"Angela Kempe" "Angela" NA "female" "0.003"
+"Angela M Dean" "Angela" NA "female" "0.003"
+"Angela Winnett" "Angela" NA "female" "0.003"
+"Angelika Rohde" "Angelika" NA "female" "0"
+"Aniko Szabo" "Aniko" NA "female" "0"
+"Anil Aswani" "Anil" NA "male" "1"
+"Anindya Bhadra" "Anindya" NA "unknown" NA
+"Anindya Roy" "Anindya" NA "unknown" NA
+"Anirban Bhattacharya" "Anirban" NA "unknown" NA
+"Ann B Lee" "Ann" NA "female" "0.0027"
+"Anna Clara Monti" "Anna" "Clara" "female" "0.0029"
+"Anna K Panorska" "Anna" NA "female" "0.0029"
+"Anna Maria Siega-Riz" "Anna" "Maria" "female" "0.0029"
+"Anne-Catherine Favre" "Anne-Catherine" NA "unknown" NA
+"Anne Gegout-Petit" "Anne" NA "female" "0.0025"
+"Annie Qu" "Annie" NA "female" "0.0053"
+"Anny Hui Xiang" "Anny" "Hui" "female" "0"
+"Anouar El Ghouch" "Anouar" "El" "male" "0.8996"
+"Antai Wang" "Antai" NA "unknown" NA
+"Anthony Brockwell" "Anthony" NA "male" "0.9946"
+"Anthony C Atkinson" "Anthony" NA "male" "0.9946"
+"Anthony C Hart" "Anthony" NA "male" "0.9946"
+"Anthony Garratt" "Anthony" NA "male" "0.9946"
+"Anthony OHagan" "Anthony" NA "male" "0.9946"
+"Anthony R Olsen" "Anthony" NA "male" "0.9946"
+"Anthony Reveillac" "Anthony" NA "male" "0.9946"
+"Anthony W Ledford" "Anthony" NA "male" "0.9946"
+"Anthony Y C Kuk" "Anthony" NA "male" "0.9946"
+"Antoine Chambaz" "Antoine" NA "male" "0.9847"
+"Anton Schick" "Anton" NA "male" "0.9985"
+"Antonella Capitanio" "Antonella" NA "female" "0"
+"Antonietta Mira" "Antonietta" NA "female" "0"
+"Antonio Canale" "Antonio" NA "male" "0.9914"
+"Antonio Cuevas" "Antonio" NA "male" "0.9914"
+"Antonio Forcina" "Antonio" NA "male" "0.9914"
+"Antonio Lijoi" "Antonio" NA "male" "0.9914"
+"Anuj Srivastava" "Anuj" NA "male" "1"
+"Ao Yuan" "Ao" NA "unknown" NA
+"Apostolos Serletis" "Apostolos" NA "male" "1"
+"Arash A Amini" "Arash" NA "male" "1"
+"Ardo van den Hout" "Ardo" "van" "male" "1"
+"Arijit Chakrabarti" "Arijit" NA "male" "1"
+"Arjun K Gupta" "Arjun" NA "male" "1"
+"Arkadi S Nemirovski" "Arkadi" NA "unknown" NA
+"Arkady B Khodursky" "Arkady" NA "male" "1"
+"Arleta Szkola" "Arleta" NA "female" "0"
+"Armelle Guillou" "Armelle" NA "female" "0"
+"Armin Schwartzman" "Armin" NA "male" "1"
+"Arnab Maity" "Arnab" NA "male" "1"
+"Arnak Dalalyan" "Arnak" NA "unknown" NA
+"Arnaud Doucet" "Arnaud" NA "male" "1"
+"Arnaud Durand" "Arnaud" NA "male" "1"
+"Arnaud Gloter" "Arnaud" NA "male" "1"
+"Arne Kovac" "Arne" NA "male" "1"
+"Arnold Janssen" "Arnold" NA "male" "0.9955"
+"Arnoldo Frigessi" "Arnoldo" NA "male" "1"
+"Arnost Komarek" "Arnost" NA "male" "1"
+"Arseni Seregin" "Arseni" NA "male" "1"
+"Art B Owen" "Art" NA "male" "1"
+"Arthur Cohen" "Arthur" NA "male" "0.9937"
+"Arthur L Dryver" "Arthur" NA "male" "0.9937"
+"Arthur Pewsey" "Arthur" NA "male" "0.9937"
+"Arthur Spirling" "Arthur" NA "male" "0.9937"
+"Arthur van Soest" "Arthur" "van" "male" "0.9937"
+"Arthur Yu Lu" "Arthur" "Yu" "male" "0.9937"
+"Arup Bose" "Arup" NA "male" "1"
+"Ashutosh Tewari" "Ashutosh" NA "male" "1"
+"Assaf Zeevi" "Assaf" NA "male" "1"
+"Athanasia Petsa" "Athanasia" NA "female" "0"
+"Athanasios C Micheas" "Athanasios" NA "male" "1"
+"Athanasios Kottas" "Athanasios" NA "male" "1"
+"Atsushi Inoue" "Atsushi" NA "male" "1"
+"Aurore Delaigle" "Aurore" NA "female" "0"
+"Avishai Mandelbaum" "Avishai" NA "male" "1"
+"Avital Cnaan" "Avital" NA "female" "0"
+"Axel Bucher" "Axel" NA "male" "0.9962"
+"Axel Gandy" "Axel" NA "male" "0.9962"
+"Axel Munk" "Axel" NA "male" "0.9962"
+"Azadeh Alimadad" "Azadeh" NA "female" "0"
+"Azeem M Shaikh" "Azeem" NA "male" "1"
+"B B Bhattacharyya" NA NA "unknown" NA
+"B Clarke" NA NA "unknown" NA
+"B Devlin" NA NA "unknown" NA
+"B J K Kleijn" NA NA "unknown" NA
+"B K Sinha" NA NA "unknown" NA
+"B L De Stavola" NA NA "unknown" NA
+"B M Brown" NA NA "unknown" NA
+"B Nebiyou Bekele" NA "Nebiyou" "unknown" NA
+"B Sigal" NA NA "unknown" NA
+"B T Knapik" NA NA "unknown" NA
+"Bahjat F Qaqish" "Bahjat" NA "unknown" NA
+"Baibing Li" "Baibing" NA "unknown" NA
+"Baiqi Miao" "Baiqi" NA "unknown" NA
+"Baisuo Jin" "Baisuo" NA "unknown" NA
+"Bakhodir Ergashev" "Bakhodir" NA "unknown" NA
+"Bala Rajaratnam" "Bala" NA "male" "0.5755"
+"Balgobin Nandram" "Balgobin" NA "unknown" NA
+"Bani Mallick" "Bani" NA "female" "0"
+"Baojiang Chen" "Baojiang" NA "unknown" NA
+"Barbara Bogacka" "Barbara" NA "female" "0.0027"
+"Barbara Klein" "Barbara" NA "female" "0.0027"
+"Barbara Szyszkowicz" "Barbara" NA "female" "0.0027"
+"Barry C Arnold" "Barry" NA "male" "0.9955"
+"Barry Falk" "Barry" NA "male" "0.9955"
+"Barry I Graubard" "Barry" NA "male" "0.9955"
+"Barry M Lesht" "Barry" NA "male" "0.9955"
+"Barry Rowlingson" "Barry" NA "male" "0.9955"
+"Bas J M Werker" "Bas" NA "female" "0"
+"Beatrice Giglio" "Beatrice" NA "female" "0.0034"
+"Beatrice Laurent" "Beatrice" NA "female" "0.0034"
+"Beatrix Jones" "Beatrix" NA "female" "0"
+"Beatriz Larraz" "Beatriz" NA "female" "0.0032"
+"Beatriz V M Mendes" "Beatriz" NA "female" "0.0032"
+"Bee Leng Lee" "Bee" "Leng" "male" "0.7386"
+"Belkacem Abdous" "Belkacem" NA "unknown" NA
+"Ben B Hansen" "Ben" NA "male" "0.996"
+"Ben Calderhead" "Ben" NA "male" "0.996"
+"Ben Haaland" "Ben" NA "male" "0.996"
+"Benedikt M Potscher" "Benedikt" NA "male" "1"
+"Benjamin Williams" "Benjamin" NA "male" "0.9962"
+"Benjamin Yakir" "Benjamin" NA "male" "0.9962"
+"Benoit Cadre" "Benoit" NA "male" "1"
+"Benoit R Masse" "Benoit" NA "male" "1"
+"Bent Jorgensen" "Bent" NA "male" "0.9948"
+"Bent Nielsen" "Bent" NA "male" "0.9948"
+"Bernard Bercu" "Bernard" NA "male" "0.995"
+"Bernard Harris" "Bernard" NA "male" "0.995"
+"Bernard W Silverman" "Bernard" NA "male" "0.995"
+"Bernardo Colombo" "Bernardo" NA "male" "1"
+"Bernd Fitzenberger" "Bernd" NA "male" "1"
+"Bernd Sturmfels" "Bernd" NA "male" "1"
+"Bernhard Scholkopf" "Bernhard" NA "male" "1"
+"Bertrand Melenberg" "Bertrand" NA "male" "1"
+"Bess Marcus" "Bess" NA "female" "0"
+"Beth Andrews" "Beth" NA "female" "0.002"
+"Beth Ann Griffin" "Beth" "Ann" "female" "0.002"
+"Bhaskar Bhattacharya" "Bhaskar" NA "unknown" NA
+"Bhramar Mukherjee" "Bhramar" NA "unknown" NA
+"Biao Zhang" "Biao" NA "unknown" NA
+"Bichun Ouyang" "Bichun" NA "unknown" NA
+"Billy Amzal" "Billy" NA "male" "0.9881"
+"Bin Nan" "Bin" NA "male" "1"
+"Bin Yu" "Bin" NA "male" "1"
+"Bin Zhu" "Bin" NA "male" "1"
+"Bing-Yi Jing" "Bing-Yi" NA "unknown" NA
+"Bing Li" "Bing" NA "male" "1"
+"Birgit I Witte" "Birgit" NA "female" "0"
+"Bitao Liu" "Bitao" NA "unknown" NA
+"Bo Cai" "Bo" NA "male" "0.9348"
+"Bo Henry Lindqvist" "Bo" "Henry" "male" "0.9348"
+"Bo Kai" "Bo" NA "male" "0.9348"
+"Bo Li" "Bo" NA "male" "0.9348"
+"Bo Yang" "Bo" NA "male" "0.9348"
+"Boaz Nadler" "Boaz" NA "male" "1"
+"Bob Zhong" "Bob" NA "male" "0.9969"
+"Bodhisattva Sen" "Bodhisattva" NA "unknown" NA
+"Bonifacio Salvador" "Bonifacio" NA "male" "1"
+"Bonnie Ghosh-Dastidar" "Bonnie" NA "female" "0.008"
+"Boris Buchmann" "Boris" NA "male" "1"
+"Boris Iglewicz" "Boris" NA "male" "1"
+"Borus Jungbacker" "Borus" NA "unknown" NA
+"Bowei Xi" "Bowei" NA "unknown" NA
+"Boxin Tang" "Boxin" NA "unknown" NA
+"Brad McNeney" "Brad" NA "male" "0.997"
+"Bradley Efron" "Bradley" NA "male" "0.9953"
+"Bradley Jones" "Bradley" NA "male" "0.9953"
+"Bradley P Carlin" "Bradley" NA "male" "0.9953"
+"Bradley S Peterson" "Bradley" NA "male" "0.9953"
+"Brendan P M McCabe" "Brendan" NA "male" "0.996"
+"Brent A Coull" "Brent" NA "male" "0.9956"
+"Brent A Johnson" "Brent" NA "male" "0.9956"
+"Brent Kreider" "Brent" NA "male" "0.9956"
+"Brent R Logan" "Brent" NA "male" "0.9956"
+"Bret Hanlon" "Bret" NA "male" "0.9917"
+"Brett Presnell" "Brett" NA "male" "0.9786"
+"Brian D M Tom" "Brian" NA "male" "0.9958"
+"Brian D Ripley" "Brian" NA "male" "0.9958"
+"Brian H Aukema" "Brian" NA "male" "0.9958"
+"Brian H Reck" "Brian" NA "male" "0.9958"
+"Brian J Reich" "Brian" NA "male" "0.9958"
+"Brian S Caffo" "Brian" NA "male" "0.9958"
+"Brian S Yandell" "Brian" NA "male" "0.9958"
+"Brian Williams" "Brian" NA "male" "0.9958"
+"Brisa N Sanchez" "Brisa" NA "female" "0"
+"Bruce E Hansen" "Bruce" NA "male" "0.9965"
+"Bruce G Lindsay" "Bruce" NA "male" "0.9965"
+"Bruce W Turnbull" "Bruce" NA "male" "0.9965"
+"Brunero Liseo" "Brunero" NA "unknown" NA
+"Bruno Remillard" "Bruno" NA "male" "1"
+"Bruno Sanso" "Bruno" NA "male" "1"
+"Bryan E Shepherd" "Bryan" NA "male" "0.9951"
+"Bryan Langholz" "Bryan" NA "male" "0.9951"
+"Burkhardt Seifert" "Burkhardt" NA "male" "1"
+"Byeong U Park" "Byeong" NA "unknown" NA
+"Byron Ellis" "Byron" NA "male" "0.9958"
+"Byron J T Morgan" "Byron" NA "male" "0.9958"
+"Byron Schmuland" "Byron" NA "male" "0.9958"
+"C A Field" NA NA "unknown" NA
+"C C Tan" NA NA "unknown" NA
+"C D Barr" NA NA "unknown" NA
+"C Devon Lin" NA "Devon" "unknown" NA
+"C F Jeff Wu" NA NA "unknown" NA
+"C F Sirmans" NA NA "unknown" NA
+"C G Wager" NA NA "unknown" NA
+"C Goga" NA NA "unknown" NA
+"C H Sim" NA NA "unknown" NA
+"C Hendricks Brown" NA "Hendricks" "unknown" NA
+"C Houdre" NA NA "unknown" NA
+"C J Brien" NA NA "unknown" NA
+"C J Wild" NA NA "unknown" NA
+"C Kiss" NA NA "unknown" NA
+"C Lacour" NA NA "unknown" NA
+"C Levy-Leduc" NA NA "unknown" NA
+"C M Jack Wang" NA NA "unknown" NA
+"C Messan Setodji" NA "Messan" "unknown" NA
+"C N Kuruwita" NA NA "unknown" NA
+"C Paddy Farrington" NA "Paddy" "unknown" NA
+"C S Wong" NA NA "unknown" NA
+"C Semadeni" NA NA "unknown" NA
+"C Shane Reese" NA "Shane" "unknown" NA
+"C Thomas Agnan" NA "Thomas" "unknown" NA
+"C Tommasi" NA NA "unknown" NA
+"C Wang" NA NA "unknown" NA
+"C Y Wang" NA NA "unknown" NA
+"C Yau" NA NA "unknown" NA
+"Camelia S Sima" "Camelia" NA "female" "0"
+"Cari G Kaufman" "Cari" NA "female" "0.0042"
+"Carlo Gaetan" "Carlo" NA "male" "0.9923"
+"Carlos Acuna" "Carlos" NA "male" "0.9922"
+"Carlos Almeida" "Carlos" NA "male" "0.9922"
+"Carlos E Pedreira" "Carlos" NA "male" "0.9922"
+"Carlos M Carvalho" "Carlos" NA "male" "0.9922"
+"Carlos Matran" "Carlos" NA "male" "0.9922"
+"Carlos Vallarino" "Carlos" NA "male" "0.9922"
+"Carlos Velasco" "Carlos" NA "male" "0.9922"
+"Carmen Cadarso-Suarez" "Carmen" NA "female" "0.0812"
+"Carmen Fernandez" "Carmen" NA "female" "0.0812"
+"Caroline Beunckens" "Caroline" NA "female" "0.0015"
+"Carolyn M Rutter" "Carolyn" NA "female" "0.0028"
+"Carsten H Botts" "Carsten" NA "male" "1"
+"Caspar M Ammann" "Caspar" NA "male" "1"
+"Casper J Albers" "Casper" NA "male" "1"
+"Cassandra Arroyo" "Cassandra" NA "female" "0.0022"
+"Caterina May" "Caterina" NA "female" "0"
+"Catherine A Calder" "Catherine" NA "female" "0.0027"
+"Catherine A Sugar" "Catherine" NA "female" "0.0027"
+"Catherine Datto" "Catherine" NA "female" "0.0027"
+"Catherine Loader" "Catherine" NA "female" "0.0027"
+"Catherine Matias" "Catherine" NA "female" "0.0027"
+"Catherine Schairer" "Catherine" NA "female" "0.0027"
+"Catherine Vermandele" "Catherine" NA "female" "0.0027"
+"Catia Scricciolo" "Catia" NA "female" "0"
+"Catriona M Queen" "Catriona" NA "female" "0"
+"Cavan Reilly" "Cavan" NA "male" "1"
+"Cecile Durot" "Cecile" NA "female" "0.0079"
+"Cecile Hardouin" "Cecile" NA "female" "0.0079"
+"Celia Byrne" "Celia" NA "female" "0.0012"
+"Celine Vial" "Celine" NA "female" "0"
+"Chad J Gwaltney" "Chad" NA "male" "0.9954"
+"Chad M Schafer" "Chad" NA "male" "0.9954"
+"Chandan Saha" "Chandan" NA "male" "1"
+"Chang-Yung Yu" "Chang-Yung" NA "unknown" NA
+"Chang Xuan Mao" "Chang" "Xuan" "male" "0.983"
+"Changbao Wu" "Changbao" NA "unknown" NA
+"Changchun Wang" "Changchun" NA "unknown" NA
+"Changliang Zou" "Changliang" NA "unknown" NA
+"Chao Yang" "Chao" NA "male" "0.8816"
+"Charles C Taylor" "Charles" NA "male" "0.9949"
+"Charles E McCulloch" "Charles" NA "male" "0.9949"
+"Charles H Hennekens" "Charles" NA "male" "0.9949"
+"Charles J Geyer" "Charles" NA "male" "0.9949"
+"Charles R G Guttmann" "Charles" NA "male" "0.9949"
+"Chen-Pin Wang" "Chen-Pin" NA "unknown" NA
+"Chen-Sheng Lin" "Chen-Sheng" NA "unknown" NA
+"Cheng-Der Fuh" "Cheng-Der" NA "unknown" NA
+"Cheng Yong Tang" "Cheng" "Yong" "male" "0.9371"
+"Cheng Zhu" "Cheng" NA "male" "0.9371"
+"Chengcheng Hu" "Chengcheng" NA "unknown" NA
+"Chenlei Leng" "Chenlei" NA "unknown" NA
+"Cheolwoo Park" "Cheolwoo" NA "unknown" NA
+"Chi-Lun Cheng" "Chi-Lun" NA "unknown" NA
+"Chia-Hung Yen" "Chia-Hung" NA "unknown" NA
+"Chiara Sabatti" "Chiara" NA "female" "0"
+"Chien-Jen Chen" "Chien-Jen" NA "unknown" NA
+"Chien-Tai Lin" "Chien-Tai" NA "unknown" NA
+"Chih-Ling Tsai" "Chih-Ling" NA "unknown" NA
+"Chin-Hsu Lin" "Chin-Hsu" NA "unknown" NA
+"Ching-Kang Ing" "Ching-Kang" NA "unknown" NA
+"Ching-Shui Cheng" "Ching-Shui" NA "unknown" NA
+"Ching-Ti Liu" "Ching-Ti" NA "unknown" NA
+"Ching-Zong Wei" "Ching-Zong" NA "unknown" NA
+"Chiung-Yu Huang" "Chiung-Yu" NA "unknown" NA
+"Chloe Friguet" "Chloe" NA "female" "0.0016"
+"Chong-Zhi Di" "Chong-Zhi" NA "unknown" NA
+"Chong Gu" "Chong" NA "male" "0.578"
+"Chong Tu" "Chong" NA "male" "0.578"
+"Chris A J Klaasen" "Chris" NA "male" "0.8507"
+"Chris C Holmes" "Chris" NA "male" "0.8507"
+"Chris Daly" "Chris" NA "male" "0.8507"
+"Chris Hans" "Chris" NA "male" "0.8507"
+"Chris Muris" "Chris" NA "male" "0.8507"
+"Chris Sherlock" "Chris" NA "male" "0.8507"
+"Chris Skinner" "Chris" NA "male" "0.8507"
+"Christel Faes" "Christel" NA "female" "0"
+"Christian Bressen Pipper" "Christian" "Bressen" "male" "0.9491"
+"Christian Francq" "Christian" NA "male" "0.9491"
+"Christian Genest" "Christian" NA "male" "0.9491"
+"Christian Hafner" "Christian" NA "male" "0.9491"
+"Christian Hennig" "Christian" NA "male" "0.9491"
+"Christian P Robert" "Christian" NA "male" "0.9491"
+"Christian Peter Klingenberg" "Christian" "Peter" "male" "0.9491"
+"Christian Ritz" "Christian" NA "male" "0.9491"
+"Christian Schmidt" "Christian" NA "male" "0.9491"
+"Christiana Kartsonaki" "Christiana" NA "female" "0"
+"Christina Kendziorski" "Christina" NA "female" "0.004"
+"Christine G Elsik" "Christine" NA "female" "0.0032"
+"Christine H Muller" "Christine" NA "female" "0.0032"
+"Christine Jacob" "Christine" NA "female" "0.0032"
+"Christine S Olver" "Christine" NA "female" "0.0032"
+"Christoph Rothe" "Christoph" NA "male" "1"
+"Christophe Abraham" "Christophe" NA "male" "1"
+"Christophe Ambroise" "Christophe" NA "male" "1"
+"Christophe Andrieu" "Christophe" NA "male" "1"
+"Christophe Crambes" "Christophe" NA "male" "1"
+"Christophe Giraud" "Christophe" NA "male" "1"
+"Christophe Ladroue" "Christophe" NA "male" "1"
+"Christopher A Bush" "Christopher" NA "male" "0.995"
+"Christopher A Carolan" "Christopher" NA "male" "0.995"
+"Christopher A T Ferro" "Christopher" NA "male" "0.995"
+"Christopher B Forrest" "Christopher" NA "male" "0.995"
+"Christopher G Small" "Christopher" NA "male" "0.995"
+"Christopher Genovese" "Christopher" NA "male" "0.995"
+"Christopher H Holloman" "Christopher" NA "male" "0.995"
+"Christopher J Nachtsheim" "Christopher" NA "male" "0.995"
+"Christopher J Paciorek" "Christopher" NA "male" "0.995"
+"Christopher Jennison" "Christopher" NA "male" "0.995"
+"Christopher K Carter" "Christopher" NA "male" "0.995"
+"Christopher K Wikle" "Christopher" NA "male" "0.995"
+"Christopher L Sanders" "Christopher" NA "male" "0.995"
+"Christopher M Quale" "Christopher" NA "male" "0.995"
+"Christopher Ma" "Christopher" NA "male" "0.995"
+"Christopher Meek" "Christopher" NA "male" "0.995"
+"Christopher Morrell" "Christopher" NA "male" "0.995"
+"Christopher R Bilder" "Christopher" NA "male" "0.995"
+"Christopher R Gjestvang" "Christopher" NA "male" "0.995"
+"Christopher Woods" "Christopher" NA "male" "0.995"
+"Chu-In Charles Lee" "Chu-In" "Charles" "male" "0.9949"
+"Chuan Ju" "Chuan" NA "unknown" NA
+"Chuanhai Liu" "Chuanhai" NA "unknown" NA
+"Chuanhua Xing" "Chuanhua" NA "unknown" NA
+"Chun-Lung Su" "Chun-Lung" NA "unknown" NA
+"Chun-Shu Chen" "Chun-Shu" NA "unknown" NA
+"Chun Li" "Chun" NA "male" "0.8078"
+"Chunfang Jin" "Chunfang" NA "unknown" NA
+"Chunfeng Huang" "Chunfeng" NA "unknown" NA
+"Chung-Ming Kuan" "Chung-Ming" NA "unknown" NA
+"Chunjie Wu" "Chunjie" NA "unknown" NA
+"Chunlei Ke" "Chunlei" NA "unknown" NA
+"Chunling Liu" "Chunling" NA "unknown" NA
+"Chunming Zhang" "Chunming" NA "unknown" NA
+"Ci-Ren Jiang" "Ci-Ren" NA "unknown" NA
+"Cindy Long Yu" "Cindy" "Long" "female" "0.0028"
+"Cinzia Carota" "Cinzia" NA "female" "0"
+"Ciprian A Tudor" "Ciprian" NA "male" "1"
+"Ciprian M Crainiceanu" "Ciprian" NA "male" "1"
+"Claire E Pothier" "Claire" NA "female" "0.0061"
+"Claire Tomlin" "Claire" NA "female" "0.0061"
+"Claudia Czado" "Claudia" NA "female" "0.0051"
+"Claudia Kirch" "Claudia" NA "female" "0.0051"
+"Claudia Kluppelberg" "Claudia" NA "female" "0.0051"
+"Claudia R Sahm" "Claudia" NA "female" "0.0051"
+"Claudia Tarantola" "Claudia" NA "female" "0.0051"
+"Claudia Tebaldi" "Claudia" NA "female" "0.0051"
+"Clayton Scott" "Clayton" NA "male" "0.9957"
+"Clifford Lam" "Clifford" NA "male" "0.9931"
+"Clifford M Hurvich" "Clifford" NA "male" "0.9931"
+"Clint Scovel" "Clint" NA "male" "0.9981"
+"Clive G Bowsher" "Clive" NA "male" "1"
+"Colin Hall" "Colin" NA "male" "0.996"
+"Colin M Beale" "Colin" NA "male" "0.996"
+"Colin M Gallagher" "Colin" NA "male" "0.996"
+"Conor Lawless" "Conor" NA "male" "0.9961"
+"Constantine E Frangakis" "Constantine" NA "male" "0.9942"
+"Cosma Rohilla Shalizi" "Cosma" "Rohilla" "male" "0.7318"
+"Craig J Johns" "Craig" NA "male" "0.9964"
+"Craig W Hendrix" "Craig" NA "male" "0.9964"
+"Cristiano Varin" "Cristiano" NA "male" "1"
+"Cristina Butucea" "Cristina" NA "female" "0.0051"
+"Cristina Rueda" "Cristina" NA "female" "0.0051"
+"Cristina Sotto" "Cristina" NA "female" "0.0051"
+"Crystal J Scott" "Crystal" NA "female" "0.0034"
+"Cun-Hui Zhang" "Cun-Hui" NA "unknown" NA
+"Curtis Tatsuoka" "Curtis" NA "male" "0.9922"
+"Cynthia Rudin" "Cynthia" NA "female" "0.0026"
+"Cyr Emile MLan" "Cyr" "Emile" "male" "0.6542"
+"Cyrus Mehta" "Cyrus" NA "male" "1"
+"D A S Fraser" NA NA "unknown" NA
+"D Azriel" NA NA "unknown" NA
+"D C Woods" NA NA "unknown" NA
+"D Campbell" NA NA "unknown" NA
+"D Chauveau" NA NA "unknown" NA
+"D F Signorini" NA NA "unknown" NA
+"D Haziza" NA NA "unknown" NA
+"D J Fletcher" NA NA "unknown" NA
+"D Kuang" NA NA "unknown" NA
+"D M Farewell" NA NA "unknown" NA
+"D M Titterington" NA NA "unknown" NA
+"D Magirr" NA NA "unknown" NA
+"D Mastropietro" NA NA "unknown" NA
+"D Mikis Stasinopoulos" NA "Mikis" "unknown" NA
+"D Nicolae" NA NA "unknown" NA
+"D P Kroese" NA NA "unknown" NA
+"D Pati" NA NA "unknown" NA
+"D R Cox" NA NA "unknown" NA
+"D S Choi" NA NA "unknown" NA
+"D Sadykova" NA NA "unknown" NA
+"D V Hinkley" NA NA "unknown" NA
+"D Vogel" NA NA "unknown" NA
+"D Walsh" NA NA "unknown" NA
+"Dabao Zhang" "Dabao" NA "unknown" NA
+"Dacheng Xiu" "Dacheng" NA "unknown" NA
+"Dag Johan Steinskog" "Dag" "Johan" "male" "1"
+"Dag Tjostheim" "Dag" NA "male" "1"
+"Dai Feng" "Dai" NA "male" "0.629"
+"Dale L Zimmerman" "Dale" NA "male" "0.9175"
+"Dalho Kim" "Dalho" NA "unknown" NA
+"Damaraju Raghavarao" "Damaraju" NA "unknown" NA
+"Damla Senturk" "Damla" NA "female" "0"
+"Dan Black" "Dan" NA "male" "0.9954"
+"Dan Cornford" "Dan" NA "male" "0.9954"
+"Dan Geiger" "Dan" NA "male" "0.9954"
+"Dan J Spitzner" "Dan" NA "male" "0.9954"
+"Dan Nettleton" "Dan" NA "male" "0.9954"
+"Dan Yu Lin" "Dan" "Yu" "male" "0.9954"
+"Dandan Jiang" "Dandan" NA "unknown" NA
+"Dandan Liu" "Dandan" NA "unknown" NA
+"Daniel A Henderson" "Daniel" NA "male" "0.9954"
+"Daniel B Neill" "Daniel" NA "male" "0.9954"
+"Daniel B Rowe" "Daniel" NA "male" "0.9954"
+"Daniel Commenges" "Daniel" NA "male" "0.9954"
+"Daniel Cooley" "Daniel" NA "male" "0.9954"
+"Daniel E Ho" "Daniel" NA "male" "0.9954"
+"Daniel Egloff" "Daniel" NA "male" "0.9954"
+"Daniel Gervini" "Daniel" NA "male" "0.9954"
+"Daniel J Nordman" "Daniel" NA "male" "0.9954"
+"Daniel J Sargent" "Daniel" NA "male" "0.9954"
+"Daniel Krewski" "Daniel" NA "male" "0.9954"
+"Daniel Merl" "Daniel" NA "male" "0.9954"
+"Daniel Molefe" "Daniel" NA "male" "0.9954"
+"Daniel Pena" "Daniel" NA "male" "0.9954"
+"Daniel Q Naiman" "Daniel" NA "male" "0.9954"
+"Daniel Rabinowitz" "Daniel" NA "male" "0.9954"
+"Daniel Scharfstein" "Daniel" NA "male" "0.9954"
+"Daniel Straumann" "Daniel" NA "male" "0.9954"
+"Daniel Yekutieli" "Daniel" NA "male" "0.9954"
+"Daniel Zantedeschi" "Daniel" NA "male" "0.9954"
+"Daniela M Witten" "Daniela" NA "female" "0.003"
+"Daniell Toth" "Daniell" NA "female" "0.2639"
+"Danilo Mercurio" "Danilo" NA "male" "1"
+"Dankmar Bohning" "Dankmar" NA "unknown" NA
+"Danny Pfeffermann" "Danny" NA "male" "0.9944"
+"Dariusz Ucinski" "Dariusz" NA "male" "1"
+"Darren J Wilkinson" "Darren" NA "male" "0.994"
+"Dave Higdon" "Dave" NA "male" "0.9985"
+"David A Harville" "David" NA "male" "0.9963"
+"David A Stephens" "David" NA "male" "0.9963"
+"David A van Dyk" "David" NA "male" "0.9963"
+"David B Dahl" "David" NA "male" "0.9963"
+"David B Hitchcock" "David" NA "male" "0.9963"
+"David B Matchar" "David" NA "male" "0.9963"
+"David B Wolfson" "David" NA "male" "0.9963"
+"David Banks" "David" NA "male" "0.9963"
+"David Bo Shen" "David" "Bo" "male" "0.9963"
+"David Caplan" "David" NA "male" "0.9963"
+"David Causeur" "David" NA "male" "0.9963"
+"David Cavallini" "David" NA "male" "0.9963"
+"David Chan" "David" NA "male" "0.9963"
+"David Clayton" "David" NA "male" "0.9963"
+"David Conne" "David" NA "male" "0.9963"
+"David Daniel Smith" "David" "Daniel" "male" "0.9963"
+"David Draper" "David" NA "male" "0.9963"
+"David Dunson" "David" NA "male" "0.9963"
+"David E Tyler" "David" NA "male" "0.9963"
+"David F Layton" "David" NA "male" "0.9963"
+"David Faraggi" "David" NA "male" "0.9963"
+"David Firth" "David" NA "male" "0.9963"
+"David Harris" "David" NA "male" "0.9963"
+"David I Warton" "David" NA "male" "0.9963"
+"David J Evans" "David" NA "male" "0.9963"
+"David J Nott" "David" NA "male" "0.9963"
+"David J Schwab" "David" NA "male" "0.9963"
+"David Kraus" "David" NA "male" "0.9963"
+"David L Donoho" "David" NA "male" "0.9963"
+"David Lusseau" "David" NA "male" "0.9963"
+"David M Blei" "David" NA "male" "0.9963"
+"David M Higdon" "David" NA "male" "0.9963"
+"David M Holland" "David" NA "male" "0.9963"
+"David M Kaziska" "David" NA "male" "0.9963"
+"David M Mankoff" "David" NA "male" "0.9963"
+"David M Mason" "David" NA "male" "0.9963"
+"David M Ruth" "David" NA "male" "0.9963"
+"David M Steinberg" "David" NA "male" "0.9963"
+"David M Zucker" "David" NA "male" "0.9963"
+"David Neil Hayes" "David" "Neil" "male" "0.9963"
+"David Oakes" "David" NA "male" "0.9963"
+"David Papp" "David" NA "male" "0.9963"
+"David Pollard" "David" NA "male" "0.9963"
+"David R Hunter" "David" NA "male" "0.9963"
+"David Rossell" "David" NA "male" "0.9963"
+"David Ruppert" "David" NA "male" "0.9963"
+"David S Matteson" "David" NA "male" "0.9963"
+"David S Stoffer" "David" NA "male" "0.9963"
+"David Siegmund" "David" NA "male" "0.9963"
+"David Sparrow" "David" NA "male" "0.9963"
+"David Spiegelhalter" "David" NA "male" "0.9963"
+"David T Jacho-Chavez" "David" NA "male" "0.9963"
+"David V Glidden" "David" NA "male" "0.9963"
+"David Vlahov" "David" NA "male" "0.9963"
+"David W MacFarlane" "David" NA "male" "0.9963"
+"David Wyncoll" "David" NA "male" "0.9963"
+"David Y Pee" "David" NA "male" "0.9963"
+"Davide Ferrari" "Davide" NA "male" "1"
+"Davide La Vecchia" "Davide" "La" "male" "1"
+"Davy Paindaveine" "Davy" NA "male" "0.9529"
+"Dawei Xie" "Dawei" NA "male" "1"
+"Dawit Zerom" "Dawit" NA "male" "1"
+"Dawn B Woodard" "Dawn" NA "female" "0.0033"
+"Dean A Follmann" "Dean" NA "male" "0.9875"
+"Dean P Foster" "Dean" NA "male" "0.9875"
+"Debajyoti Sinha" "Debajyoti" NA "unknown" NA
+"Debashis Ghosh" "Debashis" NA "unknown" NA
+"Debashis Mondal" "Debashis" NA "unknown" NA
+"Debashis Paul" "Debashis" NA "unknown" NA
+"Debbie J Dupuis" "Debbie" NA "female" "0.0022"
+"Debopam Bhattacharya" "Debopam" NA "unknown" NA
+"Deborah Burr" "Deborah" NA "female" "0.0021"
+"Dechang Chen" "Dechang" NA "unknown" NA
+"Dejun Tang" "Dejun" NA "male" "1"
+"Deli Wang" "Deli" NA "female" "0.2121"
+"Denis Belomestny" "Denis" NA "male" "0.9556"
+"Denis Heng-Yan Leung" "Denis" "Heng-Yan" "male" "0.9556"
+"Denis Larocque" "Denis" NA "male" "0.9556"
+"Denise Babineau" "Denise" NA "female" "0.0035"
+"Dennis Cook" "Dennis" NA "male" "0.9956"
+"Dennis D Boos" "Dennis" NA "male" "0.9956"
+"Dennis D Cox" "Dennis" NA "male" "0.9956"
+"Dennis K J Lin" "Dennis" NA "male" "0.9956"
+"Dennis Prangle" "Dennis" NA "male" "0.9956"
+"Dennis Young" "Dennis" NA "male" "0.9956"
+"Derek A T Cummings" "Derek" NA "male" "0.9956"
+"Derek Bingham" "Derek" NA "male" "0.9956"
+"Desislava Nedyalkova" "Desislava" NA "unknown" NA
+"Despina Vasileiou" "Despina" NA "female" "0"
+"Deyuan Li" "Deyuan" NA "unknown" NA
+"Diana J Cole" "Diana" NA "female" "0.0035"
+"Diana L Miglioretti" "Diana" NA "female" "0.0035"
+"Diana M Sima" "Diana" NA "female" "0.0035"
+"Diane Lambert" "Diane" NA "female" "0.0025"
+"Diane M Makuc" "Diane" NA "female" "0.0025"
+"Dibyen Majumdar" "Dibyen" NA "unknown" NA
+"Didier Concordet" "Didier" NA "male" "1"
+"Didier Guillemot" "Didier" NA "male" "1"
+"Dietrich Braess" "Dietrich" NA "male" "0.9062"
+"Dimitris Fouskakis" "Dimitris" NA "male" "1"
+"Dimitris N Politis" "Dimitris" NA "male" "1"
+"Dimitris Rizopoulos" "Dimitris" NA "male" "1"
+"Dinah Rosenberg" "Dinah" NA "female" "0"
+"Dinggang Shen" "Dinggang" NA "unknown" NA
+"Dinis Pestana" "Dinis" NA "male" "1"
+"Dipak K Dey" "Dipak" NA "male" "1"
+"Dixin Zhang" "Dixin" NA "unknown" NA
+"Djalil Chafai" "Djalil" NA "unknown" NA
+"Dmitry Beletsky" "Dmitry" NA "male" "1"
+"Dmitry Panchenko" "Dmitry" NA "male" "1"
+"Do-Hwan Park" "Do-Hwan" NA "unknown" NA
+"Dobrin Marchev" "Dobrin" NA "unknown" NA
+"Domenico Marinucci" "Domenico" NA "male" "1"
+"Dominic Dillane" "Dominic" NA "male" "0.9907"
+"Dominic Schuhmacher" "Dominic" NA "male" "0.9907"
+"Dominique Bontemps" "Dominique" NA "female" "0.2884"
+"Dominique Chouaniere" "Dominique" NA "female" "0.2884"
+"Dominique Picard" "Dominique" NA "female" "0.2884"
+"Don Alderson" "Don" NA "male" "0.9937"
+"Don L Stevens Jr" "Don" NA "male" "0.9937"
+"Donald A Berry" "Donald" NA "male" "0.9961"
+"Donald A Pierce" "Donald" NA "male" "0.9961"
+"Donald B Rubin" "Donald" NA "male" "0.9961"
+"Donald Geman" "Donald" NA "male" "0.9961"
+"Donald S Burke" "Donald" NA "male" "0.9961"
+"Donatello Telesca" "Donatello" NA "male" "1"
+"Dong Chen" "Dong" NA "male" "1"
+"Dong Han" "Dong" NA "male" "1"
+"Dong Li" "Dong" NA "male" "1"
+"Dong Wang" "Dong" NA "male" "1"
+"Dongchu Sun" "Dongchu" NA "unknown" NA
+"Donghoh Kim" "Donghoh" NA "unknown" NA
+"Dongjun Chung" "Dongjun" NA "unknown" NA
+"Donglin Zeng" "Donglin" NA "unknown" NA
+"Dongsheng Tu" "Dongsheng" NA "unknown" NA
+"Dongyu Lin" "Dongyu" NA "unknown" NA
+"Donna Neuberg" "Donna" NA "female" "0.0025"
+"Donna P Ankerst" "Donna" NA "female" "0.0025"
+"Dorin Drignei" "Dorin" NA "male" "0.862"
+"Doug Nychka" "Doug" NA "male" "0.9998"
+"Douglas E Schaubel" "Douglas" NA "male" "0.9965"
+"Douglas G Simpson" "Douglas" NA "male" "0.9965"
+"Douglas N Midthune" "Douglas" NA "male" "0.9965"
+"Douglas P Wiens" "Douglas" NA "male" "0.9965"
+"Douglas W Nychka" "Douglas" NA "male" "0.9965"
+"Dragi Anevski" "Dragi" NA "unknown" NA
+"Duchwan Ryu" "Duchwan" NA "unknown" NA
+"Duncan K H Fong" "Duncan" NA "male" "0.9996"
+"Dung-Tsa Chen" "Dung-Tsa" NA "unknown" NA
+"Dursun A Bulutoglu" "Dursun" NA "unknown" NA
+"Dylan S Small" "Dylan" NA "male" "0.9738"
+"E A Catchpole" NA NA "unknown" NA
+"E Andres Houseman" NA "Andres" "unknown" NA
+"E Benhin" NA NA "unknown" NA
+"E Diday" NA NA "unknown" NA
+"E Ferreira" NA NA "unknown" NA
+"E L Lehmann" NA NA "unknown" NA
+"E M Airoldi" NA NA "unknown" NA
+"E Marras" NA NA "unknown" NA
+"E Moulines" NA NA "unknown" NA
+"E R Williams" NA NA "unknown" NA
+"E S Venkatraman" NA NA "unknown" NA
+"E Saksman" NA NA "unknown" NA
+"Earl Lawrence" "Earl" NA "male" "0.9927"
+"Edgar Kublin" "Edgar" NA "male" "0.9952"
+"Edsel A Pena" "Edsel" NA "male" "1"
+"Eduard Belitser" "Eduard" NA "male" "1"
+"Edward H Ip" "Edward" NA "male" "0.9957"
+"Edward I George" "Edward" NA "male" "0.9957"
+"Edward J Stanek III" "Edward" NA "male" "0.9957"
+"Edward L Ionides" "Edward" NA "male" "0.9957"
+"Edward L Korn" "Edward" NA "male" "0.9957"
+"Edward R B McCabe" "Edward" NA "male" "0.9957"
+"Edward W Frees" "Edward" NA "male" "0.9957"
+"Edwin S Iversen Jr" "Edwin" NA "male" "0.9949"
+"Efang Kong" "Efang" NA "unknown" NA
+"Efi S Antoniou" "Efi" NA "male" "0.9524"
+"Efstathios Paparoditis" "Efstathios" NA "male" "1"
+"Efthymios G Tsionas" "Efthymios" NA "unknown" NA
+"Egil Ferkingstad" "Egil" NA "male" "0.9505"
+"Ehab F Abd-Elfattah" "Ehab" NA "male" "1"
+"Eilon Solan" "Eilon" NA "unknown" NA
+"Einar Andreas Rodland" "Einar" "Andreas" "male" "1"
+"Eiran Z Gorodeski" "Eiran" NA "unknown" NA
+"Eitan Greenshtein" "Eitan" NA "male" "1"
+"Elaine Zanutto" "Elaine" NA "female" "0.0024"
+"Elena Kulinskaya" "Elena" NA "female" "0.0016"
+"Elena Stanghellini" "Elena" NA "female" "0.0016"
+"Elias Moreno" "Elias" NA "male" "0.997"
+"Elinor Ytterstad" "Elinor" NA "female" "0"
+"Elizabeth A Stuart" "Elizabeth" NA "female" "0.0031"
+"Elizabeth A Thompson" "Elizabeth" NA "female" "0.0031"
+"Elizabeth H Slate" "Elizabeth" NA "female" "0.0031"
+"Elizabeth S Allman" "Elizabeth" NA "female" "0.0031"
+"Elizaveta Levina" "Elizaveta" NA "female" "0"
+"Ellen J MacKenzie" "Ellen" NA "female" "0.0026"
+"elodie Nedelec" "elodie" NA "female" "0"
+"Eloise E Kaizar" "Eloise" NA "female" "0.002"
+"Els Goetghebeur" "Els" NA "female" "0.1552"
+"Elvezio Ronchetti" "Elvezio" NA "male" "1"
+"Emiliano A Valdez" "Emiliano" NA "male" "1"
+"Emilio Porcu" "Emilio" NA "male" "0.998"
+"Emilio Seijo" "Emilio" NA "male" "0.998"
+"Emily C Martin" "Emily" NA "female" "0.0021"
+"Emily L Kang" "Emily" NA "female" "0.0021"
+"Emma F Eastoe" "Emma" NA "female" "0.0021"
+"Emma J McCoy" "Emma" NA "female" "0.0021"
+"Emmanuel Gobet" "Emmanuel" NA "male" "0.9943"
+"Emmanuel Guerre" "Emmanuel" NA "male" "0.9943"
+"Emmanuel J Candes" "Emmanuel" NA "male" "0.9943"
+"Emmanuel Lesaffre" "Emmanuel" NA "male" "0.9943"
+"Emmanuel Yashchin" "Emmanuel" NA "male" "0.9943"
+"Emmanuelle Varon" "Emmanuelle" NA "female" "0.2193"
+"Enno Mammen" "Enno" NA "male" "0.7848"
+"Enrique Castillo" "Enrique" NA "male" "0.9946"
+"Enrique Schisterman" "Enrique" NA "male" "0.9946"
+"Eric A Cator" "Eric" NA "male" "0.9947"
+"Eric Aldrich" "Eric" NA "male" "0.9947"
+"Eric B Laber" "Eric" NA "male" "0.9947"
+"Eric Bair" "Eric" NA "male" "0.9947"
+"Eric D Kolaczyk" "Eric" NA "male" "0.9947"
+"Eric J Feuer" "Eric" NA "male" "0.9947"
+"Eric J Tchetgen" "Eric" NA "male" "0.9947"
+"Eric Johnson" "Eric" NA "male" "0.9947"
+"eric Moulines" "eric" NA "male" "0.9947"
+"Eric Moulines" "Eric" NA "male" "0.9947"
+"Eric Parent" "Eric" NA "male" "0.9947"
+"Eric V Slud" "Eric" NA "male" "0.9947"
+"Erica E M Moodie" "Erica" NA "female" "0.0042"
+"Erika Antal" "Erika" NA "female" "0.0042"
+"Erin E Peterson" "Erin" NA "female" "0.0267"
+"Ery Arias-Castro" "Ery" NA "male" "1"
+"Esa Ollila" "Esa" NA "male" "0.7926"
+"Esben Budtz-Jorgensen" "Esben" NA "male" "1"
+"Estate V Khmaladze" "Estate" NA "female" "0"
+"Ethan B Anderes" "Ethan" NA "male" "0.9981"
+"Etienne Josserand" "Etienne" NA "male" "0.9325"
+"Etienne Roquain" "Etienne" NA "male" "0.9325"
+"Eugene E Clothiaux" "Eugene" NA "male" "0.9936"
+"Eugene H Blackstone" "Eugene" NA "male" "0.9936"
+"Eugenia Buta" "Eugenia" NA "female" "6e-04"
+"Eugenio Regazzini" "Eugenio" NA "male" "1"
+"Euijung Ryu" "Euijung" NA "unknown" NA
+"Eunsik Park" "Eunsik" NA "unknown" NA
+"Eustasio del Barrio" "Eustasio" "del" "male" "1"
+"Eva B Vedel Jensen" "Eva" NA "female" "0.0037"
+"Eva Petkova" "Eva" NA "female" "0.0037"
+"Evarist Gine" "Evarist" NA "male" "1"
+"F Ballani" NA NA "unknown" NA
+"F DuBois Bowman" NA "DuBois" "unknown" NA
+"F F Gan" NA NA "unknown" NA
+"F Ferraty" NA NA "unknown" NA
+"F Gosselin" NA NA "unknown" NA
+"F Javier Giron" NA "Javier" "unknown" NA
+"F Jay Breidt" NA "Jay" "unknown" NA
+"F Liu" NA NA "unknown" NA
+"F Maaouia" NA NA "unknown" NA
+"F Zhou" NA NA "unknown" NA
+"F Zoe Moodie" NA "Zoe" "unknown" NA
+"Fabienne Comte" "Fabienne" NA "female" "0"
+"Fabio Corradi" "Fabio" NA "male" "1"
+"Fabio Trojani" "Fabio" NA "male" "1"
+"Fabrizia Mealli" "Fabrizia" NA "unknown" NA
+"Fadoua Balabdaoui" "Fadoua" NA "unknown" NA
+"Faming Liang" "Faming" NA "unknown" NA
+"Fan Li" "Fan" NA "female" "0"
+"Fang Fang" "Fang" NA "male" "0.7806"
+"Fang Yao" "Fang" NA "male" "0.7806"
+"Fanny Villers" "Fanny" NA "female" "0"
+"Fasheng Sun" "Fasheng" NA "unknown" NA
+"Fatemah Alqallaf" "Fatemah" NA "female" "0"
+"Fatima Salgueiro" "Fatima" NA "female" "0.0016"
+"Fauzia Paize" "Fauzia" NA "female" "0"
+"Federico J OReilly" "Federico" NA "male" "0.9993"
+"Fei Wang" "Fei" NA "unknown" NA
+"Fei Zou" "Fei" NA "unknown" NA
+"Feifang Hu" "Feifang" NA "unknown" NA
+"Feike C Drost" "Feike" NA "unknown" NA
+"Felix Abramovich" "Felix" NA "male" "0.9906"
+"Feng Guo" "Feng" NA "male" "1"
+"Feng Liang" "Feng" NA "male" "1"
+"Fengchang Lin" "Fengchang" NA "unknown" NA
+"Fengrong Wei" "Fengrong" NA "unknown" NA
+"Fernando A Quintana" "Fernando" NA "male" "0.9929"
+"Fernando Antonio Da Silva Moura" "Fernando" "Antonio" "male" "0.9929"
+"Finbarr OSullivan" "Finbarr" NA "male" "1"
+"Finn Lindgren" "Finn" NA "male" "0.9815"
+"Flavio Ziegelmann" "Flavio" NA "male" "1"
+"Florentina Bunea" "Florentina" NA "female" "0"
+"Florian Frommlet" "Florian" NA "male" "0.9964"
+"Florin Vaida" "Florin" NA "male" "1"
+"Forrest Spencer" "Forrest" NA "male" "0.9832"
+"Francesca Chiaromonte" "Francesca" NA "female" "0.0013"
+"Francesca Dominici" "Francesca" NA "female" "0.0013"
+"Francesco Audrino" "Francesco" NA "male" "1"
+"Francesco Bartolucci" "Francesco" NA "male" "1"
+"Francesco Bravo" "Francesco" NA "male" "1"
+"Francis R Bach" "Francis" NA "male" "0.9125"
+"Francis X Diebold" "Francis" NA "male" "0.9125"
+"Francisco Martinez-Murillo" "Francisco" NA "male" "0.9921"
+"Francois Perron" "Francois" NA "male" "0.9963"
+"Francois Roueff" "Francois" NA "male" "0.9963"
+"Frank Bretz" "Frank" NA "male" "0.9953"
+"Frank Critchley" "Frank" NA "male" "0.9953"
+"Frank G Ball" "Frank" NA "male" "0.9953"
+"Frank H van der Meulen" "Frank" NA "male" "0.9953"
+"Frank Miller" "Frank" NA "male" "0.9953"
+"Franz Merkl" "Franz" NA "male" "1"
+"Fred A Wright" "Fred" NA "male" "0.9952"
+"Freda Cooner" "Freda" NA "female" "8e-04"
+"Frederi G Viens" "Frederi" NA "male" "1"
+"Frederic P Schoenberg" "Frederic" NA "male" "1"
+"Frederic Y Bois" "Frederic" NA "male" "1"
+"Frederick A Matsen" "Frederick" NA "male" "0.9952"
+"Frederick K H Phoa" "Frederick" NA "male" "0.9952"
+"Frederick Wong" "Frederick" NA "male" "0.9952"
+"Fredrik A Dahl" "Fredrik" NA "male" "1"
+"Friedrich K Port" "Friedrich" NA "male" "1"
+"Fritz Scheuren" "Fritz" NA "male" "1"
+"Fugee Tsung" "Fugee" NA "unknown" NA
+"Fulvia Pennoni" "Fulvia" NA "female" "0"
+"Fulvio De Santis" "Fulvio" "De" "female" "0.3076"
+"Fumiyasu Komaki" "Fumiyasu" NA "unknown" NA
+"Fuqing Gao" "Fuqing" NA "unknown" NA
+"Fusheng Su" "Fusheng" NA "unknown" NA
+"Fushing Hsieh" "Fushing" NA "unknown" NA
+"G Alastair Young" NA "Alastair" "male" "1"
+"G Chauvet" NA NA "unknown" NA
+"G D Richardson" NA NA "unknown" NA
+"G E Tita" NA NA "unknown" NA
+"G Hooker" NA NA "unknown" NA
+"G K Essick" NA NA "unknown" NA
+"G O Mohler" NA NA "unknown" NA
+"G Tavecchia" NA NA "unknown" NA
+"Gabor J Szekely" "Gabor" NA "male" "1"
+"Gabor Lugosi" "Gabor" NA "male" "1"
+"Gabriel A Rodriguez-Yam" "Gabriel" NA "male" "0.9766"
+"Gabriel Chandler" "Gabriel" NA "male" "0.9766"
+"Gabriel Kuhn" "Gabriel" NA "male" "0.9766"
+"Gabriel Lang" "Gabriel" NA "male" "0.9766"
+"Gael M Martin" "Gael" NA "male" "0.9494"
+"Galin L Jones" "Galin" NA "male" "1"
+"Galit Shmueli" "Galit" NA "female" "0"
+"Gang Li" "Gang" NA "male" "1"
+"Ganggang Xu" "Ganggang" NA "unknown" NA
+"Gardar Johannesson" "Gardar" NA "female" "0"
+"Gareth Hughes" "Gareth" NA "male" "0.9984"
+"Gareth M James" "Gareth" NA "male" "0.9984"
+"Gareth Roberts" "Gareth" NA "male" "0.9984"
+"Garrett M Fitzmaurice" "Garrett" NA "male" "0.9962"
+"Garrick L Wallstrom" "Garrick" NA "male" "1"
+"Gary King" "Gary" NA "male" "0.9962"
+"Gary L Rosner" "Gary" NA "male" "0.9962"
+"Gary Lorden" "Gary" NA "male" "0.9962"
+"Gaurav Sharma" "Gaurav" NA "male" "1"
+"Gauri Sankar Datta" "Gauri" "Sankar" "female" "0"
+"Gautam Tripathi" "Gautam" NA "male" "1"
+"Gavin Shaddick" "Gavin" NA "male" "0.9975"
+"Gayle DeDe" "Gayle" NA "female" "0.0555"
+"Geert Molenberghs" "Geert" NA "male" "1"
+"Geert Verbeke" "Geert" NA "male" "1"
+"Genevera I Allen" "Genevera" NA "female" "0"
+"Geoff K Nicholls" "Geoff" NA "male" "1"
+"Geoffrey S Ginsburg" "Geoffrey" NA "male" "0.9972"
+"George C Newman" "George" NA "male" "0.9932"
+"George C Tseng" "George" NA "male" "0.9932"
+"George Casella" "George" NA "male" "0.9932"
+"George G Judge" "George" NA "male" "0.9932"
+"George Michailidis" "George" NA "male" "0.9932"
+"George Poyiadjis" "George" NA "male" "0.9932"
+"George R Terrell" "George" NA "male" "0.9932"
+"George Tauchen" "George" NA "male" "0.9932"
+"George V Moustakides" "George" NA "male" "0.9932"
+"Georgi K Golubev" "Georgi" NA "female" "0.0784"
+"Gerard Biau" "Gerard" NA "male" "0.998"
+"Gerard J van den Berg" "Gerard" NA "male" "0.998"
+"Gerard J Van Den Berg" "Gerard" NA "male" "0.998"
+"Gerard Kerkyacharian" "Gerard" NA "male" "0.998"
+"Gerard Letac" "Gerard" NA "male" "0.998"
+"Gerda Claeskens" "Gerda" NA "female" "0"
+"Gerhard Dikta" "Gerhard" NA "male" "1"
+"Gerhard Osius" "Gerhard" NA "male" "1"
+"German Molina" "German" NA "male" "0.9994"
+"Gernot Wassmer" "Gernot" NA "unknown" NA
+"Gersende Fort" "Gersende" NA "unknown" NA
+"Gert Willems" "Gert" NA "male" "0.6769"
+"Getulio J A Amaral" "Getulio" NA "unknown" NA
+"Geurt Jongbloed" "Geurt" NA "male" "1"
+"Gilad Lerman" "Gilad" NA "male" "1"
+"Gilbert J Cote" "Gilbert" NA "male" "0.9947"
+"Gilbert Mackenzie" "Gilbert" NA "male" "0.9947"
+"Gilbert MacKenzie" "Gilbert" NA "male" "0.9947"
+"Gilles Blanchard" "Gilles" NA "male" "1"
+"Gilles Durrieu" "Gilles" NA "male" "1"
+"Gilles R Ducharme" "Gilles" NA "male" "1"
+"Giorgio E Montanari" "Giorgio" NA "male" "1"
+"Giovanni M Marchetti" "Giovanni" NA "male" "0.9831"
+"Giovanni Parmigiani" "Giovanni" NA "male" "0.9831"
+"Giovanni Peccati" "Giovanni" NA "male" "0.9831"
+"Giuseppe Porro" "Giuseppe" NA "male" "1"
+"Gleb A Koshevoy" "Gleb" NA "male" "1"
+"Glen A Satten" "Glen" NA "male" "0.9918"
+"Glen Meeden" "Glen" NA "male" "0.9918"
+"Glenn Heller" "Glenn" NA "male" "0.9933"
+"Glenn Meyers" "Glenn" NA "male" "0.9933"
+"Glenn Shafer" "Glenn" NA "male" "0.9933"
+"Gong Tang" "Gong" NA "male" "0.9648"
+"Gonzalo Garcia-Donato" "Gonzalo" NA "male" "1"
+"Goran Kauermann" "Goran" NA "male" "1"
+"Gordon B Dahl" "Gordon" NA "male" "0.9966"
+"Gordon W Pledger" "Gordon" NA "male" "0.9966"
+"Grace Chan" "Grace" NA "female" "0.0021"
+"Grace Chiu" "Grace" NA "female" "0.0021"
+"Grace E Kissling" "Grace" NA "female" "0.0021"
+"Grace L Yang" "Grace" NA "female" "0.0021"
+"Grace Wahba" "Grace" NA "female" "0.0021"
+"Grace Y Yi" "Grace" NA "female" "0.0021"
+"Graciela Boente" "Graciela" NA "female" "0.0025"
+"Graham Kalton" "Graham" NA "male" "0.9965"
+"Greg Ridgeway" "Greg" NA "male" "0.998"
+"Greg W Anderson" "Greg" NA "male" "0.998"
+"Gregg E Dinse" "Gregg" NA "male" "0.9967"
+"Gregory P Samsa" "Gregory" NA "male" "0.9957"
+"Gretchen G Moisen" "Gretchen" NA "female" "7e-04"
+"Guadalupe Gomez" "Guadalupe" NA "female" "0.2609"
+"Guang Cheng" "Guang" NA "unknown" NA
+"Guanghua Xiao" "Guanghua" NA "unknown" NA
+"Guangjin Pan" "Guangjin" NA "unknown" NA
+"Guanglei Hong" "Guanglei" NA "unknown" NA
+"Guangming Pan" "Guangming" NA "unknown" NA
+"Guangyu Zhang" "Guangyu" NA "unknown" NA
+"Gudrun Freitag" "Gudrun" NA "female" "0"
+"Guenther Walther" "Guenther" NA "male" "1"
+"Guido Consonni" "Guido" NA "male" "1"
+"Guido W Imbens" "Guido" NA "male" "1"
+"Guilherme Rocha" "Guilherme" NA "male" "1"
+"Guillaume Lecue" "Guillaume" NA "male" "1"
+"Guillaume Obozinski" "Guillaume" NA "male" "1"
+"Guillemette Caulliez" "Guillemette" NA "female" "0"
+"Gun Ho Jang" "Gun" "Ho" "male" "0.9653"
+"Gunnar Taraldsen" "Gunnar" NA "male" "0.9993"
+"Gunnhildur Hognadottir Steinbakk" "Gunnhildur" "Hognadottir" "unknown" NA
+"Gunter Ritter" "Gunter" NA "male" "1"
+"Gunther Walther" "Gunther" NA "male" "1"
+"Guobing Lu" "Guobing" NA "unknown" NA
+"Guodong Li" "Guodong" NA "unknown" NA
+"Guohua Zou" "Guohua" NA "unknown" NA
+"Guosheng Yin" "Guosheng" NA "unknown" NA
+"Guoying Li" "Guoying" NA "unknown" NA
+"Guozhi Gao" "Guozhi" NA "unknown" NA
+"Gustavo Didier" "Gustavo" NA "male" "0.9967"
+"Guy Lebanon" "Guy" NA "male" "0.9959"
+"Guy P Nason" "Guy" NA "male" "0.9959"
+"Guy Thomas" "Guy" NA "male" "0.9959"
+"H-S Oh" "H-S" NA "unknown" NA
+"H Boistard" NA NA "unknown" NA
+"H Haario" NA NA "unknown" NA
+"H Hoijtink" NA NA "unknown" NA
+"H Thijs" NA NA "unknown" NA
+"Haakon Tjelmeland" "Haakon" NA "male" "1"
+"Haavard Rue" "Haavard" NA "male" "1"
+"Hae Kyung Im" "Hae" "Kyung" "female" "0"
+"Haeran Cho" "Haeran" NA "unknown" NA
+"Haibo Zhou" "Haibo" NA "unknown" NA
+"Haihong Li" "Haihong" NA "unknown" NA
+"Haipeng Shen" "Haipeng" NA "unknown" NA
+"Haiqun Lin" "Haiqun" NA "unknown" NA
+"Haitao Chu" "Haitao" NA "unknown" NA
+"Haiyan Huang" "Haiyan" NA "unknown" NA
+"Hajime Uno" "Hajime" NA "male" "1"
+"Hajo Holzmann" "Hajo" NA "male" "1"
+"Hakbae Lee" "Hakbae" NA "unknown" NA
+"Halbert White" "Halbert" NA "male" "1"
+"Halina Frydman" "Halina" NA "female" "0"
+"Hammou El Barmi" "Hammou" "El" "male" "0.8996"
+"Han-Joo Kim" "Han-Joo" NA "unknown" NA
+"Han Han" "Han" NA "female" "0.4834"
+"Han Hong" "Han" NA "female" "0.4834"
+"Han Liu" "Han" NA "female" "0.4834"
+"Hanfeng Chen" "Hanfeng" NA "unknown" NA
+"Hani Doss" "Hani" NA "male" "0.9156"
+"Hanlee Ji" "Hanlee" NA "female" "0"
+"Hannes Helgason" "Hannes" NA "male" "1"
+"Hannes Leeb" "Hannes" NA "male" "1"
+"Hannu Oja" "Hannu" NA "unknown" NA
+"Hans-Georg Muller" "Hans-Georg" NA "unknown" NA
+"Hans Arnfinn Karlsen" "Hans" "Arnfinn" "male" "0.9995"
+"Hans C van Houwelingen" "Hans" NA "male" "0.9995"
+"Hans R Kunsch" "Hans" NA "male" "0.9995"
+"Hansheng Wang" "Hansheng" NA "unknown" NA
+"Hanwen Huang" "Hanwen" NA "unknown" NA
+"Hao Helen Zhang" "Hao" "Helen" "male" "0.9864"
+"Hao Liu" "Hao" NA "male" "0.9864"
+"Hao Purdue Zhang" "Hao" "Purdue" "male" "0.9864"
+"Hao Wang" "Hao" NA "male" "0.9864"
+"Hao Yu" "Hao" NA "male" "0.9864"
+"Haobo Ren" "Haobo" NA "unknown" NA
+"Haonan Wang" "Haonan" NA "unknown" NA
+"Hari K Iyer" "Hari" NA "male" "1"
+"Hari Mukerjee" "Hari" NA "male" "1"
+"Harold B Sackrowitz" "Harold" NA "male" "0.9954"
+"Harrie Hendriks" "Harrie" NA "male" "0.8731"
+"Harrison H Zhou" "Harrison" NA "male" "0.9962"
+"Harry Joe" "Harry" NA "male" "0.9953"
+"Heather J Whitaker" "Heather" NA "female" "0.0027"
+"Heather Spencer Feigelson" "Heather" "Spencer" "female" "0.0027"
+"Hee-Seok Oh" "Hee-Seok" NA "unknown" NA
+"Hee-Young Kim" "Hee-Young" NA "unknown" NA
+"Hegang H Chen" "Hegang" NA "unknown" NA
+"Heidi W Ashih" "Heidi" NA "female" "0.0025"
+"Hein Putter" "Hein" NA "male" "0.9346"
+"Helena Geys" "Helena" NA "female" "0"
+"Helene Gehrmann" "Helene" NA "female" "0"
+"Helene Massam" "Helene" NA "female" "0"
+"Helga Wagner" "Helga" NA "female" "0"
+"Helio S Migon" "Helio" NA "male" "1"
+"Helmut Finner" "Helmut" NA "male" "1"
+"Helmut Schafer" "Helmut" NA "male" "1"
+"Hemant Ishwaran" "Hemant" NA "male" "1"
+"Hendrik P Lopuhaa" "Hendrik" NA "male" "1"
+"Heng-Hui Lue" "Heng-Hui" NA "unknown" NA
+"Heng Peng" "Heng" NA "male" "1"
+"Henghsiu Tsai" "Henghsiu" NA "unknown" NA
+"Hengjian Cui" "Hengjian" NA "unknown" NA
+"Henk Kelderman" "Henk" NA "unknown" NA
+"Henry P Wynn" "Henry" NA "male" "0.9935"
+"Heping He" "Heping" NA "unknown" NA
+"Heping Zhang" "Heping" NA "unknown" NA
+"Herbert K H Lee" "Herbert" NA "male" "0.9947"
+"Hernando C Ombao" "Hernando" NA "male" "1"
+"Herve Cardot" "Herve" NA "male" "1"
+"Heung Wong" "Heung" NA "male" "0.9461"
+"Hidetoshi Shimodaira" "Hidetoshi" NA "unknown" NA
+"Hira L Koul" "Hira" NA "female" "0"
+"Hock Peng Chan" "Hock" "Peng" "male" "0.8643"
+"Holger Dette" "Holger" NA "male" "1"
+"Holger Drees" "Holger" NA "male" "1"
+"Holger Rootzen" "Holger" NA "male" "1"
+"Holly Janes" "Holly" NA "female" "0.0052"
+"Hong-Bin Fang" "Hong-Bin" NA "unknown" NA
+"Hong-Tu Zhu" "Hong-Tu" NA "unknown" NA
+"Hong Ooi" "Hong" NA "female" "0.2734"
+"Hong Zhang" "Hong" NA "female" "0.2734"
+"Hong Zhu" "Hong" NA "female" "0.2734"
+"Hongjian Zhu" "Hongjian" NA "unknown" NA
+"Hongqi Xue" "Hongqi" NA "unknown" NA
+"Hongquan Xu" "Hongquan" NA "unknown" NA
+"Hongtu Zhu" "Hongtu" NA "unknown" NA
+"Hongwen Guo" "Hongwen" NA "unknown" NA
+"Hongxia Yang" "Hongxia" NA "unknown" NA
+"Hongxiao Zhu" "Hongxiao" NA "unknown" NA
+"Hongyu An" "Hongyu" NA "unknown" NA
+"Hongyu Miao" "Hongyu" NA "unknown" NA
+"Hongyu Zhao" "Hongyu" NA "unknown" NA
+"Hongyuan Zha" "Hongyuan" NA "unknown" NA
+"Hongzhe Li" "Hongzhe" NA "unknown" NA
+"Hongzhi An" "Hongzhi" NA "unknown" NA
+"Hormuzd A Katki" "Hormuzd" NA "unknown" NA
+"Hosik Choi" "Hosik" NA "unknown" NA
+"Hovav A Dror" "Hovav" NA "unknown" NA
+"Howard D Bondell" "Howard" NA "male" "0.9955"
+"Howard Hu" "Howard" NA "male" "0.9955"
+"Howard L Weiner" "Howard" NA "male" "0.9955"
+"Howard M Sandler" "Howard" NA "male" "0.9955"
+"Howell Tong" "Howell" NA "male" "1"
+"Hsiao-Yun Huang" "Hsiao-Yun" NA "unknown" NA
+"Hsin-Cheng Huang" "Hsin-Cheng" NA "unknown" NA
+"Hua-Hua Chang" "Hua-Hua" NA "unknown" NA
+"Hua Chen" "Hua" NA "male" "1"
+"Hua Liang" "Hua" NA "male" "1"
+"Hua Yun Chen" "Hua" "Yun" "male" "1"
+"Huajun Ye" "Huajun" NA "unknown" NA
+"Huazhen Lin" "Huazhen" NA "unknown" NA
+"Hugh Miller" "Hugh" NA "male" "0.9974"
+"Hui Jin" "Hui" NA "female" "0"
+"Hui Li" "Hui" NA "female" "0"
+"Hui Xie" "Hui" NA "female" "0"
+"Hui Zou" "Hui" NA "female" "0"
+"Huiliang Xie" "Huiliang" NA "unknown" NA
+"Huilin Li" "Huilin" NA "unknown" NA
+"Huiling Le" "Huiling" NA "unknown" NA
+"Huixia Judy Wang" "Huixia" "Judy" "female" "0.0027"
+"Huiyan Sang" "Huiyan" NA "unknown" NA
+"Hulin Wu" "Hulin" NA "male" "0.9294"
+"Hung Hung" "Hung" NA "male" "1"
+"Hyeyoung Lee" "Hyeyoung" NA "unknown" NA
+"Hyokyoung Grace Hong" "Hyokyoung" "Grace" "female" "0.0021"
+"Hyon-Jung Kim" "Hyon-Jung" NA "unknown" NA
+"Hyonho Chun" "Hyonho" NA "unknown" NA
+"Hyoung-Moon Kim" "Hyoung-Moon" NA "unknown" NA
+"Hyunsoon Cho" "Hyunsoon" NA "unknown" NA
+"I B J Goudie" NA NA "unknown" NA
+"I D Currie" NA NA "unknown" NA
+"I Dattner" NA NA "unknown" NA
+"I Fernandez-Val" NA NA "unknown" NA
+"Iain M Johnstone" "Iain" NA "male" "1"
+"Ian Douglas" "Ian" NA "male" "0.9962"
+"Ian H Dinwoodie" "Ian" NA "male" "0.9962"
+"Ian H Jermyn" "Ian" NA "male" "0.9962"
+"Ian L Dryden" "Ian" NA "male" "0.9962"
+"Ian W McKeague" "Ian" NA "male" "0.9962"
+"Ib M Skovgaard" "Ib" NA "unknown" NA
+"Ibrahim Ahmad" "Ibrahim" NA "male" "1"
+"Igor Prunster" "Igor" NA "male" "1"
+"Il Do Ha" "Il" "Do" "female" "0.3661"
+"Ilenia Epifani" "Ilenia" NA "female" "0"
+"Ilia Nouretdinov" "Ilia" NA "female" "0.1243"
+"Ilkka Porsti" "Ilkka" NA "unknown" NA
+"Ilya Gluhovsky" "Ilya" NA "male" "0.8947"
+"Ilya Molchanov" "Ilya" NA "male" "0.8947"
+"Imre Csiszar" "Imre" NA "male" "1"
+"In Hong Chang" "In" "Hong" "female" "0.2277"
+"Inchi Hu" "Inchi" NA "unknown" NA
+"Inge S Helland" "Inge" NA "female" "0"
+"Ingeborg Waernbaum" "Ingeborg" NA "female" "0"
+"Ingelin Steinsland" "Ingelin" NA "female" "0"
+"Ingo Steinwart" "Ingo" NA "male" "1"
+"Ingram Olkin" "Ingram" NA "male" "0.9327"
+"Ingrid Daubechies" "Ingrid" NA "female" "7e-04"
+"Ingrid Van Keilegom" "Ingrid" "Van" "female" "7e-04"
+"Inmaculada B Aban" "Inmaculada" NA "unknown" NA
+"Inna Chervoneva" "Inna" NA "female" "0"
+"Insua Rios Insua" "Insua" "Rios" "male" "1"
+"Ioana Schiopu-Kratina" "Ioana" NA "female" "0"
+"Ioana Schiopu Kratina" "Ioana" "Schiopu" "female" "0"
+"Ioannis Kontoyiannis" "Ioannis" NA "male" "1"
+"Ioannis Kosmidis" "Ioannis" NA "male" "1"
+"Ion G Grama" "Ion" NA "male" "1"
+"Iping Tu" "Iping" NA "unknown" NA
+"Ira M Longini Jr" "Ira" NA "male" "0.9139"
+"Irene Gijbels" "Irene" NA "female" "0.004"
+"Irini Moustaki" "Irini" NA "female" "0"
+"Isabella Verdinelli" "Isabella" NA "female" "0.0012"
+"Ismael Sanchez" "Ismael" NA "male" "0.9975"
+"Isobel Claire Gormley" "Isobel" "Claire" "female" "0"
+"Istvan Berkes" "Istvan" NA "male" "1"
+"Ivan Jeliazkov" "Ivan" NA "male" "0.9946"
+"Ivan Mizera" "Ivan" NA "male" "0.9946"
+"J-C Deville" "J-C" NA "unknown" NA
+"J-H Jeong" "J-H" NA "unknown" NA
+"J-M Marin" "J-M" NA "unknown" NA
+"J Andrew Royle" NA "Andrew" "male" "0.996"
+"J Ashbridge" NA NA "unknown" NA
+"J B Jackson" NA NA "unknown" NA
+"J C Gower" NA NA "unknown" NA
+"J Carlos Escanciano" NA "Carlos" "unknown" NA
+"J DArrigo" NA NA "unknown" NA
+"J E Griffin" NA NA "unknown" NA
+"J E Yukich" NA NA "unknown" NA
+"J F Grotowski" NA NA "unknown" NA
+"J Fortiana" NA NA "unknown" NA
+"J H van Zanten" NA NA "unknown" NA
+"J Jack Lee" NA "Jack" "unknown" NA
+"J Kunert" NA NA "unknown" NA
+"J L Scealy" NA NA "unknown" NA
+"J M C Santos Silva" NA NA "unknown" NA
+"J M Quashnock" NA NA "unknown" NA
+"J Michael Brick" NA "Michael" "unknown" NA
+"J N K Rao" NA NA "unknown" NA
+"J P Gosling" NA NA "unknown" NA
+"J Palomo" NA NA "unknown" NA
+"J Q Shi" NA NA "unknown" NA
+"J R Lockwood" NA NA "unknown" NA
+"J S Marron" NA NA "unknown" NA
+"J Sanderson" NA NA "unknown" NA
+"J Sedransk" NA NA "unknown" NA
+"J Simoens" NA NA "unknown" NA
+"J Sunil Rao" NA "Sunil" "unknown" NA
+"J T Gene Hwang" NA NA "unknown" NA
+"J T Kvaloy" NA NA "unknown" NA
+"J T Ormerod" NA NA "unknown" NA
+"J Tamminen" NA NA "unknown" NA
+"J Whitehead" NA NA "unknown" NA
+"Ja-Yong Koo" "Ja-Yong" NA "unknown" NA
+"Jaakko Nevalainen" "Jaakko" NA "unknown" NA
+"Jaap H Abbring" "Jaap" NA "unknown" NA
+"Jack Cuzick" "Jack" NA "male" "0.9969"
+"Jacob Bien" "Jacob" NA "male" "0.9973"
+"Jacob von Bornemann Hjelmborg" "Jacob" "von" "male" "0.9973"
+"Jacqueline J Meulman" "Jacqueline" NA "female" "0.0032"
+"Jacques Benichou" "Jacques" NA "male" "0.9693"
+"Jae Keun Yoo" "Jae" "Keun" "male" "0.5376"
+"Jae Kwang Kim" "Jae" "Kwang" "male" "0.5376"
+"Jaechoul Lee" "Jaechoul" NA "unknown" NA
+"Jaeyong Lee" "Jaeyong" NA "unknown" NA
+"Jafar A Khan" "Jafar" NA "male" "1"
+"Jai Won Choi" "Jai" "Won" "male" "0.7681"
+"Jake Bowers" "Jake" NA "male" "0.9979"
+"Jakob G Rasmussen" "Jakob" NA "male" "1"
+"James A Calvin" "James" NA "male" "0.9956"
+"James A Mingo" "James" NA "male" "0.9956"
+"James A Thomson" "James" NA "male" "0.9956"
+"James A Woods" "James" NA "male" "0.9956"
+"James Dignam" "James" NA "male" "0.9956"
+"James E Savarino" "James" NA "male" "0.9956"
+"James G Booth" "James" NA "male" "0.9956"
+"James G Scott" "James" NA "male" "0.9956"
+"James Gattiker" "James" NA "male" "0.9956"
+"James M Flegal" "James" NA "male" "0.9956"
+"James O Berger" "James" NA "male" "0.9956"
+"James O Ramsay" "James" NA "male" "0.9956"
+"James P Hobert" "James" NA "male" "0.9956"
+"James P Shine" "James" NA "male" "0.9956"
+"James R Robins" "James" NA "male" "0.9956"
+"James R Schott" "James" NA "male" "0.9956"
+"James S Hodges" "James" NA "male" "0.9956"
+"James V Zidek" "James" NA "male" "0.9956"
+"James W Taylor" "James" NA "male" "0.9956"
+"James X Hu" "James" NA "male" "0.9956"
+"James Y Dai" "James" NA "male" "0.9956"
+"Jamie L Bigelow" "Jamie" NA "female" "0.2295"
+"Jamie Perin" "Jamie" NA "female" "0.2295"
+"Jan Beyersmann" "Jan" NA "female" "0.268"
+"Jan C Neddermeyer" "Jan" NA "female" "0.268"
+"Jan De Neve" "Jan" "De" "female" "0.268"
+"Jan Draisma" "Jan" NA "female" "0.268"
+"Jan F Bjornstad" "Jan" NA "female" "0.268"
+"Jan G De Gooijer" "Jan" NA "female" "0.268"
+"Jan Hannig" "Jan" NA "female" "0.268"
+"Jan Johannes" "Jan" NA "female" "0.268"
+"Jan R Magnus" "Jan" NA "female" "0.268"
+"Jane-Ling Wang" "Jane-Ling" NA "unknown" NA
+"Jane M Booker" "Jane" NA "female" "0.0029"
+"Janet E Heffernan" "Janet" NA "female" "0.0026"
+"Janet N OSullivan" "Janet" NA "female" "0.0026"
+"Janet S Sinsheimer" "Janet" NA "female" "0.0026"
+"Jason A Duan" "Jason" NA "male" "0.9948"
+"Jason C Hsu" "Jason" NA "male" "0.9948"
+"Jason P Fine" "Jason" NA "male" "0.9948"
+"Jason R W Merrick" "Jason" NA "male" "0.9948"
+"Jason Roy" "Jason" NA "male" "0.9948"
+"Jason S McLachlan" "Jason" NA "male" "0.9948"
+"Javier Hidalgo" "Javier" NA "male" "0.9941"
+"Javier Rojo" "Javier" NA "male" "0.9941"
+"Jay Bartroff" "Jay" NA "male" "0.9875"
+"Jay M Ver Hoef" "Jay" NA "male" "0.9875"
+"Jayant V Deshpande" "Jayant" NA "male" "1"
+"Jayanta K Ghosh" "Jayanta" NA "unknown" NA
+"Jayanta Pal" "Jayanta" NA "unknown" NA
+"Jean-Claude Deville" "Jean-Claude" NA "unknown" NA
+"Jean-Francois Angers" "Jean-Francois" NA "male" "1"
+"Jean-Francois Beaumont" "Jean-Francois" NA "male" "1"
+"Jean-Francois Coeurjolly" "Jean-Francois" NA "male" "1"
+"Jean-Francois Dupuy" "Jean-Francois" NA "male" "1"
+"Jean-Francois Quessy" "Jean-Francois" NA "male" "1"
+"Jean-Marc Bardet" "Jean-Marc" NA "male" "1"
+"Jean-Marc Freyermuth" "Jean-Marc" NA "male" "1"
+"Jean-Marie Cornuet" "Jean-Marie" NA "unknown" NA
+"Jean-Marie Rolin" "Jean-Marie" NA "unknown" NA
+"Jean-Michel Marin" "Jean-Michel" NA "unknown" NA
+"Jean-Michel Morel" "Jean-Michel" NA "unknown" NA
+"Jean-Michel Zakoian" "Jean-Michel" NA "unknown" NA
+"Jean-Pierre Ottoy" "Jean-Pierre" NA "male" "1"
+"Jean-Yves Audibert" "Jean-Yves" NA "unknown" NA
+"Jean-Yves Dauxois" "Jean-Yves" NA "unknown" NA
+"Jean D Opsomer" "Jean" NA "female" "0.0556"
+"Jean Diebolt" "Jean" NA "female" "0.0556"
+"Jean Jacob" "Jean" NA "female" "0.0556"
+"Jean Jacod" "Jean" NA "female" "0.0556"
+"Jeanne Kowalski" "Jeanne" NA "female" "0.0022"
+"Jeff Gill" "Jeff" NA "male" "0.9977"
+"Jeff Racine" "Jeff" NA "male" "0.9977"
+"Jeffrey Chang" "Jeffrey" NA "male" "0.9962"
+"Jeffrey D Hart" "Jeffrey" NA "male" "0.9962"
+"Jeffrey Fagan" "Jeffrey" NA "male" "0.9962"
+"Jeffrey Grogger" "Jeffrey" NA "male" "0.9962"
+"Jeffrey H Silber" "Jeffrey" NA "male" "0.9962"
+"Jeffrey Lieberman" "Jeffrey" NA "male" "0.9962"
+"Jeffrey S Morris" "Jeffrey" NA "male" "0.9962"
+"Jeffrey S Rosenthal" "Jeffrey" NA "male" "0.9962"
+"Jeffrey S Spence" "Jeffrey" NA "male" "0.9962"
+"Jelena Bradic" "Jelena" NA "female" "0"
+"Jelle J Goeman" "Jelle" NA "male" "0.7187"
+"Jeng-Min Chiou" "Jeng-Min" NA "unknown" NA
+"Jennifer A Hoeting" "Jennifer" NA "female" "0.0031"
+"Jennifer L Hill" "Jennifer" NA "female" "0.0031"
+"Jennifer L Wadsworth" "Jennifer" NA "female" "0.0031"
+"Jens-Peter Kreiss" "Jens-Peter" NA "unknown" NA
+"Jens Hainmueller" "Jens" NA "male" "1"
+"Jens Perch Nielsen" "Jens" "Perch" "male" "1"
+"Jeongyoun Ahn" "Jeongyoun" NA "unknown" NA
+"Jerald F Lawless" "Jerald" NA "male" "0.9954"
+"Jeremie Bigot" "Jeremie" NA "male" "0.9819"
+"Jeremy E Oakley" "Jeremy" NA "male" "0.9943"
+"Jeremy M G Taylor" "Jeremy" NA "male" "0.9943"
+"Jerome H Friedman" "Jerome" NA "male" "0.9933"
+"Jerome Kalifa" "Jerome" NA "male" "0.9933"
+"Jerome P Reiter" "Jerome" NA "male" "0.9933"
+"Jerry M Davis" "Jerry" NA "male" "0.9757"
+"Jerry Sacks" "Jerry" NA "male" "0.9757"
+"Jerry W Tsai" "Jerry" NA "male" "0.9757"
+"Jesper Madsen" "Jesper" NA "male" "1"
+"Jesper Moller" "Jesper" NA "male" "1"
+"Jesse Frey" "Jesse" NA "male" "0.969"
+"Jessica Minnier" "Jessica" NA "female" "0.0032"
+"Jessica Tressou" "Jessica" NA "female" "0.0032"
+"Jesus Lopez-Fidalgo" "Jesus" NA "male" "0.9886"
+"Jesus Rios" "Jesus" NA "male" "0.9886"
+"Ji-Ping Z Wang" "Ji-Ping" NA "unknown" NA
+"Ji Meng Loh" "Ji" "Meng" "female" "0.3736"
+"Ji Zhu" "Ji" NA "female" "0.3736"
+"Jiahua Chen" "Jiahua" NA "unknown" NA
+"Jialiang Li" "Jialiang" NA "unknown" NA
+"Jian-Feng Yao" "Jian-Feng" NA "unknown" NA
+"Jian-Jian Ren" "Jian-Jian" NA "unknown" NA
+"Jian Guo" "Jian" NA "male" "0.9808"
+"Jian Huang" "Jian" NA "male" "0.9808"
+"Jian Kang" "Jian" NA "male" "0.9808"
+"Jian Shi" "Jian" NA "male" "0.9808"
+"Jian Tu" "Jian" NA "male" "0.9808"
+"Jian Zhang" "Jian" NA "male" "0.9808"
+"Jian Zou" "Jian" NA "male" "0.9808"
+"Jianan Peng" "Jianan" NA "unknown" NA
+"Jiancang Zhuang" "Jiancang" NA "unknown" NA
+"Jiancheng Jiang" "Jiancheng" NA "unknown" NA
+"Jianguo Sun" "Jianguo" NA "unknown" NA
+"Jianhua Hu" "Jianhua" NA "unknown" NA
+"Jianhua Z Huang" "Jianhua" NA "unknown" NA
+"Jianhui Zhou" "Jianhui" NA "unknown" NA
+"Jiannong Liu" "Jiannong" NA "unknown" NA
+"Jianqiang C Wang" "Jianqiang" NA "unknown" NA
+"Jianqing Fan" "Jianqing" NA "unknown" NA
+"Jianrong Wu" "Jianrong" NA "unknown" NA
+"Jianwei Chen" "Jianwei" NA "unknown" NA
+"Jianwen Cai" "Jianwen" NA "unknown" NA
+"Jianxin Pan" "Jianxin" NA "unknown" NA
+"Jianxin Shi" "Jianxin" NA "unknown" NA
+"Jiashun Jin" "Jiashun" NA "unknown" NA
+"Jiawei Liu" "Jiawei" NA "unknown" NA
+"Jiayang Sun" "Jiayang" NA "unknown" NA
+"Jiazhu Pan" "Jiazhu" NA "unknown" NA
+"Jichun Xie" "Jichun" NA "unknown" NA
+"Jie Peng" "Jie" NA "male" "0.8185"
+"Jiguo Cao" "Jiguo" NA "unknown" NA
+"Jihong Chen" "Jihong" NA "unknown" NA
+"Jim Kuelbs" "Jim" NA "male" "0.9966"
+"Jim Q Smith" "Jim" NA "male" "0.9966"
+"Jiming Jiang" "Jiming" NA "unknown" NA
+"Jimmy Olsson" "Jimmy" NA "male" "0.9928"
+"Jimmy Ye" "Jimmy" NA "male" "0.9928"
+"Jin-Jian Hsieh" "Jin-Jian" NA "unknown" NA
+"Jin-Ting Zhang" "Jin-Ting" NA "unknown" NA
+"Jin Cao" "Jin" NA "male" "0.7081"
+"Jinbo Chen" "Jinbo" NA "unknown" NA
+"Jinchi Lv" "Jinchi" NA "male" "1"
+"Jinfeng Xu" "Jinfeng" NA "unknown" NA
+"Jing-Hao Xue" "Jing-Hao" NA "unknown" NA
+"Jing Cheng" "Jing" NA "female" "0.0729"
+"Jing Ning" "Jing" NA "female" "0.0729"
+"Jing Qian" "Jing" NA "female" "0.0729"
+"Jing Qin" "Jing" NA "female" "0.0729"
+"Jing Qiu" "Jing" NA "female" "0.0729"
+"Jing Wang" "Jing" NA "female" "0.0729"
+"Jing Xu" "Jing" NA "female" "0.0729"
+"Jinglai Shen" "Jinglai" NA "unknown" NA
+"Jingran Sun" "Jingran" NA "unknown" NA
+"Jingrong Yang" "Jingrong" NA "unknown" NA
+"Jinnan Liu" "Jinnan" NA "unknown" NA
+"Jinzhu Jia" "Jinzhu" NA "unknown" NA
+"Jiti Gao" "Jiti" NA "unknown" NA
+"Jiying Yin" "Jiying" NA "unknown" NA
+"Jo Eidsvik" "Jo" NA "female" "0.0083"
+"Joanne R Lupton" "Joanne" NA "female" "0.0023"
+"Jochen Einbeck" "Jochen" NA "unknown" NA
+"Joel A Dubin" "Joel" NA "male" "0.9899"
+"Joel L Horowitz" "Joel" NA "male" "0.9899"
+"Johan Lim" "Johan" NA "male" "0.9849"
+"Johan Lindstrom" "Johan" NA "male" "0.9849"
+"Johan Segers" "Johan" NA "male" "0.9849"
+"Johanna Neslehova" "Johanna" NA "female" "0.0031"
+"Johanna Ziegel" "Johanna" NA "female" "0.0031"
+"John A Cafeo" "John" NA "male" "0.9961"
+"John A D Aston" "John" NA "male" "0.9961"
+"John A Rhodes" "John" NA "male" "0.9961"
+"John Allen Logan" "John" "Allen" "male" "0.9961"
+"John B Copas" "John" NA "male" "0.9961"
+"John Barnard" "John" NA "male" "0.9961"
+"John C Liechty" "John" NA "male" "0.9961"
+"John D Kalbfleisch" "John" NA "male" "0.9961"
+"John D Kloke" "John" NA "male" "0.9961"
+"John D Lafferty" "John" NA "male" "0.9961"
+"John D Storey" "John" NA "male" "0.9961"
+"John E Kolassa" "John" NA "male" "0.9961"
+"John Ehrlinger" "John" NA "male" "0.9961"
+"John F Widmann" "John" NA "male" "0.9961"
+"John Geweke" "John" NA "male" "0.9961"
+"John H Gilmore" "John" NA "male" "0.9961"
+"John H J Einmahl" "John" NA "male" "0.9961"
+"John H Maddocks" "John" NA "male" "0.9961"
+"John Haslett" "John" NA "male" "0.9961"
+"John J Hanfelt" "John" NA "male" "0.9961"
+"John L Eltinge" "John" NA "male" "0.9961"
+"John L Spouge" "John" NA "male" "0.9961"
+"John M MacDonald" "John" NA "male" "0.9961"
+"John M Neuhaus" "John" NA "male" "0.9961"
+"John OQuigley" "John" NA "male" "0.9961"
+"John P Buonaccorsi" "John" NA "male" "0.9961"
+"John P Klein" "John" NA "male" "0.9961"
+"John P Morgan" "John" NA "male" "0.9961"
+"John R Crawford" "John" NA "male" "0.9961"
+"John Rice" "John" NA "male" "0.9961"
+"John Robinson" "John" NA "male" "0.9961"
+"John S Preisser" "John" NA "male" "0.9961"
+"John Staudenmayer" "John" NA "male" "0.9961"
+"John Stufken" "John" NA "male" "0.9961"
+"John T Chen" "John" NA "male" "0.9961"
+"John T Kent" "John" NA "male" "0.9961"
+"John Thomas White" "John" "Thomas" "male" "0.9961"
+"John V Pepper" "John" NA "male" "0.9961"
+"John W Durban" "John" NA "male" "0.9961"
+"John W McDonald" "John" NA "male" "0.9961"
+"Jolene Birmingham" "Jolene" NA "female" "4e-04"
+"Jon A Wellner" "Jon" NA "male" "0.9921"
+"Jon D McAuliffe" "Jon" NA "male" "0.9921"
+"Jonathan C Wakefield" "Jonathan" NA "male" "0.9954"
+"Jonathan D Norton" "Jonathan" NA "male" "0.9954"
+"Jonathan E Taylor" "Jonathan" NA "male" "0.9954"
+"Jonathan J Wylie" "Jonathan" NA "male" "0.9954"
+"Jonathan Myles" "Jonathan" NA "male" "0.9954"
+"Jonathan Powell" "Jonathan" NA "male" "0.9954"
+"Jonathan R Stroud" "Jonathan" NA "male" "0.9954"
+"Jonathan Rougier" "Jonathan" NA "male" "0.9954"
+"Jonathan Tawn" "Jonathan" NA "male" "0.9954"
+"Jonathan Tyrer" "Jonathan" NA "male" "0.9954"
+"Jonathan Weinberg" "Jonathan" NA "male" "0.9954"
+"Jong S Kim" "Jong" NA "male" "1"
+"Jong Soo Lee" "Jong" "Soo" "male" "1"
+"Joonwook Park" "Joonwook" NA "unknown" NA
+"Jooyoung Jeon" "Jooyoung" NA "male" "1"
+"Jordi Valero" "Jordi" NA "male" "0.9403"
+"Jorg Breitung" "Jorg" NA "male" "1"
+"Jorg Drechsler" "Jorg" NA "male" "1"
+"Jorg Polzehl" "Jorg" NA "male" "1"
+"Jorge Mateu" "Jorge" NA "male" "0.994"
+"Jorn Tenhofen" "Jorn" NA "male" "1"
+"Jose A F Machado" "Jose" NA "male" "0.9923"
+"Jose M Bernardo" "Jose" NA "male" "0.9923"
+"Jose Manuel Pavia" "Jose" "Manuel" "male" "0.9923"
+"Jose Manuel Pavia-Miralles" "Jose" "Manuel" "male" "0.9923"
+"Jose Maria Montero" "Jose" "Maria" "male" "0.9923"
+"Jose Maria Sarabia" "Jose" "Maria" "male" "0.9923"
+"Jose Pinheiro" "Jose" NA "male" "0.9923"
+"Jose R Berrendero" "Jose" NA "male" "0.9923"
+"Jose Scheinkman" "Jose" NA "male" "0.9923"
+"Jose T A S Ferreira" "Jose" NA "male" "0.9923"
+"Josef Dick" "Josef" NA "male" "1"
+"Joseph B Kadane" "Joseph" NA "male" "0.9958"
+"Joseph B Lang" "Joseph" NA "male" "0.9958"
+"Joseph E Lucas" "Joseph" NA "male" "0.9958"
+"Joseph G Ibrahim" "Joseph" NA "male" "0.9958"
+"Joseph L Schafer" "Joseph" NA "male" "0.9958"
+"Joseph Neeman" "Joseph" NA "male" "0.9958"
+"Joseph P Costantino" "Joseph" NA "male" "0.9958"
+"Joseph P Romano" "Joseph" NA "male" "0.9958"
+"Joseph R Nevins" "Joseph" NA "male" "0.9958"
+"Joseph W Hogan" "Joseph" NA "male" "0.9958"
+"Joseph W McKean" "Joseph" NA "male" "0.9958"
+"Joshua D Habiger" "Joshua" NA "male" "0.9956"
+"Joshua M Tebbs" "Joshua" NA "male" "0.9956"
+"Josue G Martinez" "Josue" NA "male" "0.9952"
+"Jouni Kuha" "Jouni" NA "unknown" NA
+"Joyee Ghosh" "Joyee" NA "female" "0"
+"Ju-Hyun Park" "Ju-Hyun" NA "unknown" NA
+"Juan-Juan Cai" "Juan-Juan" NA "unknown" NA
+"Juan A Cuesta-Albertos" "Juan" NA "male" "0.9916"
+"Juan Du" "Juan" NA "male" "0.9916"
+"Juan Romo" "Juan" NA "male" "0.9916"
+"Juanjuan Fan" "Juanjuan" NA "unknown" NA
+"Judith J Lok" "Judith" NA "female" "0.0026"
+"Judith Rousseau" "Judith" NA "female" "0.0026"
+"Juhee Lee" "Juhee" NA "female" "0"
+"Juhyun Park" "Juhyun" NA "unknown" NA
+"Julia Y Lin" "Julia" NA "female" "0.0036"
+"Julian Besag" "Julian" NA "male" "0.9824"
+"Julian Wolfson" "Julian" NA "male" "0.9824"
+"Julian Z Wang" "Julian" NA "male" "0.9824"
+"Juliet Popper Shaffer" "Juliet" "Popper" "female" "0"
+"Julio M Singer" "Julio" NA "male" "0.9925"
+"Jun-Iowa Li" "Jun-Iowa" NA "unknown" NA
+"Jun-Z Li" "Jun-Z" NA "unknown" NA
+"Jun Li" "Jun" NA "male" "0.9301"
+"Jun S Liu" "Jun" NA "male" "0.9301"
+"Jun Shao" "Jun" NA "male" "0.9301"
+"Jun Sheng" "Jun" NA "male" "0.9301"
+"Jun Xie" "Jun" NA "male" "0.9301"
+"Jun Yan" "Jun" NA "male" "0.9301"
+"Jun Zhu" "Jun" NA "male" "0.9301"
+"Junchang Ju" "Junchang" NA "unknown" NA
+"Jung-Ying Tzeng" "Jung-Ying" NA "unknown" NA
+"Junhui Wang" "Junhui" NA "unknown" NA
+"Junichi Hirukawa" "Junichi" NA "male" "1"
+"Junni L Zhang" "Junni" NA "female" "0"
+"Junqing Yuan" "Junqing" NA "unknown" NA
+"Junyi Xie" "Junyi" NA "unknown" NA
+"Junyuan Wang" "Junyuan" NA "unknown" NA
+"Junzhou Huang" "Junzhou" NA "unknown" NA
+"Jurgen Dippon" "Jurgen" NA "male" "1"
+"Jussi Klemela" "Jussi" NA "female" "0"
+"Justine Shults" "Justine" NA "female" "0.0614"
+"Jyh-Shyang Wu" "Jyh-Shyang" NA "unknown" NA
+"Jyoti Zalkikar" "Jyoti" NA "female" "0"
+"Jyrki Mottonen" "Jyrki" NA "unknown" NA
+"K B Kulasekera" NA NA "unknown" NA
+"K F Lam" NA NA "unknown" NA
+"K K Berthelsen" NA NA "unknown" NA
+"K L Verosub" NA NA "unknown" NA
+"K Shafie" NA NA "unknown" NA
+"K Strassburger" NA NA "unknown" NA
+"Ka Yee Yeung" "Ka" "Yee" "female" "0.1367"
+"Kai-Sheng Song" "Kai-Sheng" NA "unknown" NA
+"Kai-Tai Fang" "Kai-Tai" NA "unknown" NA
+"Kai F Yu" "Kai" NA "male" "0.8268"
+"Kai Tai Fang" "Kai" "Tai" "male" "0.8268"
+"Kai UNKNOWN Yu" "Kai" "UNKNOWN" "male" "0.8268"
+"Kai W Ng" "Kai" NA "male" "0.8268"
+"Kai Zhang" "Kai" NA "male" "0.8268"
+"Kalatu Davies" "Kalatu" NA "unknown" NA
+"Kalyan Das" "Kalyan" NA "male" "1"
+"Kam-Chuen Yuen" "Kam-Chuen" NA "unknown" NA
+"Kam-Wah Tsui" "Kam-Wah" NA "unknown" NA
+"Kanchan Mukherjee" "Kanchan" NA "female" "0"
+"Kani Chen" "Kani" NA "male" "0.742"
+"Kannan Natarajan" "Kannan" NA "male" "1"
+"Kanta Naito" "Kanta" NA "male" "1"
+"Kanti V Mardia" "Kanti" NA "male" "1"
+"Kaoru Fueda" "Kaoru" NA "female" "0.2498"
+"Karen Bandeen-Roche" "Karen" NA "female" "0.0026"
+"Karen Marder" "Karen" NA "female" "0.0026"
+"Karen T Tashima" "Karen" NA "female" "0.0026"
+"Kari Lock Morgan" "Kari" "Lock" "female" "0.0099"
+"Karim Anaya-Izquierdo" "Karim" NA "male" "0.9846"
+"Karim Lounici" "Karim" NA "male" "0.9846"
+"Karim Oualkacha" "Karim" NA "male" "0.9846"
+"Karin S Dorman" "Karin" NA "female" "0.0045"
+"Karina Laneri" "Karina" NA "female" "0.0044"
+"Karine Tribouley" "Karine" NA "female" "0"
+"Karl-Anton Dorph-Petersen" "Karl-Anton" NA "unknown" NA
+"Karl Rohe" "Karl" NA "male" "0.9897"
+"Kaspar Rufibach" "Kaspar" NA "male" "1"
+"Katherine B Ensor" "Katherine" NA "female" "0.0028"
+"Kathrin Bissantz" "Kathrin" NA "female" "0"
+"Kathryn Prewitt" "Kathryn" NA "female" "0.0025"
+"Kathryn Roeder" "Kathryn" NA "female" "0.0025"
+"Katsumi Shimotsu" "Katsumi" NA "male" "1"
+"Kaushik Ghosh" "Kaushik" NA "male" "1"
+"Kay F Pilz" "Kay" NA "female" "0.0248"
+"Ke Xu" "Ke" NA "male" "1"
+"Ke Yang" "Ke" NA "male" "1"
+"Ke Yu" "Ke" NA "male" "1"
+"Ke Zhu" "Ke" NA "male" "1"
+"Keaven M Anderson" "Keaven" NA "male" "1"
+"Kee-Hoon Kang" "Kee-Hoon" NA "unknown" NA
+"Kefei Zhou" "Kefei" NA "unknown" NA
+"Keh-Shin Lii" "Keh-Shin" NA "unknown" NA
+"Kehui Chen" "Kehui" NA "unknown" NA
+"Keith J Worsley" "Keith" NA "male" "0.9948"
+"Keith Knight" "Keith" NA "male" "0.9948"
+"Keith M Muller" "Keith" NA "male" "0.9948"
+"Kelli Talaska" "Kelli" NA "female" "0.0038"
+"Keming Yu" "Keming" NA "unknown" NA
+"Kenji Fukumizu" "Kenji" NA "male" "0.9873"
+"Kenneth A Krohn" "Kenneth" NA "male" "0.9958"
+"Kenneth F Raffa" "Kenneth" NA "male" "0.9958"
+"Kenneth Falconer" "Kenneth" NA "male" "0.9958"
+"Kenneth Lange" "Kenneth" NA "male" "0.9958"
+"Kenneth Lindsay" "Kenneth" NA "male" "0.9958"
+"Kenneth M Rice" "Kenneth" NA "male" "0.9958"
+"Kenneth Westrick" "Kenneth" NA "male" "0.9958"
+"Kenny Q Ye" "Kenny" NA "male" "0.9894"
+"Kent E Holsinger" "Kent" NA "male" "0.9973"
+"Ker-Ai Lee" "Ker-Ai" NA "unknown" NA
+"Ker-Chau Li" "Ker-Chau" NA "unknown" NA
+"Kerby Shedden" "Kerby" NA "male" "0.8674"
+"Kerrie Mengersen" "Kerrie" NA "female" "0.0113"
+"Kesar Singh" "Kesar" NA "female" "0"
+"Keunbaik Lee" "Keunbaik" NA "unknown" NA
+"Kevin K Dobbin" "Kevin" NA "male" "0.9951"
+"Kevin Lee" "Kevin" NA "male" "0.9951"
+"Kevin Quinn" "Kevin" NA "male" "0.9951"
+"Kevin W Dodd" "Kevin" NA "male" "0.9951"
+"Kevyn Collins-Thompson" "Kevyn" NA "male" "0.8824"
+"Keyur H Desai" "Keyur" NA "male" "1"
+"Khoan T Dinh" "Khoan" NA "unknown" NA
+"Khurram Nadeem" "Khurram" NA "male" "1"
+"Kilani Ghoudi" "Kilani" NA "female" "0"
+"Kim E Andersen" "Kim" NA "female" "0.1546"
+"Kim J Krishnan" "Kim" NA "female" "0.1546"
+"Kim Kenobi" "Kim" NA "female" "0.1546"
+"Kim P Huynh" "Kim" NA "female" "0.1546"
+"Kim Parsons" "Kim" NA "female" "0.1546"
+"Kingshuk Roy Choudhury" "Kingshuk" "Roy" "male" "0.9938"
+"Kirti R Shah" "Kirti" NA "female" "0"
+"Kjell Doksum" "Kjell" NA "male" "1"
+"Kjell Nygren" "Kjell" NA "male" "1"
+"Klaus von Wilpert" "Klaus" "von" "male" "1"
+"Knashawn H Morales" "Knashawn" NA "unknown" NA
+"Knut Heggland" "Knut" NA "male" "1"
+"Koji Tanaka" "Koji" NA "male" "1"
+"Konstantinos Fokianos" "Konstantinos" NA "male" "1"
+"Konstantinos Kalogeropoulos" "Konstantinos" NA "male" "1"
+"Kosuke Imai" "Kosuke" NA "male" "1"
+"Krista Fischer" "Krista" NA "female" "0.0019"
+"Krista J Gile" "Krista" NA "female" "0.0019"
+"Kristin Berry" "Kristin" NA "female" "0.0085"
+"Kristin Larson" "Kristin" NA "female" "0.0085"
+"Kristin N Javaras" "Kristin" NA "female" "0.0085"
+"Kristin P Lennox" "Kristin" NA "female" "0.0085"
+"Kristine E Lee" "Kristine" NA "female" "0.0021"
+"Krzysztof Latuszynski" "Krzysztof" NA "male" "1"
+"Kshitij Khare" "Kshitij" NA "unknown" NA
+"Kun Chen" "Kun" NA "male" "0.9908"
+"Kun Liang" "Kun" NA "male" "0.9908"
+"Kung-Sik Chan" "Kung-Sik" NA "unknown" NA
+"Kung-Yee Liang" "Kung-Yee" NA "unknown" NA
+"Kwang Woo Ahn" "Kwang" "Woo" "male" "1"
+"Kyounghwa Bae" "Kyounghwa" NA "unknown" NA
+"Kyungchul Song" "Kyungchul" NA "unknown" NA
+"Kyusang Yu" "Kyusang" NA "unknown" NA
+"L Billard" NA NA "unknown" NA
+"L Cavalier" NA NA "unknown" NA
+"L Garry Adams" NA "Garry" "male" "0.996"
+"L Giraitis" NA NA "unknown" NA
+"L J Wei" NA NA "unknown" NA
+"L Reboul" NA NA "unknown" NA
+"Lai Wei" "Lai" NA "female" "0.0965"
+"Lajmi Lakhal-Chaieb" "Lajmi" NA "unknown" NA
+"Lajmi Lakhal Chaieb" "Lajmi" "Lakhal" "unknown" NA
+"Lajos Horvath" "Lajos" NA "male" "1"
+"Lan Huang" "Lan" NA "female" "0.2546"
+"Lan Kong" "Lan" NA "female" "0.2546"
+"Lan Ma Nygren" "Lan" "Ma" "female" "0.2546"
+"Lan Wang" "Lan" NA "female" "0.2546"
+"Lan Xue" "Lan" NA "female" "0.2546"
+"Lan Zhang" "Lan" NA "female" "0.2546"
+"Lan Zhou" "Lan" NA "female" "0.2546"
+"Lancelot F James" "Lancelot" NA "male" "1"
+"Lang Wu" "Lang" NA "male" "0.9862"
+"Lanh T Tran" "Lanh" NA "unknown" NA
+"Larry Goldstein" "Larry" NA "male" "0.9954"
+"Larry Shepp" "Larry" NA "male" "0.9954"
+"Larry Wasserman" "Larry" NA "male" "0.9954"
+"Lars Peter Hansen" "Lars" "Peter" "male" "1"
+"Laura M Sangalli" "Laura" NA "female" "0.003"
+"Laura Temime" "Laura" NA "female" "0.003"
+"Laura Ventura" "Laura" NA "female" "0.003"
+"Laurens de Haan" "Laurens" "de" "male" "1"
+"Laurent Bordes" "Laurent" NA "male" "1"
+"Laurent Briollais" "Laurent" NA "male" "1"
+"Laurent Rouviere" "Laurent" NA "male" "1"
+"Lawrence C McCandless" "Lawrence" NA "male" "0.9953"
+"Lawrence Carin" "Lawrence" NA "male" "0.9953"
+"Lawrence D Brown" "Lawrence" NA "male" "0.9953"
+"Lawrence Joseph" "Lawrence" NA "male" "0.9953"
+"Leah J Welty" "Leah" NA "female" "0.0021"
+"Leah Jager" "Leah" NA "female" "0.0021"
+"Leen Slaets" "Leen" NA "female" "0"
+"Lehel Csato" "Lehel" NA "unknown" NA
+"Lei Nie" "Lei" NA "female" "0.0298"
+"Leif Boysen" "Leif" NA "male" "0.9992"
+"Leila Mohammadi" "Leila" NA "female" "2e-04"
+"Leilei Zeng" "Leilei" NA "unknown" NA
+"Lenka Mach" "Lenka" NA "female" "0"
+"Leo Breiman" "Leo" NA "male" "0.9939"
+"Leon J Gleser" "Leon" NA "male" "0.9931"
+"Leonard A Stefanski" "Leonard" NA "male" "0.9951"
+"Leonardo Grilli" "Leonardo" NA "male" "0.9971"
+"Leopold Simar" "Leopold" NA "male" "1"
+"Leslie Cope" "Leslie" NA "female" "0.2222"
+"Lexin Li" "Lexin" NA "male" "1"
+"Li-Chun Zhang" "Li-Chun" NA "unknown" NA
+"Li-Shan Huang" "Li-Shan" NA "unknown" NA
+"Li-Xin Zhang" "Li-Xin" NA "unknown" NA
+"Li Chen" "Li" NA "female" "0.2752"
+"Li Hsu" "Li" NA "female" "0.2752"
+"Li Ma" "Li" NA "female" "0.2752"
+"Li Wang" "Li" NA "female" "0.2752"
+"Liam Smeeth" "Liam" NA "male" "0.9981"
+"Lianfen Qian" "Lianfen" NA "unknown" NA
+"Liang Peng" "Liang" NA "male" "1"
+"Lianming Wang" "Lianming" NA "unknown" NA
+"Lidong E" "Lidong" NA "unknown" NA
+"Lie Wang" "Lie" NA "female" "0.4888"
+"Lieven Clement" "Lieven" NA "unknown" NA
+"Lifeng Wang" "Lifeng" NA "unknown" NA
+"Ligia Henriques Rodrigues" "Ligia" "Henriques" "female" "0"
+"Lihong Qi" "Lihong" NA "unknown" NA
+"Lihong Wang" "Lihong" NA "unknown" NA
+"Lijian Yang" "Lijian" NA "unknown" NA
+"Lijuan Deng" "Lijuan" NA "unknown" NA
+"Liliana Forzani" "Liliana" NA "female" "0.0037"
+"Limin Peng" "Limin" NA "unknown" NA
+"Limin X Clegg" "Limin" NA "unknown" NA
+"Lin-An Chen" "Lin-An" NA "unknown" NA
+"Lin Liu" "Lin" NA "female" "0.4121"
+"Lin Lu" "Lin" NA "female" "0.4121"
+"Lin S Chen" "Lin" NA "female" "0.4121"
+"Lincheng Zhao" "Lincheng" NA "unknown" NA
+"Linda H Zhao" "Linda" NA "female" "0.0024"
+"Linda O Mearns" "Linda" NA "female" "0.0024"
+"Lingling Li" "Lingling" NA "unknown" NA
+"Lingyun Liu" "Lingyun" NA "unknown" NA
+"Lingzhi Zhou" "Lingzhi" NA "unknown" NA
+"Lingzhou Xue" "Lingzhou" NA "unknown" NA
+"Linxu Liu" "Linxu" NA "unknown" NA
+"Lionel Cucala" "Lionel" NA "male" "0.9984"
+"Lionel Moisan" "Lionel" NA "male" "0.9984"
+"Liping Zhu" "Liping" NA "unknown" NA
+"Liqiang Ni" "Liqiang" NA "unknown" NA
+"Liqun Wang" "Liqun" NA "unknown" NA
+"Lisa M Chung" "Lisa" NA "female" "0.0027"
+"Lisha Chen" "Lisha" NA "female" "0"
+"Liugen Xue" "Liugen" NA "unknown" NA
+"Liuquan Sun" "Liuquan" NA "unknown" NA
+"Livio Finos" "Livio" NA "male" "1"
+"Lixing Zhu" "Lixing" NA "unknown" NA
+"Longhai Li" "Longhai" NA "unknown" NA
+"Lop-Hing Ho" "Lop-Hing" NA "unknown" NA
+"Lorenzo Fattorini" "Lorenzo" NA "male" "0.9939"
+"Lorenzo Trippa" "Lorenzo" NA "male" "0.9939"
+"Lori E Dodd" "Lori" NA "female" "0.0024"
+"Loriano Mancini" "Loriano" NA "unknown" NA
+"Lorraine N Clark" "Lorraine" NA "female" "0.0033"
+"Louigi Addario-Berry" "Louigi" NA "male" "1"
+"Louis-Paul Rivest" "Louis-Paul" NA "unknown" NA
+"Louis Ferre" "Louis" NA "male" "0.9935"
+"Louise M Ryan" "Louise" NA "female" "0.0079"
+"Loukia Meligkotsidou" "Loukia" NA "unknown" NA
+"Lowell Taylor" "Lowell" NA "male" "0.9947"
+"Lu-Hung Chen" "Lu-Hung" NA "unknown" NA
+"Lu Lin" "Lu" NA "female" "0.0016"
+"Lu Ren" "Lu" NA "female" "0.0016"
+"Lu Tian" "Lu" NA "female" "0.0016"
+"Lu Wang" "Lu" NA "female" "0.0016"
+"Luc Devroye" "Luc" NA "male" "1"
+"Luc Pronzato" "Luc" NA "male" "1"
+"Luca La Rocca" "Luca" "La" "male" "0.951"
+"Lucia Castellanos Perez-Bolde" "Lucia" "Castellanos" "female" "0.0027"
+"Lucrezia Reichlin" "Lucrezia" NA "female" "0"
+"Ludwig Fahrmeir" "Ludwig" NA "male" "1"
+"Lue Ping Zhao" "Lue" "Ping" "female" "0.13"
+"Luis A Garcia-Escudero" "Luis" NA "male" "0.9938"
+"Luis Artiles" "Luis" NA "male" "0.9938"
+"Luis E Nieto-Barajas" "Luis" NA "male" "0.9938"
+"Luis R Pericchi" "Luis" NA "male" "0.9938"
+"Luisa Scaccia" "Luisa" NA "female" "0.0032"
+"Lukas Meier" "Lukas" NA "male" "0.9992"
+"Luke A Prendergast" "Luke" NA "male" "0.9976"
+"Luke Bornn" "Luke" NA "male" "0.9976"
+"Luke Tierney" "Luke" NA "male" "0.9976"
+"Luping Zhao" "Luping" NA "unknown" NA
+"Lurdes Y T Inoue" "Lurdes" NA "female" "0"
+"Lutz Dumbgen" "Lutz" NA "male" "1"
+"Lutz Kilian" "Lutz" NA "male" "1"
+"Lyle Broemeling" "Lyle" NA "male" "0.9887"
+"Lyle H Ungar" "Lyle" NA "male" "0.9887"
+"Lynda D Lisabeth" "Lynda" NA "female" "0.0015"
+"Lynn M Johnson" "Lynn" NA "female" "0.187"
+"Lynn M R Ybarra" "Lynn" NA "female" "0.187"
+"Lynne Stokes" "Lynne" NA "female" "0.006"
+"Lyudmila Sakhanenko" "Lyudmila" NA "female" "0"
+"M-O Boldi" "M-O" NA "unknown" NA
+"M A Black" NA NA "unknown" NA
+"M A Goldwasser" NA NA "unknown" NA
+"M Angeles Carnero" NA "Angeles" "female" "0.0191"
+"M Anthony Schork" NA "Anthony" "unknown" NA
+"M B Short" NA NA "unknown" NA
+"M Bevanda" NA NA "unknown" NA
+"M Blanca Palacios" NA "Blanca" "unknown" NA
+"M Brent McHenry" NA "Brent" "unknown" NA
+"M C Donohue" NA NA "unknown" NA
+"M C Jones" NA NA "unknown" NA
+"M C Pun" NA NA "unknown" NA
+"M Durban" NA NA "unknown" NA
+"M Elizabeth Halloran" NA "Elizabeth" "unknown" NA
+"M Giovanna Ranalli" NA "Giovanna" "unknown" NA
+"M H Clark" NA NA "unknown" NA
+"M Hashem Pesaran" NA "Hashem" "unknown" NA
+"M Hazelton" NA NA "unknown" NA
+"M Ivette Gomes" NA "Ivette" "unknown" NA
+"M J Bayarri" NA NA "unknown" NA
+"M J Faddy" NA NA "unknown" NA
+"M J Silvapulle" NA NA "unknown" NA
+"M L Lakhal-Chaieb" NA NA "unknown" NA
+"M Laine" NA NA "unknown" NA
+"M Lehtinen" NA NA "unknown" NA
+"M Lina Martinez" NA "Lina" "unknown" NA
+"M Luz Calle" NA "Luz" "unknown" NA
+"M Meise" NA NA "unknown" NA
+"M Mushfiqur Rashid" NA "Mushfiqur" "unknown" NA
+"M P Wand" NA NA "unknown" NA
+"M Papathomas" NA NA "unknown" NA
+"M Perone Pacifico" NA "Perone" "unknown" NA
+"M Ribatet" NA NA "unknown" NA
+"M Rosenblum" NA NA "unknown" NA
+"M S Srivastava" NA NA "unknown" NA
+"M S Taqqu" NA NA "unknown" NA
+"M Studer" NA NA "unknown" NA
+"M W Jones" NA NA "unknown" NA
+"M Zagoraiou" NA NA "unknown" NA
+"Maarten J L F Cruyff" "Maarten" NA "male" "1"
+"Maarten Jansen" "Maarten" NA "male" "1"
+"Madalin Gutua" "Madalin" NA "female" "0"
+"Madeleine Cule" "Madeleine" NA "female" "3e-04"
+"Maela Kloareg" "Maela" NA "female" "0"
+"Maengseok Noh" "Maengseok" NA "unknown" NA
+"Magalie Fromont" "Magalie" NA "female" "0"
+"Magnar Lillegaard" "Magnar" NA "male" "1"
+"Magnus Ekstrom" "Magnus" NA "male" "1"
+"Mahboobeh Safaeian" "Mahboobeh" NA "unknown" NA
+"Mahlet G Tadesse" "Mahlet" NA "female" "0"
+"Mai Zhou" "Mai" NA "female" "0.004"
+"Maja Miloslavsky" "Maja" NA "female" "0"
+"Majid Mojirsheibani" "Majid" NA "male" "1"
+"Makram Talih" "Makram" NA "unknown" NA
+"Malay Ghosh" "Malay" NA "female" "0"
+"Malgorzata Bogdan" "Malgorzata" NA "female" "0"
+"Malka Gorfine" "Malka" NA "female" "0"
+"Man-Wai Ho" "Man-Wai" NA "unknown" NA
+"Man Yu Wong" "Man" "Yu" "male" "0.789"
+"Manabu Kuroki" "Manabu" NA "male" "1"
+"Manfred Jaeger" "Manfred" NA "male" "1"
+"Manfred Opper" "Manfred" NA "male" "1"
+"Marc A Suchard" "Marc" NA "male" "0.9959"
+"Marc Aerts" "Marc" NA "male" "0.9959"
+"Marc C Kennedy" "Marc" NA "male" "0.9959"
+"Marc Coram" "Marc" NA "male" "0.9959"
+"Marc Fredette" "Marc" NA "male" "0.9959"
+"Marc G Genton" "Marc" NA "male" "0.9959"
+"Marc Hallin" "Marc" NA "male" "0.9959"
+"Marc Hoffmann" "Marc" NA "male" "0.9959"
+"Marc Raimondo" "Marc" NA "male" "0.9959"
+"Marcel Voia" "Marcel" NA "male" "0.9359"
+"Marcel Wolbers" "Marcel" NA "male" "0.9359"
+"Marcela Svarc" "Marcela" NA "female" "0"
+"Marcelo C Medeiros" "Marcelo" NA "male" "1"
+"Marcelo J Moreira" "Marcelo" NA "male" "1"
+"Marco A R Ferreira" "Marco" NA "male" "0.9944"
+"Marco Carone" "Marco" NA "male" "0.9944"
+"Marco Di Marzio" "Marco" "Di" "male" "0.9944"
+"Marco Lippi" "Marco" NA "male" "0.9944"
+"Marco Minozzo" "Marco" NA "male" "0.9944"
+"Marco Perone-Pacifico" "Marco" NA "male" "0.9944"
+"Marco Riani" "Marco" NA "male" "0.9944"
+"Marek Omelka" "Marek" NA "male" "0.9974"
+"Margaret R Karagas" "Margaret" NA "female" "0.0029"
+"Margaret Sullivan Pepe" "Margaret" "Sullivan" "female" "0.0029"
+"Maria-Pia Victoria-Feser" "Maria-Pia" NA "unknown" NA
+"Maria De Iorio" "Maria" "De" "female" "0.0072"
+"Maria Dolores Martinez Miranda" "Maria" "Dolores" "female" "0.0072"
+"Maria Elvira Mancino" "Maria" "Elvira" "female" "0.0072"
+"Maria Jose Lombardia" "Maria" "Jose" "female" "0.0072"
+"Maria L Rizzo" "Maria" NA "female" "0.0072"
+"Maria Maddalena Barbieri" "Maria" "Maddalena" "female" "0.0072"
+"Maria Rightley" "Maria" NA "female" "0.0072"
+"Maria Teresa Gallegos" "Maria" "Teresa" "female" "0.0072"
+"Marian Anghel" "Marian" NA "female" "0.0079"
+"Marian Grendar" "Marian" NA "female" "0.0079"
+"Mariane Pelletier" "Mariane" NA "female" "0"
+"Marianna Pensky" "Marianna" NA "female" "0"
+"Marianthi Markatou" "Marianthi" NA "female" "0"
+"Marie-Pierre Preziosi" "Marie-Pierre" NA "unknown" NA
+"Marie Davidian" "Marie" NA "female" "0.0046"
+"Mariela Sued" "Mariela" NA "female" "8e-04"
+"Marina Vannucci" "Marina" NA "female" "0.0015"
+"Mario Forni" "Mario" NA "male" "0.9916"
+"Mario Mateo" "Mario" NA "male" "0.9916"
+"Marius Ooms" "Marius" NA "male" "1"
+"Mark A Beaumont" "Mark" NA "male" "0.9967"
+"Mark A van de Wiel" "Mark" NA "male" "0.9967"
+"Mark A Weaver" "Mark" NA "male" "0.9967"
+"Mark C K Yang" "Mark" NA "male" "0.9967"
+"Mark Culp" "Mark" NA "male" "0.9967"
+"Mark E Cowen" "Mark" NA "male" "0.9967"
+"Mark F J Steel" "Mark" NA "male" "0.9967"
+"Mark Fitzgerald" "Mark" NA "male" "0.9967"
+"Mark G Low" "Mark" NA "male" "0.9967"
+"Mark Girolami" "Mark" NA "male" "0.9967"
+"Mark J Schervish" "Mark" NA "male" "0.9967"
+"Mark J van der Laan" "Mark" NA "male" "0.9967"
+"Mark M Meerschaert" "Mark" NA "male" "0.9967"
+"Mark Muzi" "Mark" NA "male" "0.9967"
+"Mark Podolskij" "Mark" NA "male" "0.9967"
+"Mark Rutherford" "Mark" NA "male" "0.9967"
+"Mark S Handcock" "Mark" NA "male" "0.9967"
+"Mark V Bravington" "Mark" NA "male" "0.9967"
+"Mark van der Laan" "Mark" "van" "male" "0.9967"
+"Markus Frolich" "Markus" NA "male" "1"
+"Markus Kalisch" "Markus" NA "male" "1"
+"Markus Kiderlen" "Markus" NA "male" "1"
+"Markus Leippold" "Markus" NA "male" "1"
+"Markus Reiss" "Markus" NA "male" "1"
+"Markus Roters" "Markus" NA "male" "1"
+"Marloes H Maathuis" "Marloes" NA "unknown" NA
+"Marsel Kvesic" "Marsel" NA "male" "1"
+"Marshall M Joffe" "Marshall" NA "male" "0.9852"
+"Marten H Wegkamp" "Marten" NA "male" "1"
+"Martha E Nunn" "Martha" NA "female" "0.0036"
+"Martica Hall" "Martica" NA "female" "0"
+"Martin A Lindquist" "Martin" NA "male" "0.995"
+"Martin A Tanner" "Martin" NA "male" "0.995"
+"Martin B Hansen" "Martin" NA "male" "0.995"
+"Martin H Felix-Medina" "Martin" NA "male" "0.995"
+"Martin Hendry" "Martin" NA "male" "0.995"
+"Martin Hillebrand" "Martin" NA "male" "0.995"
+"Martin J Wainwright" "Martin" NA "male" "0.995"
+"Martin Kulldorff" "Martin" NA "male" "0.995"
+"Martin Posch" "Martin" NA "male" "0.995"
+"Martin S Zand" "Martin" NA "male" "0.995"
+"Martin Schlather" "Martin" NA "male" "0.995"
+"Martin Schumacher" "Martin" NA "male" "0.995"
+"Martin Styner" "Martin" NA "male" "0.995"
+"Martin T Wells" "Martin" NA "male" "0.995"
+"Mary Beth Landrum" "Mary" "Beth" "female" "0.0036"
+"Mary C Meyer" "Mary" NA "female" "0.0036"
+"Mary E Thompson" "Mary" NA "female" "0.0036"
+"Mary Ellen Bock" "Mary" "Ellen" "female" "0.0036"
+"Mary J Emond" "Mary" NA "female" "0.0036"
+"Mary Sara McPeek" "Mary" "Sara" "female" "0.0036"
+"Mary W Redman" "Mary" NA "female" "0.0036"
+"Marzia Marcheselli" "Marzia" NA "female" "0"
+"Masami Miyakawa" "Masami" NA "male" "0.7819"
+"Masanobu Taniguchi" "Masanobu" NA "male" "1"
+"Masao Ueki" "Masao" NA "male" "1"
+"Masashi Sugiyama" "Masashi" NA "male" "1"
+"Masayuki Henmi" "Masayuki" NA "male" "1"
+"Masoud Asgharian" "Masoud" NA "male" "1"
+"Massimiliano Pontil" "Massimiliano" NA "male" "1"
+"Mathias Drton" "Mathias" NA "male" "1"
+"Mathias Vetter" "Mathias" NA "male" "1"
+"Mathieu Rosenbaum" "Mathieu" NA "male" "1"
+"Mathilde Mougeot" "Mathilde" NA "female" "0"
+"Matias D Cattaneo" "Matias" NA "male" "1"
+"Matias Salibian-Barrera" "Matias" NA "male" "1"
+"Matteo Bottai" "Matteo" NA "male" "1"
+"Matthew A Taddy" "Matthew" NA "male" "0.9962"
+"Matthew Calder" "Matthew" NA "male" "0.9962"
+"Matthew D Shapiro" "Matthew" NA "male" "0.9962"
+"Matthew J Beal" "Matthew" NA "male" "0.9962"
+"Matthew J Salganik" "Matthew" NA "male" "0.9962"
+"Matthew P S Gander" "Matthew" NA "male" "0.9962"
+"Matthew Reimherr" "Matthew" NA "male" "0.9962"
+"Matthew T Harrison" "Matthew" NA "male" "0.9962"
+"Matthew Walker" "Matthew" NA "male" "0.9962"
+"Matthieu Lerasle" "Matthieu" NA "male" "1"
+"Maureen Clerc" "Maureen" NA "female" "0.0022"
+"Mauro Piccioni" "Mauro" NA "male" "1"
+"Mausumi Bose" "Mausumi" NA "unknown" NA
+"Max D Morris" "Max" NA "male" "0.9961"
+"Maxwell King" "Maxwell" NA "male" "0.9978"
+"Mayer Alvo" "Mayer" NA "male" "0.9964"
+"Mayetri Gupta" "Mayetri" NA "unknown" NA
+"Mayte Suarez-Farinas" "Mayte" NA "female" "0"
+"Mayukh Samanta" "Mayukh" NA "male" "1"
+"McLean Sloughter" "McLean" NA "male" "0.961"
+"Mechelle Lewis" "Mechelle" NA "female" "0"
+"Mee Young Park" "Mee" "Young" "female" "0"
+"Meeyoung Hong" "Meeyoung" NA "unknown" NA
+"Megan Othus" "Megan" NA "female" "0.0024"
+"Megha Patel" "Megha" NA "female" "0"
+"Mei-Cheng Wang" "Mei-Cheng" NA "unknown" NA
+"Mei-Chiung Shih" "Mei-Chiung" NA "unknown" NA
+"Mei-Jie Zhang" "Mei-Jie" NA "unknown" NA
+"Melanie Labarre" "Melanie" NA "female" "0.0025"
+"Melanie Schienle" "Melanie" NA "female" "0.0025"
+"Melissa A Bingham" "Melissa" NA "female" "0.0031"
+"Melvin J Hinich" "Melvin" NA "male" "0.9912"
+"Mendel Fygenson" "Mendel" NA "male" "1"
+"Meng Mao" "Meng" NA "male" "0.9756"
+"Menggang Yu" "Menggang" NA "unknown" NA
+"Menno Bouma" "Menno" NA "male" "1"
+"Mercedes Pascual" "Mercedes" NA "female" "0.0075"
+"Merlise A Clyde" "Merlise" NA "female" "0"
+"Merrill W Liechty" "Merrill" NA "male" "0.796"
+"Meta Voelker" "Meta" NA "female" "0"
+"Mette Gerster" "Mette" NA "female" "0"
+"Mette Langaas" "Mette" NA "female" "0"
+"Mevin B Hooten" "Mevin" NA "male" "1"
+"Mi-Ja Woo" "Mi-Ja" NA "unknown" NA
+"Mi-Ok Kim" "Mi-Ok" NA "unknown" NA
+"Micha Mandel" "Micha" NA "female" "0.4379"
+"Michael A Benjamin" "Michael" NA "male" "0.9947"
+"Michael A Fligner" "Michael" NA "male" "0.9947"
+"Michael A Newton" "Michael" NA "male" "0.9947"
+"Michael A Stephens" "Michael" NA "male" "0.9947"
+"Michael Braun" "Michael" NA "male" "0.9947"
+"Michael C Minnotte" "Michael" NA "male" "0.9947"
+"Michael D Larsen" "Michael" NA "male" "0.9947"
+"Michael D Perlman" "Michael" NA "male" "0.9947"
+"Michael E Sobel" "Michael" NA "male" "0.9947"
+"Michael Evans" "Michael" NA "male" "0.9947"
+"Michael Ferris" "Michael" NA "male" "0.9947"
+"Michael G Akritas" "Michael" NA "male" "0.9947"
+"Michael G B Blum" "Michael" NA "male" "0.9947"
+"Michael G Hudgens" "Michael" NA "male" "0.9947"
+"Michael G Kenward" "Michael" NA "male" "0.9947"
+"Michael Goldstein" "Michael" NA "male" "0.9947"
+"Michael H Albert" "Michael" NA "male" "0.9947"
+"Michael H Neumann" "Michael" NA "male" "0.9947"
+"Michael Hurd" "Michael" NA "male" "0.9947"
+"Michael I Jordan" "Michael" NA "male" "0.9947"
+"Michael J Daniels" "Michael" NA "male" "0.9947"
+"Michael J Racz" "Michael" NA "male" "0.9947"
+"Michael J Todd" "Michael" NA "male" "0.9947"
+"Michael Jansson" "Michael" NA "male" "0.9947"
+"Michael K Pitt" "Michael" NA "male" "0.9947"
+"Michael Kosoy" "Michael" NA "male" "0.9947"
+"Michael L Anderson" "Michael" NA "male" "0.9947"
+"Michael L Stein" "Michael" NA "male" "0.9947"
+"Michael Lavine" "Michael" NA "male" "0.9947"
+"Michael LeBlanc" "Michael" NA "male" "0.9947"
+"Michael Lechner" "Michael" NA "male" "0.9947"
+"Michael Levine" "Michael" NA "male" "0.9947"
+"Michael McAleer" "Michael" NA "male" "0.9947"
+"Michael Nussbaum" "Michael" NA "male" "0.9947"
+"Michael O Ball" "Michael" NA "male" "0.9947"
+"Michael P Fay" "Michael" NA "male" "0.9947"
+"Michael P Jones" "Michael" NA "male" "0.9947"
+"Michael Parzen" "Michael" NA "male" "0.9947"
+"Michael Peress" "Michael" NA "male" "0.9947"
+"Michael Pierrynowski" "Michael" NA "male" "0.9947"
+"Michael R Elliott" "Michael" NA "male" "0.9947"
+"Michael R Kosorok" "Michael" NA "male" "0.9947"
+"Michael S Kramer" "Michael" NA "male" "0.9947"
+"Michael S Lauer" "Michael" NA "male" "0.9947"
+"Michael S Rendall" "Michael" NA "male" "0.9947"
+"Michael S Smith" "Michael" NA "male" "0.9947"
+"Michael Saunders" "Michael" NA "male" "0.9947"
+"Michael Schweinberger" "Michael" NA "male" "0.9947"
+"Michael Sherman" "Michael" NA "male" "0.9947"
+"Michael Sorensen" "Michael" NA "male" "0.9947"
+"Michael Stewart" "Michael" NA "male" "0.9947"
+"Michael W Robbins" "Michael" NA "male" "0.9947"
+"Michael Wolf" "Michael" NA "male" "0.9947"
+"Michael Woodroofe" "Michael" NA "male" "0.9947"
+"Michail Sverchkov" "Michail" NA "male" "1"
+"Michal Benko" "Michal" NA "female" "0.4834"
+"Michal Kulich" "Michal" NA "female" "0.4834"
+"Michel Grzebyk" "Michel" NA "male" "0.7234"
+"Michel Wedel" "Michel" NA "male" "0.7234"
+"Michele Follen" "Michele" NA "female" "0.0096"
+"Michele Guindani" "Michele" NA "female" "0.0096"
+"Michele Morara" "Michele" NA "female" "0.0096"
+"Michelle Liou" "Michelle" NA "female" "0.0038"
+"Michelle Stanton" "Michelle" NA "female" "0.0038"
+"Miguel A Delgado" "Miguel" NA "male" "0.9936"
+"Miguel A Fernandez" "Miguel" NA "male" "0.9936"
+"Mihaela Aslan" "Mihaela" NA "female" "0"
+"Mike Baiocchi" "Mike" NA "male" "0.9966"
+"Mike West" "Mike" NA "male" "0.9966"
+"Mikhail Belkin" "Mikhail" NA "male" "0.9925"
+"Miklos Csorgo" "Miklos" NA "male" "1"
+"Mikyoung Jun" "Mikyoung" NA "unknown" NA
+"Miles S Kimball" "Miles" NA "male" "0.9973"
+"Min-Qian Liu" "Min-Qian" NA "unknown" NA
+"Min Chen" "Min" NA "male" "0.5925"
+"Min Hee Kim" "Min" "Hee" "male" "0.5925"
+"Min Kyung Kim" "Min" "Kyung" "male" "0.5925"
+"Min Qian" "Min" NA "male" "0.5925"
+"Min Tsao" "Min" NA "male" "0.5925"
+"Min Yang" "Min" NA "male" "0.5925"
+"Min Zhang" "Min" NA "male" "0.5925"
+"Min Zhu" "Min" NA "male" "0.5925"
+"Ming-Hui Chen" "Ming-Hui" NA "unknown" NA
+"Ming-Tien Tsai" "Ming-Tien" NA "unknown" NA
+"Ming-Yen Cheng" "Ming-Yen" NA "unknown" NA
+"Ming Dai" "Ming" NA "male" "0.6742"
+"Ming Li" "Ming" NA "male" "0.6742"
+"Ming Lin" "Ming" NA "male" "0.6742"
+"Ming T Lin" "Ming" NA "male" "0.6742"
+"Ming Yuan" "Ming" NA "male" "0.6742"
+"Ming Zhou" "Ming" NA "male" "0.6742"
+"Minge Xie" "Minge" NA "female" "0.1128"
+"Minggen Lu" "Minggen" NA "unknown" NA
+"Mingjin Wang" "Mingjin" NA "unknown" NA
+"Mingyao Ai" "Mingyao" NA "unknown" NA
+"Mingyuan Zhang" "Mingyuan" NA "unknown" NA
+"Minhua Chen" "Minhua" NA "unknown" NA
+"Minjing Tao" "Minjing" NA "unknown" NA
+"Minjung Kyung" "Minjung" NA "unknown" NA
+"Minou Bina" "Minou" NA "unknown" NA
+"Minya Xu" "Minya" NA "female" "0"
+"Miro R Powojowski" "Miro" NA "male" "1"
+"Miron L Straf" "Miron" NA "male" "1"
+"Miroslav Siman" "Miroslav" NA "male" "1"
+"Mitchell H Gail" "Mitchell" NA "male" "0.9928"
+"Mitchell J Small" "Mitchell" NA "male" "0.9928"
+"Mitchell S V Elkind" "Mitchell" NA "male" "0.9928"
+"Mithat Gonen" "Mithat" NA "unknown" NA
+"Mogens Bladt" "Mogens" NA "male" "1"
+"Mohamad A Khaled" "Mohamad" NA "male" "1"
+"Mohamed Yusuf Hassan" "Mohamed" "Yusuf" "male" "1"
+"Mohammad Hosseini-Nasab" "Mohammad" NA "male" "0.999"
+"Mohsen Mohammadzadeh" "Mohsen" NA "male" "1"
+"Mohsen Pourahmadi" "Mohsen" NA "male" "1"
+"Moises Goldszmidt" "Moises" NA "male" "0.9976"
+"Molin Wang" "Molin" NA "male" "1"
+"Molly Gong" "Molly" NA "female" "0.0023"
+"Mong-Na Lo Huang" "Mong-Na" "Lo" "male" "0.5972"
+"Monica Cano" "Monica" NA "female" "0.0038"
+"Monica Musio" "Monica" NA "female" "0.0038"
+"Montserrat Fuentes" "Montserrat" NA "female" "0"
+"Moreno Bevilacqua" "Moreno" NA "male" "1"
+"Morris L Eaton" "Morris" NA "male" "0.9917"
+"Mortaza Jamshidian" "Mortaza" NA "unknown" NA
+"Moshe Pollak" "Moshe" NA "male" "0.9979"
+"Moshe Shaked" "Moshe" NA "male" "0.9979"
+"Moulinath Banerjee" "Moulinath" NA "unknown" NA
+"Mounia N Hocine" "Mounia" NA "female" "0"
+"Mounir Mesbah" "Mounir" NA "male" "1"
+"Mu Zhu" "Mu" NA "female" "0.0927"
+"Murali Haran" "Murali" NA "male" "1"
+"Murray K Clayton" "Murray" NA "male" "0.9841"
+"Murray Rosenblatt" "Murray" NA "male" "0.9841"
+"Myoung-jae Lee" "Myoung-jae" NA "unknown" NA
+"Myriam Vimond" "Myriam" NA "female" "0"
+"Myron Katzoff" "Myron" NA "male" "0.9891"
+"Myung Hwan Seo" "Myung" "Hwan" "female" "0"
+"Myunghee Cho Paik" "Myunghee" "Cho" "male" "0.7354"
+"N Balakrishnan" NA NA "unknown" NA
+"N Beerenwinkel" NA NA "unknown" NA
+"N Chamandy" NA NA "unknown" NA
+"N Ganesh" NA NA "unknown" NA
+"N Lange" NA NA "unknown" NA
+"N Papadatos" NA NA "unknown" NA
+"N Raj Rao" NA "Raj" "unknown" NA
+"N Rao Chaganty" NA "Rao" "unknown" NA
+"N Reid" NA NA "unknown" NA
+"N Sartori" NA NA "unknown" NA
+"N X Lin" NA NA "unknown" NA
+"Nader Ebrahimi" "Nader" NA "male" "1"
+"Naijun Sha" "Naijun" NA "unknown" NA
+"Nail K Bakirov" "Nail" NA "male" "1"
+"Naiping Liu" "Naiping" NA "unknown" NA
+"Naisyin Wang" "Naisyin" NA "unknown" NA
+"Nam Hee Choi" "Nam" "Hee" "male" "1"
+"Nan-Jung Hsu" "Nan-Jung" NA "unknown" NA
+"Nan Hu" "Nan" NA "female" "0"
+"Nan Lin" "Nan" NA "female" "0"
+"Nan Shao" "Nan" NA "female" "0"
+"Nancy D Turner" "Nancy" NA "female" "0.0028"
+"Nancy Flournoy" "Nancy" NA "female" "0.0028"
+"Nancy L Geller" "Nancy" NA "female" "0.0028"
+"Nancy Ruonan Zhang" "Nancy" "Ruonan" "female" "0.0028"
+"Nanny Wermuth" "Nanny" NA "female" "0"
+"Naomi Altman" "Naomi" NA "female" "0.0017"
+"Narayan Shivapurkar" "Narayan" NA "male" "1"
+"Naresh M Punjabi" "Naresh" NA "male" "1"
+"Natalie Blades" "Natalie" NA "female" "0.0022"
+"Natalie Neumeyer" "Natalie" NA "female" "0.0022"
+"Natalie Shlomo" "Natalie" NA "female" "0.0022"
+"Natesh Pillai" "Natesh" NA "unknown" NA
+"Nathaniel Schenker" "Nathaniel" NA "male" "0.9951"
+"Neal O Jeffries" "Neal" NA "male" "0.9974"
+"Neil A Butler" "Neil" NA "male" "0.9964"
+"Neil Bathia" "Neil" NA "male" "0.9964"
+"Neil I Fox" "Neil" NA "male" "0.9964"
+"Nema Dean" "Nema" NA "female" "0.1327"
+"Nengfeng Zhou" "Nengfeng" NA "unknown" NA
+"Ngai Hang Chan" "Ngai" "Hang" "male" "1"
+"Nial Friel" "Nial" NA "male" "1"
+"Niall Fitzgerald" "Niall" NA "male" "1"
+"Niall M Adams" "Niall" NA "male" "1"
+"Niansheng Tang" "Niansheng" NA "unknown" NA
+"Nicholas A Heard" "Nicholas" NA "male" "0.9963"
+"Nicholas G Polson" "Nicholas" NA "male" "0.9963"
+"Nicholas P Jewell" "Nicholas" NA "male" "0.9963"
+"Nicky Best" "Nicky" NA "male" "0.7903"
+"Nicolai Bissantz" "Nicolai" NA "male" "1"
+"Nicolai Meinshausen" "Nicolai" NA "male" "1"
+"Nicolas Broutin" "Nicolas" NA "male" "0.9975"
+"Nicolas Chopin" "Nicolas" NA "male" "0.9975"
+"Nicolas Hengartner" "Nicolas" NA "male" "0.9975"
+"Nicolas Privault" "Nicolas" NA "male" "0.9975"
+"Nicolas Vayatis" "Nicolas" NA "male" "0.9975"
+"Nicolas Verzelen" "Nicolas" NA "male" "0.9975"
+"Nicolas Vieille" "Nicolas" NA "male" "0.9975"
+"Nicole A Lazar" "Nicole" NA "female" "0.0032"
+"Nicole H Augustin" "Nicole" NA "female" "0.0032"
+"Nicole Kramer" "Nicole" NA "female" "0.0032"
+"Nicoleta Serban" "Nicoleta" NA "female" "0"
+"Nidhan Choudhuri" "Nidhan" NA "unknown" NA
+"Niels G Becker" "Niels" NA "male" "1"
+"Niko A Kaciroti" "Niko" NA "male" "0.9338"
+"Nikolai Leonenko" "Nikolai" NA "male" "1"
+"Nikolai Strigul" "Nikolai" NA "male" "1"
+"Nikolaos Demiris" "Nikolaos" NA "male" "1"
+"Nikolay M Yanev" "Nikolay" NA "male" "1"
+"Nikos Tzavidis" "Nikos" NA "male" "1"
+"Nilanjan Chatterjee" "Nilanjan" NA "unknown" NA
+"Nils Chr Stenseth" "Nils" "Chr" "male" "1"
+"Nils Lid Hjort" "Nils" "Lid" "male" "1"
+"Ning Hao" "Ning" NA "male" "0.9511"
+"Nivedita V Nadkarni" "Nivedita" NA "female" "0"
+"Noah Gans" "Noah" NA "male" "0.995"
+"Noah Simon" "Noah" NA "male" "0.995"
+"Noel Cressie" "Noel" NA "male" "0.7383"
+"Noel Veraverbeke" "Noel" NA "male" "0.7383"
+"Noelle I Samia" "Noelle" NA "female" "0.0015"
+"Nora Fenske" "Nora" NA "female" "0.0047"
+"Nora Muler" "Nora" NA "female" "0.0047"
+"Noreen M Clark" "Noreen" NA "female" "0"
+"Norman E Breslow" "Norman" NA "male" "0.9938"
+"Norman R Swanson" "Norman" NA "male" "0.9938"
+"Noureddine El Karoui" "Noureddine" "El" "male" "1"
+"Nozer D Singpurwalla" "Nozer" NA "unknown" NA
+"Odile Pons" "Odile" NA "female" "0"
+"Ofer Harel" "Ofer" NA "unknown" NA
+"Ofer Zeitouni" "Ofer" NA "unknown" NA
+"Offer Lieberman" "Offer" NA "female" "0.0417"
+"Ola Hossjer" "Ola" NA "female" "0.0178"
+"Olaf Wittich" "Olaf" NA "male" "1"
+"Ole E Barndorff-Nielsen" "Ole" NA "male" "1"
+"Ole F Christensen" "Ole" NA "male" "1"
+"Oleg V Lepski" "Oleg" NA "male" "1"
+"Olga Y Savchuk" "Olga" NA "female" "0.004"
+"Oliver B Linton" "Oliver" NA "male" "0.9956"
+"Olivia Grigg" "Olivia" NA "female" "0.0017"
+"Olivier Bousquet" "Olivier" NA "male" "0.9956"
+"Olivier Cappe" "Olivier" NA "male" "0.9956"
+"Olivier Catoni" "Olivier" NA "male" "0.9956"
+"Olivier Ledoit" "Olivier" NA "male" "0.9956"
+"Olivier Thas" "Olivier" NA "male" "0.9956"
+"Olivier Wintenberger" "Olivier" NA "male" "0.9956"
+"Ollivier Hyrien" "Ollivier" NA "unknown" NA
+"Omer Ozturk" "Omer" NA "male" "0.9971"
+"Omiros Papaspiliopoulos" "Omiros" NA "unknown" NA
+"Ori Davidov" "Ori" NA "male" "0.9028"
+"Ori Rosen" "Ori" NA "male" "0.9028"
+"Oscar A Mitnik" "Oscar" NA "male" "0.9939"
+"Otilia Boldea" "Otilia" NA "female" "0"
+"Owen D Lyne" "Owen" NA "male" "0.9975"
+"P Baldi" NA NA "unknown" NA
+"P C Trandafir" NA NA "unknown" NA
+"P Druilhet" NA NA "unknown" NA
+"P F Craigmile" NA NA "unknown" NA
+"P G Blackwell" NA NA "unknown" NA
+"P Giudici" NA NA "unknown" NA
+"P H C Eilers" NA NA "unknown" NA
+"P J Brantingham" NA NA "unknown" NA
+"P L Kam" NA NA "unknown" NA
+"P Laurie Davies" NA "Laurie" "unknown" NA
+"P McDonnell" NA NA "unknown" NA
+"P P de Wolf" NA NA "unknown" NA
+"P V Larsen" NA NA "unknown" NA
+"P Vieu" NA NA "unknown" NA
+"P Y Lai" NA NA "unknown" NA
+"Pai-Ling Li" "Pai-Ling" NA "unknown" NA
+"Pamela W Duncan" "Pamela" NA "female" "0.0022"
+"Pang Du" "Pang" NA "female" "0.0166"
+"Paola Bortot" "Paola" NA "female" "0.0068"
+"Paolo Vidoni" "Paolo" NA "male" "1"
+"Paolo Zaffaroni" "Paolo" NA "male" "1"
+"Partha Lahiri" "Partha" NA "male" "1"
+"Pascal Lavergne" "Pascal" NA "male" "0.996"
+"Pascal Massart" "Pascal" NA "male" "0.996"
+"Pascal Sarda" "Pascal" NA "male" "0.996"
+"Pascal Wild" "Pascal" NA "male" "0.996"
+"Patricia A Cassano" "Patricia" NA "female" "0.003"
+"Patricia Reynaud-Bouret" "Patricia" NA "female" "0.003"
+"Patrick J Wolfe" "Patrick" NA "male" "0.9955"
+"Patrick L Gurian" "Patrick" NA "male" "0.9955"
+"Patrick Royston" "Patrick" NA "male" "0.9955"
+"Patrick S Carmack" "Patrick" NA "male" "0.9955"
+"Patrik Waldmann" "Patrik" NA "male" "1"
+"Paul Damien" "Paul" NA "male" "0.996"
+"Paul E Anderson" "Paul" NA "male" "0.996"
+"Paul Fearnhead" "Paul" NA "male" "0.996"
+"Paul Gustafson" "Paul" NA "male" "0.996"
+"Paul H Kvam" "Paul" NA "male" "0.996"
+"Paul J Rathouz" "Paul" NA "male" "0.996"
+"Paul Kabaila" "Paul" NA "male" "0.996"
+"Paul Kidwell" "Paul" NA "male" "0.996"
+"Paul L Speckman" "Paul" NA "male" "0.996"
+"Paul M Thompson" "Paul" NA "male" "0.996"
+"Paul Malliavin" "Paul" NA "male" "0.996"
+"Paul Marriott" "Paul" NA "male" "0.996"
+"Paul Meier" "Paul" NA "male" "0.996"
+"Paul Patterson" "Paul" NA "male" "0.996"
+"Paul R Rosenbaum" "Paul" NA "male" "0.996"
+"Paul S Albert" "Paul" NA "male" "0.996"
+"Paul S Clarke" "Paul" NA "male" "0.996"
+"Paul Schneider" "Paul" NA "male" "0.996"
+"Paul Smith" "Paul" NA "male" "0.996"
+"Paul Tseng" "Paul" NA "male" "0.996"
+"Paul Wiegert" "Paul" NA "male" "0.996"
+"Paula Diehr" "Paula" NA "female" "0.003"
+"Pauliina Ilmonen" "Pauliina" NA "unknown" NA
+"Paulo Goncalves" "Paulo" NA "male" "1"
+"Paulo J Ribeiro Jr" "Paulo" NA "male" "1"
+"Pavel Cizek" "Pavel" NA "male" "1"
+"Pedro Cesaralvarez-Esteban" "Pedro" NA "male" "0.9936"
+"Pedro Delicado" "Pedro" NA "male" "0.9936"
+"Pedro Galeano" "Pedro" NA "male" "0.9936"
+"Pedro Luis do Nascimento Silva" "Pedro" "Luis" "male" "0.9936"
+"Pedro Puig" "Pedro" NA "male" "0.9936"
+"Pei-Lu Chiu" "Pei-Lu" NA "unknown" NA
+"Pei-Sheng Lin" "Pei-Sheng" NA "unknown" NA
+"Pei Fen Kuan" "Pei" "Fen" "female" "0"
+"Pei Wang" "Pei" NA "female" "0"
+"Peide Shi" "Peide" NA "unknown" NA
+"Peihua Qiu" "Peihua" NA "unknown" NA
+"Peishien Wu" "Peishien" NA "unknown" NA
+"Peng Chen" "Peng" NA "male" "1"
+"Peng Ding" "Peng" NA "male" "1"
+"Peng Huang" "Peng" NA "male" "1"
+"Peng Wang" "Peng" NA "male" "1"
+"Peng Zeng" "Peng" NA "male" "1"
+"Peng Zhang" "Peng" NA "male" "1"
+"Peng Zhao" "Peng" NA "male" "1"
+"Pengfei Li" "Pengfei" NA "unknown" NA
+"Pengjie Dai" "Pengjie" NA "unknown" NA
+"Per Aslak Mykland" "Per" "Aslak" "male" "1"
+"Per Kragh Andersen" "Per" "Kragh" "male" "1"
+"Perla E Reyes" "Perla" NA "female" "0.0017"
+"Perry de Valpine" "Perry" "de" "male" "0.9657"
+"Persi Diaconis" "Persi" NA "unknown" "0.5"
+"Peter A Lachenbruch" "Peter" NA "male" "0.9966"
+"Peter B Gilbert" "Peter" NA "male" "0.9966"
+"Peter Bauer" "Peter" NA "male" "0.9966"
+"Peter Boatwright" "Peter" NA "male" "0.9966"
+"Peter Bouman" "Peter" NA "male" "0.9966"
+"Peter Buhlmann" "Peter" NA "male" "0.9966"
+"Peter C B Phillips" "Peter" NA "male" "0.9966"
+"Peter Clifford" "Peter" NA "male" "0.9966"
+"Peter Craig" "Peter" NA "male" "0.9966"
+"Peter D Grunwald" "Peter" NA "male" "0.9966"
+"Peter D Hoff" "Peter" NA "male" "0.9966"
+"Peter D Sasieni" "Peter" NA "male" "0.9966"
+"Peter E Jupp" "Peter" NA "male" "0.9966"
+"Peter F Thall" "Peter" NA "male" "0.9966"
+"Peter G M van der Heijden" "Peter" NA "male" "0.9966"
+"Peter Goos" "Peter" NA "male" "0.9966"
+"Peter Guttorp" "Peter" NA "male" "0.9966"
+"Peter H Westfall" "Peter" NA "male" "0.9966"
+"Peter Hall" "Peter" NA "male" "0.9966"
+"Peter J Bickel" "Peter" NA "male" "0.9966"
+"Peter J Brockwell" "Peter" NA "male" "0.9966"
+"Peter J Diggle" "Peter" NA "male" "0.9966"
+"Peter J Green" "Peter" NA "male" "0.9966"
+"Peter L Bartlett" "Peter" NA "male" "0.9966"
+"Peter Lenk" "Peter" NA "male" "0.9966"
+"Peter M Robinson" "Peter" NA "male" "0.9966"
+"Peter M Steiner" "Peter" NA "male" "0.9966"
+"Peter McCullagh" "Peter" NA "male" "0.9966"
+"Peter Muller" "Peter" NA "male" "0.9966"
+"Peter Radchenko" "Peter" NA "male" "0.9966"
+"Peter Spirtes" "Peter" NA "male" "0.9966"
+"Peter T Kim" "Peter" NA "male" "0.9966"
+"Peter W F Smith" "Peter" NA "male" "0.9966"
+"Peter X-K Song" "Peter" "X-K" "male" "0.9966"
+"Peter Z G Qian" "Peter" NA "male" "0.9966"
+"Petros Dellaportas" "Petros" NA "male" "1"
+"Petruta C Caragea" "Petruta" NA "unknown" NA
+"Petter Wiberg" "Petter" NA "male" "1"
+"Peyman Milanfar" "Peyman" NA "unknown" NA
+"Philip B Stark" "Philip" NA "male" "0.9967"
+"Philip D ONeill" "Philip" NA "male" "0.9967"
+"Philip E Cheng" "Philip" NA "male" "0.9967"
+"Philip J Brown" "Philip" NA "male" "0.9967"
+"Philip Preuss" "Philip" NA "male" "0.9967"
+"Philip S Hammond" "Philip" NA "male" "0.9967"
+"Philip T Reiss" "Philip" NA "male" "0.9967"
+"Philip W Davidson" "Philip" NA "male" "0.9967"
+"Philippa Musoke" "Philippa" NA "female" "0"
+"Philippe Fraysse" "Philippe" NA "male" "1"
+"Philippe Huber" "Philippe" NA "male" "1"
+"Philippe Naveau" "Philippe" NA "male" "1"
+"Philippe Rigollet" "Philippe" NA "male" "1"
+"Philippe Soulier" "Philippe" NA "male" "1"
+"Phillip L Chapman" "Phillip" NA "male" "0.9954"
+"Phillip S Kott" "Phillip" NA "male" "0.9954"
+"Pi-Wen Tsai" "Pi-Wen" NA "unknown" NA
+"Piercesare Secchi" "Piercesare" NA "unknown" NA
+"Piero Veronese" "Piero" NA "male" "1"
+"Pierpaolo De Blasi" "Pierpaolo" "De" "female" "0.4859"
+"Pierre-Jerome Bergeron" "Pierre-Jerome" NA "unknown" NA
+"Pierre-Yves Boelle" "Pierre-Yves" NA "unknown" NA
+"Pierre Del Moral" "Pierre" "Del" "male" "0.9949"
+"Pierre Priouret" "Pierre" NA "male" "0.9949"
+"Pierre Vandekerkhove" "Pierre" NA "male" "0.9949"
+"Piet Groeneboom" "Piet" NA "male" "1"
+"Pilar L Iglesias" "Pilar" NA "female" "0.1088"
+"Ping-Shou Zhong" "Ping-Shou" NA "unknown" NA
+"Ping Ma" "Ping" NA "female" "0.3615"
+"Piotr Fryzlewicz" "Piotr" NA "male" "1"
+"Piotr Graczyk" "Piotr" NA "male" "1"
+"Piotr Kokoszka" "Piotr" NA "male" "1"
+"Prabir Burman" "Prabir" NA "unknown" NA
+"Pradeep Ravikumar" "Pradeep" NA "male" "1"
+"Prakash V Bhave" "Prakash" NA "male" "1"
+"Pranab K Sen" "Pranab" NA "unknown" NA
+"Prasad A Naik" "Prasad" NA "male" "1"
+"Pritam Ranjan" "Pritam" NA "male" "1"
+"Probal Chaudhuri" "Probal" NA "unknown" NA
+"Pulak Ghosh" "Pulak" NA "unknown" NA
+"Qi-Man Shao" "Qi-Man" NA "unknown" NA
+"Qi Li" "Qi" NA "male" "1"
+"Qi Long" "Qi" NA "male" "1"
+"Qi Tang" "Qi" NA "male" "1"
+"Qian M Zhou" "Qian" NA "male" "1"
+"Qiang Xu" "Qiang" NA "unknown" NA
+"Qiang Zhang" "Qiang" NA "unknown" NA
+"Qiansheng Cheng" "Qiansheng" NA "unknown" NA
+"Qihua Wang" "Qihua" NA "unknown" NA
+"Qing Liu" "Qing" NA "female" "0"
+"Qing Mai" "Qing" NA "female" "0"
+"Qing Zhou" "Qing" NA "female" "0"
+"Qingxia Chen" "Qingxia" NA "unknown" NA
+"QiQi Lu" "QiQi" NA "unknown" NA
+"Qiwei Yao" "Qiwei" NA "unknown" NA
+"Qiying Wang" "Qiying" NA "unknown" NA
+"Qizhai Li" "Qizhai" NA "unknown" NA
+"Quan Hong" "Quan" NA "male" "0.9668"
+"Quanhong Lei" "Quanhong" NA "unknown" NA
+"Quanli Wang" "Quanli" NA "unknown" NA
+"R A Bailey" NA NA "unknown" NA
+"R Averkamp" NA NA "unknown" NA
+"R Ayesha Ali" NA "Ayesha" "female" "0"
+"R Balasubramanian" NA NA "unknown" NA
+"R de Jonge" NA "de" "unknown" NA
+"R Dennis Cook" NA "Dennis" "unknown" NA
+"R Fluss" NA NA "unknown" NA
+"R J Buchanan" NA NA "unknown" NA
+"R J Parthasarathy" NA NA "unknown" NA
+"R King" NA NA "unknown" NA
+"R L Eubank" NA NA "unknown" NA
+"R M Balan" NA NA "unknown" NA
+"R M Dudley" NA NA "unknown" NA
+"R M Fewster" NA NA "unknown" NA
+"R M Kuiper" NA NA "unknown" NA
+"R Overholser" NA NA "unknown" NA
+"R R Ramsahai" NA NA "unknown" NA
+"R Reeves" NA NA "unknown" NA
+"R Todd Ogden" NA "Todd" "unknown" NA
+"R Turner" NA NA "unknown" NA
+"R Xu" NA NA "unknown" NA
+"Rabi Bhattacharya" "Rabi" NA "male" "1"
+"Rachel MacKay Altman" "Rachel" "MacKay" "female" "0.003"
+"Radford M Neal" "Radford" NA "male" "1"
+"Radu V Craiu" "Radu" NA "male" "1"
+"Rafael A Irizarry" "Rafael" NA "male" "0.9915"
+"Rafael Weissbach" "Rafael" NA "male" "0.9915"
+"Rafal Kulik" "Rafal" NA "male" "1"
+"Rahul Mazumder" "Rahul" NA "male" "1"
+"Rahul Mukerjee" "Rahul" NA "male" "1"
+"Rainer Dahlhaus" "Rainer" NA "male" "0.9853"
+"Rainer von Sachs" "Rainer" "von" "male" "0.9853"
+"Rajeev Ayyagari" "Rajeev" NA "male" "1"
+"Rajesh Talluri" "Rajesh" NA "male" "1"
+"Rajita Sinha" "Rajita" NA "unknown" NA
+"Ralf Krahe" "Ralf" NA "male" "1"
+"Ralf van der Lans" "Ralf" "van" "male" "1"
+"Ralph D Snyder" "Ralph" NA "male" "0.9958"
+"Ram C Tiwari" "Ram" NA "male" "1"
+"Ramani S Pilla" "Ramani" NA "female" "0"
+"Ramesh C Dhiman" "Ramesh" NA "male" "1"
+"Ramon Oller" "Ramon" NA "male" "0.9921"
+"Ramon van den Akker" "Ramon" "van" "male" "0.9921"
+"Ramon van Handel" "Ramon" "van" "male" "0.9921"
+"Ramses H Mena" "Ramses" NA "male" "1"
+"Randal Douc" "Randal" NA "male" "0.9951"
+"Randall D Tobias" "Randall" NA "male" "0.9937"
+"Randy R Sitter" "Randy" NA "male" "0.9841"
+"Ranjan Maitra" "Ranjan" NA "male" "1"
+"Raphael Gottardo" "Raphael" NA "male" "0.9862"
+"Raquel Prado" "Raquel" NA "female" "0.0056"
+"Rasmus Waagepetersen" "Rasmus" NA "male" "1"
+"Raul Jimenez" "Raul" NA "male" "0.9936"
+"Ravi Varadhan" "Ravi" NA "male" "0.9979"
+"Ray Chambers" "Ray" NA "male" "0.984"
+"Raymond J Carroll" "Raymond" NA "male" "0.9952"
+"Raymond L Chambers" "Raymond" NA "male" "0.9952"
+"Re-Jin Guo" "Re-Jin" NA "unknown" NA
+"Rebecca A Betensky" "Rebecca" NA "female" "0.0027"
+"Rebecca A Hubbard" "Rebecca" NA "female" "0.0027"
+"Recai M Yucel" "Recai" NA "unknown" NA
+"Refik Soyer" "Refik" NA "unknown" NA
+"Reg Kulperger" "Reg" NA "male" "1"
+"Regina Y Liu" "Regina" NA "female" "0.0033"
+"Reinhard Furrer" "Reinhard" NA "male" "1"
+"Remy Cottet" "Remy" NA "male" "0.5583"
+"Renata Nemeth" "Renata" NA "female" "8e-04"
+"Renato Monteiro" "Renato" NA "male" "0.9974"
+"Rene Belder" "Rene" NA "male" "0.6692"
+"Renee X de Menezes" "Renee" NA "female" "0.0083"
+"Renjun Ma" "Renjun" NA "unknown" NA
+"Reto Knutti" "Reto" NA "female" "0"
+"Reza Pakyari" "Reza" NA "male" "1"
+"Ricardo Fraiman" "Ricardo" NA "male" "0.9942"
+"Ricardo Olea" "Ricardo" NA "male" "0.9942"
+"Ricardo T Lemos" "Ricardo" NA "male" "0.9942"
+"Richard A Davis" "Richard" NA "male" "0.9963"
+"Richard A Levine" "Richard" NA "male" "0.9963"
+"Richard A Lockhart" "Richard" NA "male" "0.9963"
+"Richard A Olshen" "Richard" NA "male" "0.9963"
+"Richard Arratia" "Richard" NA "male" "0.9963"
+"Richard C Steed" "Richard" NA "male" "0.9963"
+"Richard Charnigo" "Richard" NA "male" "0.9963"
+"Richard D Gill" "Richard" NA "male" "0.9963"
+"Richard E Chandler" "Richard" NA "male" "0.9963"
+"Richard F Gunst" "Richard" NA "male" "0.9963"
+"Richard Herrick" "Richard" NA "male" "0.9963"
+"Richard Huggins" "Richard" NA "male" "0.9963"
+"Richard J Boys" "Richard" NA "male" "0.9963"
+"Richard J Cook" "Richard" NA "male" "0.9963"
+"Richard J Gardner" "Richard" NA "male" "0.9963"
+"Richard J Rendleman Jr" "Richard" NA "male" "0.9963"
+"Richard J Swartz" "Richard" NA "male" "0.9963"
+"Richard K Crump" "Richard" NA "male" "0.9963"
+"Richard L Smith" "Richard" NA "male" "0.9963"
+"Richard L Tweedie" "Richard" NA "male" "0.9963"
+"Richard M Bittman" "Richard" NA "male" "0.9963"
+"Richard N Ross" "Richard" NA "male" "0.9963"
+"Richard Nickl" "Richard" NA "male" "0.9963"
+"Richard P Waterman" "Richard" NA "male" "0.9963"
+"Richard Routledge" "Richard" NA "male" "0.9963"
+"Richard Royall" "Richard" NA "male" "0.9963"
+"Richard Samworth" "Richard" NA "male" "0.9963"
+"Richard Scheines" "Richard" NA "male" "0.9963"
+"Richard T Burnett" "Richard" NA "male" "0.9963"
+"Richard Tiller" "Richard" NA "male" "0.9963"
+"Rick Chappell" "Rick" NA "male" "0.9982"
+"Rik Pieters" "Rik" NA "male" "1"
+"Rina Foygel" "Rina" NA "female" "0"
+"Rob J Hyndman" "Rob" NA "male" "1"
+"Robert A Connolly" "Robert" NA "male" "0.9959"
+"Robert A Koyak" "Robert" NA "male" "0.9959"
+"Robert A Rigby" "Robert" NA "male" "0.9959"
+"Robert A Rosenheck" "Robert" NA "male" "0.9959"
+"Robert A Stine" "Robert" NA "male" "0.9959"
+"Robert A Wolfe" "Robert" NA "male" "0.9959"
+"Robert B Gramacy" "Robert" NA "male" "0.9959"
+"Robert B Lund" "Robert" NA "male" "0.9959"
+"Robert B Scharpf" "Robert" NA "male" "0.9959"
+"Robert D Nowak" "Robert" NA "male" "0.9959"
+"Robert E Kass" "Robert" NA "male" "0.9959"
+"Robert E McCulloch" "Robert" NA "male" "0.9959"
+"Robert E Schapire" "Robert" NA "male" "0.9959"
+"Robert E Weiss" "Robert" NA "male" "0.9959"
+"Robert F Dougherty" "Robert" NA "male" "0.9959"
+"Robert Gentleman" "Robert" NA "male" "0.9959"
+"Robert Greevy" "Robert" NA "male" "0.9959"
+"Robert H Shumway" "Robert" NA "male" "0.9959"
+"Robert J Boik" "Robert" NA "male" "0.9959"
+"Robert J Kohn" "Robert" NA "male" "0.9959"
+"Robert J Petrunia" "Robert" NA "male" "0.9959"
+"Robert J Tibshirani" "Robert" NA "male" "0.9959"
+"Robert Jarrow" "Robert" NA "male" "0.9959"
+"Robert Kwiecien" "Robert" NA "male" "0.9959"
+"Robert L Mason" "Robert" NA "male" "0.9959"
+"Robert L Paige" "Robert" NA "male" "0.9959"
+"Robert L Strawderman" "Robert" NA "male" "0.9959"
+"Robert L Winkler" "Robert" NA "male" "0.9959"
+"Robert L Wolpert" "Robert" NA "male" "0.9959"
+"Robert M Dorazio" "Robert" NA "male" "0.9959"
+"Robert M Elashoff" "Robert" NA "male" "0.9959"
+"Robert M Merion" "Robert" NA "male" "0.9959"
+"Robert Nau" "Robert" NA "male" "0.9959"
+"Robert T Krafty" "Robert" NA "male" "0.9959"
+"Robert W Haley" "Robert" NA "male" "0.9959"
+"Robert W Platt" "Robert" NA "male" "0.9959"
+"Robertas Gabrys" "Robertas" NA "female" "0.288"
+"Robin Henderson" "Robin" NA "female" "0.123"
+"Roch Roy" "Roch" NA "male" "1"
+"Roderick J A Little" "Roderick" NA "male" "0.9935"
+"Roee Gutman" "Roee" NA "male" "1"
+"Roger D Peng" "Roger" NA "male" "0.9962"
+"Roger E Bumgarner" "Roger" NA "male" "0.9962"
+"Roger Koenker" "Roger" NA "male" "0.9962"
+"Rohit S Deo" "Rohit" NA "male" "1"
+"Roland Fried" "Roland" NA "male" "0.9964"
+"Roland Meeks" "Roland" NA "male" "0.9964"
+"Roland Speicher" "Roland" NA "male" "0.9964"
+"Rolf Sundberg" "Rolf" NA "male" "1"
+"Roman Holenstein" "Roman" NA "male" "0.9956"
+"Roman Liska" "Roman" NA "male" "0.9956"
+"Ron Brookmeyer" "Ron" NA "male" "0.9979"
+"Ron C Mittelhammer" "Ron" NA "male" "0.9979"
+"Ron Stewart" "Ron" NA "male" "0.9979"
+"Ronald A DeVore" "Ronald" NA "male" "0.9963"
+"Ronald Christensen" "Ronald" NA "male" "0.9963"
+"Ronald E Gangnon" "Ronald" NA "male" "0.9963"
+"Ronald H Randles" "Ronald" NA "male" "0.9963"
+"Ronald Klein" "Ronald" NA "male" "0.9963"
+"Ronald Neath" "Ronald" NA "male" "0.9963"
+"Ronald S Brookmeyer" "Ronald" NA "male" "0.9963"
+"Ronald W Butler" "Ronald" NA "male" "0.9963"
+"Rong Chen" "Rong" NA "unknown" NA
+"Rong Tang" "Rong" NA "unknown" NA
+"Ronghua Luo" "Ronghua" NA "unknown" NA
+"Rongling Wu" "Rongling" NA "unknown" NA
+"Rongning Wu" "Rongning" NA "unknown" NA
+"Roopesh Ranjan" "Roopesh" NA "unknown" NA
+"Rory J Todhunter" "Rory" NA "male" "0.8226"
+"Ross Corkrey" "Ross" NA "male" "0.9955"
+"Ross Iaci" "Ross" NA "male" "0.9955"
+"Ross L Prentice" "Ross" NA "male" "0.9955"
+"Ruben H Zamar" "Ruben" NA "male" "0.9932"
+"Rudolf Beran" "Rudolf" NA "male" "1"
+"Rudolf Grubel" "Rudolf" NA "male" "1"
+"Rudolf Riedi" "Rudolf" NA "male" "1"
+"Ruey S Tsay" "Ruey" NA "female" "0.3206"
+"Ruggero Bellio" "Ruggero" NA "male" "1"
+"Rui Feng" "Rui" NA "male" "0.9793"
+"Rui Paulo" "Rui" NA "male" "0.9793"
+"Rui Song" "Rui" NA "male" "0.9793"
+"Ruixue Liu" "Ruixue" NA "unknown" NA
+"Runchu Zhang" "Runchu" NA "unknown" NA
+"Runlong Tang" "Runlong" NA "unknown" NA
+"Runze Li" "Runze" NA "unknown" NA
+"Ruoqing Zhu" "Ruoqing" NA "unknown" NA
+"Ruosha Li" "Ruosha" NA "unknown" NA
+"Russ Hauser" "Russ" NA "male" "1"
+"Russell D Gray" "Russell" NA "male" "0.9954"
+"Rusty Tchernis" "Rusty" NA "male" "0.967"
+"Ruth Etzioni" "Ruth" NA "female" "0.0037"
+"Ruth G Shaw" "Ruth" NA "female" "0.0037"
+"Ruth Heller" "Ruth" NA "female" "0.0037"
+"Ryan J Tibshirani" "Ryan" NA "male" "0.9768"
+"Ryan Janicki" "Ryan" NA "male" "0.9768"
+"Ryan Lekivetz" "Ryan" NA "male" "0.9768"
+"Ryan Martin" "Ryan" NA "male" "0.9768"
+"Ryan T Elmore" "Ryan" NA "male" "0.9768"
+"Ryo Yoshida" "Ryo" NA "male" "1"
+"S A Padoan" NA NA "unknown" NA
+"S Allassonniere" NA NA "unknown" NA
+"S C Kou" NA NA "unknown" NA
+"S Chen" NA NA "unknown" NA
+"S Conti" NA NA "unknown" NA
+"S Correa" NA NA "unknown" NA
+"S Kang" NA NA "unknown" NA
+"S L Zabell" NA NA "unknown" NA
+"S Land" NA NA "unknown" NA
+"S Lynne Stokes" NA "Lynne" "unknown" NA
+"S P Preston" NA NA "unknown" NA
+"S S J Wang" NA NA "unknown" NA
+"Sabine Van Huffel" "Sabine" "Van" "female" "0"
+"Sadanori Konishi" "Sadanori" NA "male" "1"
+"Sahand Negahban" "Sahand" NA "male" "1"
+"Saharon Rosset" "Saharon" NA "unknown" NA
+"Sallie Keller-McNulty" "Sallie" NA "female" "0.0014"
+"Sally C Morton" "Sally" NA "female" "0.0029"
+"Sally W Thurston" "Sally" NA "female" "0.0029"
+"Sally Wood" "Sally" NA "female" "0.0029"
+"Sam Behseta" "Sam" NA "male" "0.9872"
+"Sam Efromovich" "Sam" NA "male" "0.9872"
+"Samir Ben Hariz" "Samir" "Ben" "male" "0.9921"
+"Samir Soneji" "Samir" NA "male" "0.9921"
+"Samiran Sinha" "Samiran" NA "female" "0"
+"Samuel Copt" "Samuel" NA "male" "0.9958"
+"Samuel Muller" "Samuel" NA "male" "0.9958"
+"Samuel S Wu" "Samuel" NA "male" "0.9958"
+"Sanat K Sarkar" "Sanat" NA "male" "1"
+"Sander Greenland" "Sander" NA "male" "0.9241"
+"Sandra A Garcet-Rodriguez" "Sandra" NA "female" "0.0029"
+"Sandra Freitag-Wolf" "Sandra" NA "female" "0.0029"
+"Sandy Clarke" "Sandy" NA "female" "0.1044"
+"Sanford Weisberg" "Sanford" NA "male" "1"
+"Sangeeta Khare" "Sangeeta" NA "female" "0"
+"Sangjun Lee" "Sangjun" NA "unknown" NA
+"Sanjay Chaudhuri" "Sanjay" NA "male" "1"
+"Sanjib Basu" "Sanjib" NA "unknown" NA
+"Sanjoy K Sinha" "Sanjoy" NA "unknown" NA
+"Sara A van de Geer" "Sara" NA "female" "0.0029"
+"Sara D Lawhon" "Sara" NA "female" "0.0029"
+"Sara Geneletti" "Sara" NA "female" "0.0029"
+"Sara Lopez-Pintado" "Sara" NA "female" "0.0029"
+"Sara Martino" "Sara" NA "female" "0.0029"
+"Sara Sjostedt-de Luna" "Sara" "Sjostedt-de" "female" "0.0029"
+"Sara Taskinen" "Sara" NA "female" "0.0029"
+"Sara van de Geer" "Sara" "van" "female" "0.0029"
+"Sarah B Streett" "Sarah" NA "female" "0.0029"
+"Sarah J Ratcliffe" "Sarah" NA "female" "0.0029"
+"Sarat C Dass" "Sarat" NA "female" "0"
+"Sarjinder Singh" "Sarjinder" NA "unknown" NA
+"Sastry G Pantula" "Sastry" NA "unknown" NA
+"Satoshi Kuriki" "Satoshi" NA "male" "1"
+"Saul Shiffman" "Saul" NA "male" "0.9975"
+"Savas Papadopoulos" "Savas" NA "male" "1"
+"Scotland C Leman" "Scotland" NA "male" "0.5991"
+"Scott A Sisson" "Scott" NA "male" "0.9964"
+"Scott B Cantor" "Scott" NA "male" "0.9964"
+"Scott D Solomon" "Scott" NA "male" "0.9964"
+"Scott Gilbert" "Scott" NA "male" "0.9964"
+"Scott H Holan" "Scott" NA "male" "0.9964"
+"Scott L Schwartz" "Scott" NA "male" "0.9964"
+"Scott L Zeger" "Scott" NA "male" "0.9964"
+"Scott Lindroth" "Scott" NA "male" "0.9964"
+"Scott Lorch" "Scott" NA "male" "0.9964"
+"Scott M Berry" "Scott" NA "male" "0.9964"
+"Sean D Campbell" "Sean" NA "male" "0.9925"
+"Sean OBrien" "Sean" NA "male" "0.9925"
+"Sebastian Irle" "Sebastian" NA "male" "0.9973"
+"Sebastien Gadat" "Sebastien" NA "male" "1"
+"Sebastien J-P A Haneuse" "Sebastien" "J-P" "male" "1"
+"Sebastien Van Bellegem" "Sebastien" "Van" "male" "1"
+"Seiya Imoto" "Seiya" NA "male" "1"
+"Seok-Oh Jeong" "Seok-Oh" NA "unknown" NA
+"SEONGHO Wu" "SEONGHO" NA "unknown" NA
+"Seonjoo Lee" "Seonjoo" NA "unknown" NA
+"Sergey Sheetlin" "Sergey" NA "male" "1"
+"Sergey Zeltyn" "Sergey" NA "male" "1"
+"Sergio Bacallado" "Sergio" NA "male" "0.9946"
+"Sergiy Sidenko" "Sergiy" NA "unknown" NA
+"Seth Sanders" "Seth" NA "male" "0.9966"
+"Seth Sullivant" "Seth" NA "male" "0.9966"
+"Seu Keow Cheng" "Seu" "Keow" "male" "1"
+"Seunggeun Lee" "Seunggeun" NA "unknown" NA
+"Shahar Mendelson" "Shahar" NA "unknown" NA
+"Shakeeb Khan" "Shakeeb" NA "unknown" NA
+"Shan Ba" "Shan" NA "male" "0.6946"
+"Shane T Jensen" "Shane" NA "male" "0.9805"
+"Shanshan Wang" "Shanshan" NA "unknown" NA
+"Shao-Wei Cheng" "Shao-Wei" NA "unknown" NA
+"Shaojun Guo" "Shaojun" NA "unknown" NA
+"Shaoli Wang" "Shaoli" NA "unknown" NA
+"Sharad Borle" "Sharad" NA "male" "1"
+"Sharon-Lise T Normand" "Sharon-Lise" NA "unknown" NA
+"Sharon L Hedley" "Sharon" NA "female" "0.0038"
+"Sharon L Lohr" "Sharon" NA "female" "0.0038"
+"Shaun R Seaman" "Shaun" NA "male" "0.9539"
+"Shein-Chung Chow" "Shein-Chung" NA "unknown" NA
+"Sheng Luo" "Sheng" NA "female" "0.0273"
+"ShengLi Tzeng" "ShengLi" NA "unknown" NA
+"Shibao Feng" "Shibao" NA "unknown" NA
+"Shie-Shien Yang" "Shie-Shien" NA "unknown" NA
+"Shijie Tang" "Shijie" NA "unknown" NA
+"Shili Lin" "Shili" NA "unknown" NA
+"Shinsuke Koyama" "Shinsuke" NA "male" "1"
+"Shinto Eguchi" "Shinto" NA "unknown" NA
+"Shiqing Ling" "Shiqing" NA "unknown" NA
+"Shogo Kato" "Shogo" NA "male" "1"
+"Shoichi Sasabuchi" "Shoichi" NA "male" "1"
+"Shu-Chuan Chen" "Shu-Chuan" NA "unknown" NA
+"Shuangge Ma" "Shuangge" NA "unknown" NA
+"Shuanglin Zhang" "Shuanglin" NA "unknown" NA
+"Shubhankar Ray" "Shubhankar" NA "unknown" NA
+"Shuheng Zhou" "Shuheng" NA "unknown" NA
+"Shulamith T Gross" "Shulamith" NA "female" "0"
+"Shun-Yi Chen" "Shun-Yi" NA "unknown" NA
+"Shurong Zheng" "Shurong" NA "unknown" NA
+"Shuyuan He" "Shuyuan" NA "unknown" NA
+"Shyamal Das Peddada" "Shyamal" "Das" "male" "0.75"
+"Sibel Sirakaya" "Sibel" NA "female" "0"
+"Siddhartha Chib" "Siddhartha" NA "male" "1"
+"Siegfried Hormann" "Siegfried" NA "male" "1"
+"Siem Jan Koopman" "Siem" "Jan" "male" "1"
+"Siew Leng Teng" "Siew" "Leng" "female" "0"
+"Siji Wang" "Siji" NA "unknown" NA
+"Sijian Wang" "Sijian" NA "unknown" NA
+"Sikyum Lee" "Sikyum" NA "unknown" NA
+"Silke W W Rolles" "Silke" NA "female" "0"
+"Silvia Centanni" "Silvia" NA "female" "0.0027"
+"Silvia Goncalves" "Silvia" NA "female" "0.0027"
+"Silvia Liverani" "Silvia" NA "female" "0.0027"
+"Silvia Shimakura" "Silvia" NA "female" "0.0027"
+"Simon C Shaw" "Simon" NA "male" "0.9966"
+"Simon Cauchemez" "Simon" NA "male" "0.9966"
+"Simon Guillotte" "Simon" NA "male" "0.9966"
+"Simon J Godsill" "Simon" NA "male" "0.9966"
+"Simon J Sheather" "Simon" NA "male" "0.9966"
+"Simon N Wood" "Simon" NA "male" "0.9966"
+"Simone Pigolotti" "Simone" NA "female" "0.0173"
+"Simone Vantini" "Simone" NA "female" "0.0173"
+"Sin-Ho Jung" "Sin-Ho" NA "unknown" NA
+"Sinae Kim" "Sinae" NA "female" "0"
+"Sindhu Srinivas" "Sindhu" NA "female" "0"
+"Sining Chen" "Sining" NA "unknown" NA
+"Sioban D Harlow" "Sioban" NA "female" "0"
+"Sittisak Leelahanon" "Sittisak" NA "unknown" NA
+"Siu Hung Cheung" "Siu" "Hung" "female" "0.2663"
+"Siu Kei Sun" "Siu" "Kei" "female" "0.2663"
+"Snigdhansu Chatterjee" "Snigdhansu" NA "unknown" NA
+"Sock-Cheng Lewin-Koh" "Sock-Cheng" NA "unknown" NA
+"Sofia Andersson" "Sofia" NA "female" "9e-04"
+"Sofia C Olhede" "Sofia" NA "female" "9e-04"
+"Sokbae Lee" "Sokbae" NA "unknown" NA
+"Soma S Dhavala" "Soma" NA "female" "0.3993"
+"Somnath Datta" "Somnath" NA "unknown" NA
+"Song Xi Chen" "Song" "Xi" "female" "0.2597"
+"Song Yang" "Song" NA "female" "0.2597"
+"Song Zhang" "Song" NA "female" "0.2597"
+"Songhe Cai" "Songhe" NA "unknown" NA
+"Songnian Chen" "Songnian" NA "unknown" NA
+"Songqiao Wen" "Songqiao" NA "unknown" NA
+"Sonia Petrone" "Sonia" NA "female" "0.0043"
+"Sonja Greven" "Sonja" NA "female" "0.0011"
+"Sonja Zehetmayer" "Sonja" NA "female" "0.0011"
+"Sophie Baillargeon" "Sophie" NA "female" "7e-04"
+"Sophie Dabo-Niang" "Sophie" NA "female" "7e-04"
+"Sophie Schbath" "Sophie" NA "female" "7e-04"
+"Soren Hojsgaard" "Soren" NA "male" "0.9394"
+"Soren Tolver Jensen" "Soren" "Tolver" "male" "0.9394"
+"Soumendra N Lahiri" "Soumendra" NA "unknown" NA
+"Soumik Pal" "Soumik" NA "unknown" NA
+"Sounak Chakraborty" "Sounak" NA "unknown" NA
+"Sourav Chatterjee" "Sourav" NA "unknown" NA
+"Spiridon Penev" "Spiridon" NA "male" "1"
+"Stan Hurn" "Stan" NA "male" "1"
+"Stanislav Volgushev" "Stanislav" NA "male" "1"
+"Steen A Andersson" "Steen" NA "male" "1"
+"Stefan Sperlich" "Stefan" NA "male" "0.9975"
+"Stefan Van Aelst" "Stefan" "Van" "male" "0.9975"
+"Stefanie Biedermann" "Stefanie" NA "female" "0.0011"
+"Stefanie Titoff" "Stefanie" NA "female" "0.0011"
+"Stefano Cabras" "Stefano" NA "male" "1"
+"Stefano Favaro" "Stefano" NA "male" "1"
+"Stefano M Iacus" "Stefano" NA "male" "1"
+"Steffanie A Strathdee" "Steffanie" NA "female" "0"
+"Steffen L Lauritzen" "Steffen" NA "male" "1"
+"Steffen Unkel" "Steffen" NA "male" "1"
+"Steinar Engen" "Steinar" NA "male" "0.9966"
+"Stephan Clemencon" "Stephan" NA "male" "0.9905"
+"Stephan F Huckemann" "Stephan" NA "male" "0.9905"
+"Stephane Mallat" "Stephane" NA "female" "0.3554"
+"Stephane Mottelet" "Stephane" NA "female" "0.3554"
+"Stephanie M Engel" "Stephanie" NA "female" "0.0034"
+"Stephen Bruce Vardeman" "Stephen" "Bruce" "male" "0.9964"
+"Stephen E Feinberg" "Stephen" NA "male" "0.9964"
+"Stephen E Fienberg" "Stephen" NA "male" "0.9964"
+"Stephen G Walker" "Stephen" NA "male" "0.9964"
+"Stephen H Shore" "Stephen" NA "male" "0.9964"
+"Stephen L Rathbun" "Stephen" NA "male" "0.9964"
+"Stephen Lagakos" "Stephen" NA "male" "0.9964"
+"Stephen M S Lee" "Stephen" NA "male" "0.9964"
+"Stephen M Stigler" "Stephen" NA "male" "0.9964"
+"Stephen Ogle" "Stephen" NA "male" "0.9964"
+"Stephen P Brooks" "Stephen" NA "male" "0.9964"
+"Stephen Portnoy" "Stephen" NA "male" "0.9964"
+"Stephen W Raudenbush" "Stephen" NA "male" "0.9964"
+"Steve Brooks" "Steve" NA "male" "0.9961"
+"Steve Butler" "Steve" NA "male" "0.9961"
+"Steve Hanneke" "Steve" NA "male" "0.9961"
+"Steven Bate" "Steven" NA "male" "0.9963"
+"Steven Buyske" "Steven" NA "male" "0.9963"
+"Steven D Mark" "Steven" NA "male" "0.9963"
+"Steven de Rooij" "Steven" "de" "male" "0.9963"
+"Steven E Lipshultz" "Steven" NA "male" "0.9963"
+"Steven E Stern" "Steven" NA "male" "0.9963"
+"Steven J Novick" "Steven" NA "male" "0.9963"
+"Steven K Thompson" "Steven" NA "male" "0.9963"
+"Steven L Gortmaker" "Steven" NA "male" "0.9963"
+"Steven L Scott" "Steven" NA "male" "0.9963"
+"Steven M Bortnick" "Steven" NA "male" "0.9963"
+"Steven M Goodreau" "Steven" NA "male" "0.9963"
+"Steven N Evans" "Steven" NA "male" "0.9963"
+"Steven N MacEachern" "Steven" NA "male" "0.9963"
+"Steven P Lalley" "Steven" NA "male" "0.9963"
+"Stijn Vansteelandt" "Stijn" NA "unknown" NA
+"Stuart Barber" "Stuart" NA "male" "0.9953"
+"Stuart Coles" "Stuart" NA "male" "0.9953"
+"Stuart R Lipsitz" "Stuart" NA "male" "0.9953"
+"Stuart Wagenius" "Stuart" NA "male" "0.9953"
+"Su-Chun Cheng" "Su-Chun" NA "unknown" NA
+"Subal C Kumbhakar" "Subal" NA "male" "1"
+"Subharup Guha" "Subharup" NA "unknown" NA
+"Subhash R Lele" "Subhash" NA "unknown" NA
+"Subhashis Ghosal" "Subhashis" NA "unknown" NA
+"Sucharita Gopal" "Sucharita" NA "unknown" NA
+"Sudipto Banerjee" "Sudipto" NA "unknown" NA
+"Sue Min Lai" "Sue" "Min" "female" "0.0037"
+"Suhasini Subba Rao" "Suhasini" "Subba" "unknown" NA
+"Sujay Datta" "Sujay" NA "male" "1"
+"Sujit K Ghosh" "Sujit" NA "male" "1"
+"Sujit K Sahu" "Sujit" NA "male" "1"
+"Sumeetpal S Singh" "Sumeetpal" NA "unknown" NA
+"Sunduz Kelecs" "Sunduz" NA "unknown" NA
+"Sung-Cheol Yun" "Sung-Cheol" NA "unknown" NA
+"Sung-Ho Kim" "Sung-Ho" NA "unknown" NA
+"Sungduk Kim" "Sungduk" NA "unknown" NA
+"Sunghoon Kwon" "Sunghoon" NA "unknown" NA
+"Sungkyu Jung" "Sungkyu" NA "unknown" NA
+"Sungyoung Auh" "Sungyoung" NA "unknown" NA
+"Suojin Wang" "Suojin" NA "unknown" NA
+"Surajit Ray" "Surajit" NA "unknown" NA
+"Surya T Tokdar" "Surya" NA "male" "0.7263"
+"Susan A Gauthier" "Susan" NA "female" "0.0022"
+"Susan A Murphy" "Susan" NA "female" "0.0022"
+"Susan Lozier" "Susan" NA "female" "0.0022"
+"Susan Murray" "Susan" NA "female" "0.0022"
+"Susan P Holmes" "Susan" NA "female" "0.0022"
+"Susana Rubin-Bleuer" "Susana" NA "female" "0.0026"
+"Susanne M Schennach" "Susanne" NA "female" "0"
+"Susanne Rosthoj" "Susanne" NA "female" "0"
+"Suyun Huang" "Suyun" NA "unknown" NA
+"Suzette Blanchard" "Suzette" NA "female" "3e-04"
+"Sveinung Erland" "Sveinung" NA "male" "1"
+"Swati Biswas" "Swati" NA "female" "0"
+"Syed N U A Kirmani" "Syed" NA "male" "0.9972"
+"Sylvain Arlot" "Sylvain" NA "male" "1"
+"Sylvain Sardy" "Sylvain" NA "male" "1"
+"Sylvia Fruhwirth-Schnatter" "Sylvia" NA "female" "0.0037"
+"Sylvia Richardson" "Sylvia" NA "female" "0.0037"
+"Sylvie Goetgeluk" "Sylvie" NA "female" "0"
+"Sylvie Huet" "Sylvie" NA "female" "0"
+"Szymon Borak" "Szymon" NA "male" "1"
+"T C Chang" NA NA "unknown" NA
+"T D Downs" NA NA "unknown" NA
+"T J Heaton" NA NA "unknown" NA
+"T Jaki" NA NA "unknown" NA
+"T N Sriram" NA NA "unknown" NA
+"T Schweder" NA NA "unknown" NA
+"T Tony Cai" NA "Tony" "unknown" NA
+"Ta-Hsin Li" "Ta-Hsin" NA "unknown" NA
+"Tadeusz Inglot" "Tadeusz" NA "male" "1"
+"Tae Yoon Kim" "Tae" "Yoon" "male" "0.7661"
+"Taeyoung Park" "Taeyoung" NA "unknown" NA
+"Tailen Hsing" "Tailen" NA "unknown" NA
+"Takeshi Tsukamoto" "Takeshi" NA "male" "0.9779"
+"Takis Merkouris" "Takis" NA "female" "0.3278"
+"Tamas Rudas" "Tamas" NA "male" "1"
+"Tanya Henneman" "Tanya" NA "female" "0.0033"
+"Tanzy Love" "Tanzy" NA "female" "0"
+"Tao Huang" "Tao" NA "male" "0.961"
+"Tao Lin" "Tao" NA "male" "0.961"
+"Tao Lu" "Tao" NA "male" "0.961"
+"Tao Shi" "Tao" NA "male" "0.961"
+"Tao Wang" "Tao" NA "male" "0.961"
+"Tao Yu" "Tao" NA "male" "0.961"
+"Tapabrata Maiti" "Tapabrata" NA "unknown" NA
+"Tatiyana V Apanasovich" "Tatiyana" NA "female" "0"
+"Tatsuki Koyama" "Tatsuki" NA "male" "1"
+"Tatyana Krivobokova" "Tatyana" NA "female" "0"
+"Ted Chang" "Ted" NA "male" "0.9978"
+"Teng Zhang" "Teng" NA "male" "1"
+"Terence P Speed" "Terence" NA "male" "0.9945"
+"Terence Tao" "Terence" NA "male" "0.9945"
+"Teresa Ledwina" "Teresa" NA "female" "0.0027"
+"Teresa T Pereira" "Teresa" NA "female" "0.0027"
+"Terje Myklebust" "Terje" NA "male" "1"
+"Tetsuhisa Miwa" "Tetsuhisa" NA "unknown" NA
+"Thaddeus Tarpey" "Thaddeus" NA "male" "0.998"
+"Thais C O Fonseca" "Thais" NA "female" "0"
+"Thanh Mai Pham Ngoc" "Thanh" "Mai" "male" "0.6088"
+"Theo Gasser" "Theo" NA "male" "0.8526"
+"Theodore Karrison" "Theodore" NA "male" "0.9962"
+"Theofanis Sapatinas" "Theofanis" NA "male" "1"
+"Thierry Duchesne" "Thierry" NA "male" "0.9636"
+"Thomas A Gerds" "Thomas" NA "male" "0.9964"
+"Thomas A Louis" "Thomas" NA "male" "0.9964"
+"Thomas A Mazzuchi" "Thomas" NA "male" "0.9964"
+"Thomas A Severini" "Thomas" NA "male" "0.9964"
+"Thomas Brendan Murphy" "Thomas" "Brendan" "male" "0.9964"
+"Thomas C M Lee" "Thomas" NA "male" "0.9964"
+"Thomas D Cook" "Thomas" NA "male" "0.9964"
+"Thomas E Nichols" "Thomas" NA "male" "0.9964"
+"Thomas Ferguson" "Thomas" NA "male" "0.9964"
+"Thomas H Scheike" "Thomas" NA "male" "0.9964"
+"Thomas Hofmann" "Thomas" NA "male" "0.9964"
+"Thomas J DiCiccio" "Thomas" NA "male" "0.9964"
+"Thomas J Santner" "Thomas" NA "male" "0.9964"
+"Thomas Kneib" "Thomas" NA "male" "0.9964"
+"Thomas Lumley" "Thomas" NA "male" "0.9964"
+"Thomas M Stoker" "Thomas" NA "male" "0.9964"
+"Thomas Mathew" "Thomas" NA "male" "0.9964"
+"Thomas Michael Dubinin" "Thomas" "Michael" "male" "0.9964"
+"Thomas Mikosch" "Thomas" NA "male" "0.9964"
+"Thomas P Hettmansperger" "Thomas" NA "male" "0.9964"
+"Thomas R Ten Have" "Thomas" NA "male" "0.9964"
+"Thomas S Richardson" "Thomas" NA "male" "0.9964"
+"Thomas S Shively" "Thomas" NA "male" "0.9964"
+"Thomas T Ten Have" "Thomas" NA "male" "0.9964"
+"Thomas Verdebout" "Thomas" NA "male" "0.9964"
+"Thomas W Sager" "Thomas" NA "male" "0.9964"
+"Thorsten Dickhaus" "Thorsten" NA "male" "1"
+"Thorsten Pauls" "Thorsten" NA "male" "1"
+"Thorsten Wagner" "Thorsten" NA "male" "1"
+"Thuan Nguyen" "Thuan" NA "male" "0.975"
+"Tian Cai" "Tian" NA "male" "0.5316"
+"Tian Zheng" "Tian" NA "male" "0.5316"
+"Tianle Hu" "Tianle" NA "unknown" NA
+"Tianxi Cai" "Tianxi" NA "unknown" NA
+"Tiefeng Jiang" "Tiefeng" NA "unknown" NA
+"Tiejun Tong" "Tiejun" NA "unknown" NA
+"Tigran Markaryan" "Tigran" NA "male" "1"
+"Tilmann Gneiting" "Tilmann" NA "unknown" NA
+"Tim Holland-Letz" "Tim" NA "male" "0.9975"
+"Tim van Erven" "Tim" "van" "male" "0.9975"
+"Timothy D Johnson" "Timothy" NA "male" "0.9957"
+"Timothy E Hanson" "Timothy" NA "male" "0.9957"
+"Timothy G F Kittel" "Timothy" NA "male" "0.9957"
+"Tina Kold Jensen" "Tina" "Kold" "female" "0.003"
+"Ting Zhang" "Ting" NA "female" "0.1145"
+"Tingjin Chu" "Tingjin" NA "unknown" NA
+"Tirthankar Dasgupta" "Tirthankar" NA "unknown" NA
+"Tobias Ryden" "Tobias" NA "male" "1"
+"Todd A Kuffner" "Todd" NA "male" "0.996"
+"Todd Graves" "Todd" NA "male" "0.996"
+"Tom Britton" "Tom" NA "male" "0.9969"
+"Tom M W Nye" "Tom" NA "male" "0.9969"
+"Tomohiro Ando" "Tomohiro" NA "male" "1"
+"Tong Zhang" "Tong" NA "male" "1"
+"Tor D Tosteson" "Tor" NA "male" "1"
+"Tor D Wager" "Tor" NA "male" "1"
+"Torben Martinussen" "Torben" NA "male" "1"
+"Tore Ericsson" "Tore" NA "male" "0.8655"
+"Torsten Hothorn" "Torsten" NA "male" "1"
+"Toshiaki Watanabe" "Toshiaki" NA "unknown" NA
+"Tracy L Nolen" "Tracy" NA "female" "0.183"
+"Trevor J Hastie" "Trevor" NA "male" "0.9957"
+"Trevor J Sweeting" "Trevor" NA "male" "0.9957"
+"Trevor Park" "Trevor" NA "male" "0.9957"
+"Tristan Zajonc" "Tristan" NA "male" "0.9343"
+"Trivellore E Raghunathan" "Trivellore" NA "unknown" NA
+"Truc T Nguyen" "Truc" NA "female" "0.0663"
+"Tso-Jung Yen" "Tso-Jung" NA "unknown" NA
+"Tsung-Shan Tsou" "Tsung-Shan" NA "unknown" NA
+"Tsz Ho Yim" "Tsz" "Ho" "male" "1"
+"Tuan Nguyen" "Tuan" NA "male" "1"
+"Tucker McElroy" "Tucker" NA "male" "0.9914"
+"Tung Pham" "Tung" NA "male" "1"
+"Tyler H McCormick" "Tyler" NA "male" "0.9714"
+"Tyler J Vanderweele" "Tyler" NA "male" "0.9714"
+"Tyler J VanderWeele" "Tyler" NA "male" "0.9714"
+"Tze Leung Lai" "Tze" "Leung" "male" "0.7682"
+"Tzee-Ming Huang" "Tzee-Ming" NA "unknown" NA
+"Udaya B Kogalur" "Udaya" NA "unknown" NA
+"Ulrich Stadtmuller" "Ulrich" NA "male" "1"
+"Ulrike von Luxburg" "Ulrike" "von" "female" "0"
+"Ursula Gather" "Ursula" NA "female" "0"
+"Ursula U Muller" "Ursula" NA "female" "0"
+"Usha Govindarajulu" "Usha" NA "female" "0"
+"Uta Pigorsch" "Uta" NA "female" "0"
+"Uwe Einmahl" "Uwe" NA "male" "1"
+"V A Reisen" NA NA "unknown" NA
+"V De Gruttola" NA "De" "unknown" NA
+"V Delouille" NA NA "unknown" NA
+"V G S Vasdekis" NA NA "unknown" NA
+"V Joseph Hotz" NA "Joseph" "unknown" NA
+"V Roshan Joseph" NA "Roshan" "unknown" NA
+"V S Mandrekar" NA NA "unknown" NA
+"Vadim Grinshtein" "Vadim" NA "male" "1"
+"Vadim M Zipunnikov" "Vadim" NA "male" "1"
+"Valen E Johnson" "Valen" NA "male" "0.5796"
+"Valentin Patilea" "Valentin" NA "male" "1"
+"Valentina Corradi" "Valentina" NA "female" "4e-04"
+"Valentina Leucari" "Valentina" NA "female" "4e-04"
+"Valentine Genon-Catalot" "Valentine" NA "male" "0.7609"
+"Van L Parsons" "Van" NA "male" "0.9353"
+"Vanessa Didelez" "Vanessa" NA "female" "0.0037"
+"Vanja Dukic" "Vanja" NA "female" "0"
+"Veerabhadran Baladandayuthapani" "Veerabhadran" NA "unknown" NA
+"Venkata K Jandhyala" "Venkata" NA "unknown" NA
+"Vern T Farewell" "Vern" NA "male" "0.9681"
+"Veronica J Berrocal" "Veronica" NA "female" "0.0041"
+"Veronika Czellar" "Veronika" NA "female" "0"
+"Veronika Gontscharuk" "Veronika" NA "female" "0"
+"Veronika Zarnitsyna" "Veronika" NA "female" "0"
+"Vessela K Stoimenova" "Vessela" NA "unknown" NA
+"Viatcheslav B Melas" "Viatcheslav" NA "unknown" NA
+"Vic Patrangenaru" "Vic" NA "male" "1"
+"Victor Chernozhukov" "Victor" NA "male" "0.9939"
+"Victor J Yohai" "Victor" NA "male" "0.9939"
+"Victor M Panaretos" "Victor" NA "male" "0.9939"
+"Victor Shrira" "Victor" NA "male" "0.9939"
+"Victorino M Ramos" "Victorino" NA "male" "1"
+"Vijayan N Nair" "Vijayan" NA "unknown" NA
+"Viktor Todorov" "Viktor" NA "male" "1"
+"Viktor Tsyrennikov" "Viktor" NA "male" "1"
+"Vincent J Carey" "Vincent" NA "male" "0.9956"
+"Vincent Magnotta" "Vincent" NA "male" "0.9956"
+"Vincent T Mule Jr" "Vincent" NA "male" "0.9956"
+"Vippal Savani" "Vippal" NA "unknown" NA
+"Visa Koivunen" "Visa" NA "female" "0"
+"Viswanath Devanarayan" "Viswanath" NA "unknown" NA
+"Vivekananda Roy" "Vivekananda" NA "unknown" NA
+"Vladimir Koltchinskii" "Vladimir" NA "male" "1"
+"Vladimir N Kulikov" "Vladimir" NA "male" "1"
+"Vladimir S Troynikov" "Vladimir" NA "male" "1"
+"Vladimir Spokoiny" "Vladimir" NA "male" "1"
+"Vladimir Vovk" "Vladimir" NA "male" "1"
+"Vladislav Kargin" "Vladislav" NA "male" "1"
+"Volkmar Liebscher" "Volkmar" NA "unknown" NA
+"Volodymyr Melnykov" "Volodymyr" NA "unknown" NA
+"W J Hall" NA NA "unknown" NA
+"W L Xu" NA NA "unknown" NA
+"W Ryan Diver" NA "Ryan" "male" "0.9768"
+"W Tinsson" NA NA "unknown" NA
+"Wai-Cheung Ip" "Wai-Cheung" NA "unknown" NA
+"Wai Keung Li" "Wai" "Keung" "male" "0.6511"
+"Wai Sum Chan" "Wai" "Sum" "male" "0.6511"
+"Walter Distaso" "Walter" NA "male" "0.9942"
+"Walter F Mascarenhas" "Walter" NA "male" "0.9942"
+"Walter Racugno" "Walter" NA "male" "0.9942"
+"Walter T Federer" "Walter" NA "male" "0.9942"
+"Wang Zhou" "Wang" NA "male" "1"
+"Wanli Min" "Wanli" NA "unknown" NA
+"Wanzhu Tu" "Wanzhu" NA "unknown" NA
+"Warren Strauss" "Warren" NA "male" "0.9953"
+"Wayne A Fuller" "Wayne" NA "male" "0.9959"
+"Wayne A Woodward" "Wayne" NA "male" "0.9959"
+"Wayne C Levy" "Wayne" NA "male" "0.9959"
+"Wayne S DeSarbo" "Wayne" NA "male" "0.9959"
+"Wee-Jing Ng" "Wee-Jing" NA "unknown" NA
+"Wei-Liem Loh" "Wei-Liem" NA "unknown" NA
+"Wei-Ming Lee" "Wei-Ming" NA "unknown" NA
+"Wei Biao Wu" "Wei" "Biao" "male" "0.7689"
+"Wei Gao" "Wei" NA "male" "0.7689"
+"Wei Lin" "Wei" NA "male" "0.7689"
+"Wei Liu" "Wei" NA "male" "0.7689"
+"Wei Pan" "Wei" NA "male" "0.7689"
+"Wei Yan" "Wei" NA "male" "0.7689"
+"Wei Yann Tsai" "Wei" "Yann" "male" "0.7689"
+"Wei Zhao" "Wei" NA "male" "0.7689"
+"Wei Zheng" "Wei" NA "male" "0.7689"
+"Wei Zhu" "Wei" NA "male" "0.7689"
+"Weidong Liu" "Weidong" NA "unknown" NA
+"Weihua Cao" "Weihua" NA "unknown" NA
+"Weijing Wang" "Weijing" NA "unknown" NA
+"Weili Lin" "Weili" NA "unknown" NA
+"Weining Zhou" "Weining" NA "unknown" NA
+"Weiping Zhang" "Weiping" NA "unknown" NA
+"Weiwei Wang" "Weiwei" NA "unknown" NA
+"Weixin Yao" "Weixin" NA "unknown" NA
+"Weixing Song" "Weixing" NA "unknown" NA
+"Weizhen Wang" "Weizhen" NA "unknown" NA
+"Wen-Han Hwang" "Wen-Han" NA "unknown" NA
+"Wen-Lin Lai" "Wen-Lin" NA "unknown" NA
+"Wenbin Lu" "Wenbin" NA "unknown" NA
+"Wendy Meiring" "Wendy" NA "female" "0.0035"
+"Weng Kee Wong" "Weng" "Kee" "male" "1"
+"Wenge Guo" "Wenge" NA "unknown" NA
+"Wenguang Sun" "Wenguang" NA "unknown" NA
+"Wenhua Jiang" "Wenhua" NA "unknown" NA
+"Wenjing Yang" "Wenjing" NA "unknown" NA
+"Wenqing He" "Wenqing" NA "unknown" NA
+"Wensheng Guo" "Wensheng" NA "unknown" NA
+"Wensheng Zhu" "Wensheng" NA "unknown" NA
+"Wensong Wu" "Wensong" NA "unknown" NA
+"Wentao Feng" "Wentao" NA "unknown" NA
+"Wenwen Tao" "Wenwen" NA "unknown" NA
+"Wenxin Jiang" "Wenxin" NA "unknown" NA
+"Wenxin Mao" "Wenxin" NA "unknown" NA
+"Wenxuan Zhong" "Wenxuan" NA "unknown" NA
+"Wenyang Zhang" "Wenyang" NA "unknown" NA
+"Wenyaw Chan" "Wenyaw" NA "unknown" NA
+"Wenzheng Huang" "Wenzheng" NA "unknown" NA
+"Wenzhi Li" "Wenzhi" NA "unknown" NA
+"Werner Brannath" "Werner" NA "male" "1"
+"Werner G Muller" "Werner" NA "male" "1"
+"Werner Stahel" "Werner" NA "male" "1"
+"Wesley O Johnson" "Wesley" NA "male" "0.9878"
+"Wessel N van Wieringen" "Wessel" NA "male" "1"
+"Wicher P Bergsma" "Wicher" NA "male" "1"
+"Wilbert C M Kallenberg" "Wilbert" NA "male" "0.9958"
+"Wilfredo Palma" "Wilfredo" NA "male" "1"
+"Willa W Chen" "Willa" NA "female" "0.0012"
+"Willem R van Zwet" "Willem" NA "male" "1"
+"William Byerley" "William" NA "male" "0.9962"
+"William E Strawderman" "William" NA "male" "0.9962"
+"William F Rosenberger" "William" NA "male" "0.9962"
+"William H Swallow" "William" NA "male" "0.9962"
+"William Kleiber" "William" NA "male" "0.9962"
+"William Li" "William" NA "male" "0.9962"
+"William R Schucany" "William" NA "male" "0.9962"
+"William R Shadish" "William" NA "male" "0.9962"
+"William T M Dunsmuir" "William" NA "male" "0.9962"
+"William W Davis" "William" NA "male" "0.9962"
+"Wilson W Lu" "Wilson" NA "male" "0.9958"
+"Winfried Stute" "Winfried" NA "male" "1"
+"Wing Hung Wong" "Wing" "Hung" "male" "0.8062"
+"Wing K Fung" "Wing" NA "male" "0.8062"
+"Witold Bednorz" "Witold" NA "male" "0.9128"
+"Wojciech Olszewski" "Wojciech" NA "male" "1"
+"Wolfgang Bischoff" "Wolfgang" NA "male" "1"
+"Wolfgang Dahmen" "Wolfgang" NA "male" "1"
+"Wolfgang Karl Hardle" "Wolfgang" "Karl" "male" "1"
+"Wolfgang Polonik" "Wolfgang" NA "male" "1"
+"Wolfgang S Jank" "Wolfgang" NA "male" "1"
+"Wolfgang Wefelmeyer" "Wolfgang" NA "male" "1"
+"Woncheol Jang" "Woncheol" NA "unknown" NA
+"X Fang" NA NA "unknown" NA
+"X Jessie Jeng" NA "Jessie" "female" "0.4993"
+"X Joan Hu" NA "Joan" "unknown" NA
+"Xavier de Luna" "Xavier" "de" "male" "0.9922"
+"Xi Luo" "Xi" NA "unknown" NA
+"Xi Zhou" "Xi" NA "unknown" NA
+"Xia Cui" "Xia" NA "female" "0"
+"Xianchao Xie" "Xianchao" NA "unknown" NA
+"Xiang-Yang Lou" "Xiang-Yang" NA "unknown" NA
+"Xiang Liu" "Xiang" NA "male" "1"
+"Xiangrong Yin" "Xiangrong" NA "unknown" NA
+"Xianyang Zhang" "Xianyang" NA "unknown" NA
+"Xianzheng Huang" "Xianzheng" NA "unknown" NA
+"Xiao-Gang Su" "Xiao-Gang" NA "unknown" NA
+"Xiao-Hua Zhou" "Xiao-Hua" NA "unknown" NA
+"Xiao-Li Meng" "Xiao-Li" NA "unknown" NA
+"Xiao Wang" "Xiao" NA "female" "0.0801"
+"Xiaobo Ding" "Xiaobo" NA "unknown" NA
+"Xiaochun Li" "Xiaochun" NA "unknown" NA
+"Xiaodong Luo" "Xiaodong" NA "unknown" NA
+"Xiaofeng Shao" "Xiaofeng" NA "unknown" NA
+"Xiaofeng Tan" "Xiaofeng" NA "unknown" NA
+"Xiaogang Wang" "Xiaogang" NA "unknown" NA
+"Xiaohong Chen" "Xiaohong" NA "unknown" NA
+"Xiaohui Wang" "Xiaohui" NA "unknown" NA
+"Xiaojing Wang" "Xiaojing" NA "unknown" NA
+"Xiaomin Lu" "Xiaomin" NA "unknown" NA
+"Xiaoming Huo" "Xiaoming" NA "unknown" NA
+"Xiaoping Jin" "Xiaoping" NA "unknown" NA
+"Xiaoping Xu" "Xiaoping" NA "unknown" NA
+"Xiaotong Shen" "Xiaotong" NA "unknown" NA
+"Xiaowei Wang" "Xiaowei" NA "unknown" NA
+"Xiaoyan Shi" "Xiaoyan" NA "unknown" NA
+"Xihong Lin" "Xihong" NA "unknown" NA
+"Xin-Bing Kong" "Xin-Bing" NA "unknown" NA
+"Xin Chen" "Xin" NA "female" "0.1514"
+"Xin Gao" "Xin" NA "female" "0.1514"
+"Xin Li" "Xin" NA "female" "0.1514"
+"Xin Liu" "Xin" NA "female" "0.1514"
+"Xin Qi" "Xin" NA "female" "0.1514"
+"Xin Tong" "Xin" NA "female" "0.1514"
+"Xingdong Feng" "Xingdong" NA "unknown" NA
+"Xingqiu Zhao" "Xingqiu" NA "unknown" NA
+"Xingwei Tong" "Xingwei" NA "unknown" NA
+"Xingye Qiao" "Xingye" NA "unknown" NA
+"Xinlei Wang" "Xinlei" NA "unknown" NA
+"Xinwei Deng" "Xinwei" NA "unknown" NA
+"Xinxin Yu" "Xinxin" NA "unknown" NA
+"Xinyi Xu" "Xinyi" NA "female" "0"
+"Xinyu Zhang" "Xinyu" NA "female" "0"
+"Xinyuan Song" "Xinyuan" NA "unknown" NA
+"Xiudong Lei" "Xiudong" NA "unknown" NA
+"Xiuzhen Cheng" "Xiuzhen" NA "unknown" NA
+"Xu-Feng Niu" "Xu-Feng" NA "unknown" NA
+"Xu He" "Xu" NA "male" "1"
+"Xu Xu" "Xu" NA "male" "1"
+"XuanLong Nguyen" "XuanLong" NA "unknown" NA
+"Xue Wang" "Xue" NA "male" "0.7533"
+"Xuefeng Liu" "Xuefeng" NA "unknown" NA
+"Xuegong Zhang" "Xuegong" NA "unknown" NA
+"Xuelei Ni" "Xuelei" NA "unknown" NA
+"Xueli Liu" "Xueli" NA "unknown" NA
+"Xuemei Huang" "Xuemei" NA "unknown" NA
+"Xueqin Wang" "Xueqin" NA "unknown" NA
+"Xuming He" "Xuming" NA "unknown" NA
+"Y Amit" NA NA "unknown" NA
+"Y Boissy" NA NA "unknown" NA
+"Y Munoz Maldonado" NA "Munoz" "unknown" NA
+"Y Rinott" NA NA "unknown" NA
+"Ya Xue" "Ya" NA "female" "0.1219"
+"Yaacov Ritov" "Yaacov" NA "male" "1"
+"Yacine Ait-Sahalia" "Yacine" NA "male" "0.5063"
+"Yair Goldberg" "Yair" NA "male" "1"
+"Yajun Mei" "Yajun" NA "unknown" NA
+"Yaming Yu" "Yaming" NA "unknown" NA
+"Yan Lan" "Yan" NA "male" "0.8661"
+"Yan Li" "Yan" NA "male" "0.8661"
+"Yan Sun" "Yan" NA "male" "0.8661"
+"Yan Yu" "Yan" NA "male" "0.8661"
+"Yan Zhang" "Yan" NA "male" "0.8661"
+"Yanan Fan" "Yanan" NA "unknown" NA
+"Yanbing Zheng" "Yanbing" NA "unknown" NA
+"Yang Feng" "Yang" NA "male" "0.8281"
+"Yang Yang" "Yang" NA "male" "0.8281"
+"Yaning Yang" "Yaning" NA "unknown" NA
+"Yaniv Plan" "Yaniv" NA "male" "1"
+"Yannick Baraud" "Yannick" NA "male" "1"
+"Yannis G Yatracos" "Yannis" NA "male" "0.7404"
+"Yannis Jemiai" "Yannis" NA "male" "0.7404"
+"Yanping Yi" "Yanping" NA "unknown" NA
+"Yanqin Fan" "Yanqin" NA "unknown" NA
+"Yanqing Sun" "Yanqing" NA "unknown" NA
+"Yanyuan Ma" "Yanyuan" NA "unknown" NA
+"Yao-Ban Chan" "Yao-Ban" NA "unknown" NA
+"Yashen Chen" "Yashen" NA "unknown" NA
+"Yasheng Chen" "Yasheng" NA "unknown" NA
+"Yasuhiro Omori" "Yasuhiro" NA "male" "1"
+"Yasumasa Matsuda" "Yasumasa" NA "unknown" NA
+"Yasuo Amemiya" "Yasuo" NA "male" "1"
+"Yazhen Wang" "Yazhen" NA "unknown" NA
+"Ye Shen" "Ye" NA "female" "0.371"
+"Yee Whye Teh" "Yee" "Whye" "male" "0.5092"
+"Yehua Li" "Yehua" NA "unknown" NA
+"Yeonseung Chung" "Yeonseung" NA "unknown" NA
+"Yevgen Tymofyeyev" "Yevgen" NA "unknown" NA
+"Yi-Hau Chen" "Yi-Hau" NA "unknown" NA
+"Yi-Kuan Tseng" "Yi-Kuan" NA "unknown" NA
+"Yi Chai" "Yi" NA "male" "0.5213"
+"Yi Cheng" "Yi" NA "male" "0.5213"
+"Yi Li" "Yi" NA "male" "0.5213"
+"Yi Lin" "Yi" NA "male" "0.5213"
+"Yi Liu" "Yi" NA "male" "0.5213"
+"Yi Lu" "Yi" NA "male" "0.5213"
+"Yichao Wu" "Yichao" NA "unknown" NA
+"Yifan Huang" "Yifan" NA "male" "0.7726"
+"Yihua Zhao" "Yihua" NA "unknown" NA
+"Yihui Luan" "Yihui" NA "unknown" NA
+"Yijian Huang" "Yijian" NA "unknown" NA
+"Yijun Zuo" "Yijun" NA "unknown" NA
+"Yimei Li" "Yimei" NA "unknown" NA
+"Yimeng Lu" "Yimeng" NA "unknown" NA
+"Ying-Li Qin" "Ying-Li" NA "unknown" NA
+"Ying Bai" "Ying" NA "female" "0.3369"
+"Ying Chen" "Ying" NA "female" "0.3369"
+"Ying Guo" "Ying" NA "female" "0.3369"
+"Ying Huang" "Ying" NA "female" "0.3369"
+"Ying Hung" "Ying" NA "female" "0.3369"
+"Ying Kuen Cheung" "Ying" "Kuen" "female" "0.3369"
+"Ying Sun" "Ying" NA "female" "0.3369"
+"Ying Wei" "Ying" NA "female" "0.3369"
+"Ying Yuan" "Ying" NA "female" "0.3369"
+"Ying Zhang" "Ying" NA "female" "0.3369"
+"Ying Zhou" "Ying" NA "female" "0.3369"
+"Yingcun Xia" "Yingcun" NA "unknown" NA
+"Yingqi Zhao" "Yingqi" NA "unknown" NA
+"YingQing Chen" "YingQing" NA "unknown" NA
+"Yingxing Li" "Yingxing" NA "unknown" NA
+"Yingye Zheng" "Yingye" NA "unknown" NA
+"Yingying Fan" "Yingying" NA "unknown" NA
+"Yingying Li" "Yingying" NA "unknown" NA
+"Yishay Mansour" "Yishay" NA "male" "1"
+"Yiyuan She" "Yiyuan" NA "unknown" NA
+"Yiyun Zhang" "Yiyun" NA "unknown" NA
+"Yoav Benjamini" "Yoav" NA "male" "1"
+"Yoav Freund" "Yoav" NA "male" "1"
+"Yoichi Miyata" "Yoichi" NA "male" "1"
+"Yoichi Nishiyama" "Yoichi" NA "male" "1"
+"Yong Chen" "Yong" NA "male" "0.6989"
+"Yong Kong" "Yong" NA "male" "0.6989"
+"Yong Wang" "Yong" NA "male" "0.6989"
+"Yong Zhou" "Yong" NA "male" "0.6989"
+"Yongcheng Qi" "Yongcheng" NA "unknown" NA
+"Yongcheol Shin" "Yongcheol" NA "unknown" NA
+"Yongdai Kim" "Yongdai" NA "unknown" NA
+"Yonghee Lee" "Yonghee" NA "unknown" NA
+"Yongho Jeon" "Yongho" NA "unknown" NA
+"Yongseok Park" "Yongseok" NA "unknown" NA
+"Yongtao Guan" "Yongtao" NA "unknown" NA
+"Yongwu Shao" "Yongwu" NA "unknown" NA
+"Yongzhao Shao" "Yongzhao" NA "unknown" NA
+"Yonil Park" "Yonil" NA "unknown" NA
+"Yoonkyung Lee" "Yoonkyung" NA "unknown" NA
+"Yoshihiro Yajima" "Yoshihiro" NA "male" "1"
+"You-Gan Wang" "You-Gan" NA "unknown" NA
+"You-Jun Yang" "You-Jun" NA "unknown" NA
+"Youjuan Li" "Youjuan" NA "unknown" NA
+"Youlan Rao" "Youlan" NA "unknown" NA
+"Young-Ju Kim" "Young-Ju" NA "unknown" NA
+"Young Kyung Lee" "Young" "Kyung" "male" "0.7321"
+"Young Truong" "Young" NA "male" "0.7321"
+"Youngjo Lee" "Youngjo" NA "unknown" NA
+"Youngki Shin" "Youngki" NA "unknown" NA
+"Yousung Park" "Yousung" NA "unknown" NA
+"Youyi Shu" "Youyi" NA "unknown" NA
+"Yu-Jen Cheng" "Yu-Jen" NA "unknown" NA
+"Yu Cheng" "Yu" NA "female" "0.4737"
+"Yu Chuan Tai" "Yu" "Chuan" "female" "0.4737"
+"Yu Golubev" "Yu" NA "female" "0.4737"
+"Yu Shen" "Yu" NA "female" "0.4737"
+"Yu Tang" "Yu" NA "female" "0.4737"
+"Yu Zhang" "Yu" NA "female" "0.4737"
+"Yu Zhu" "Yu" NA "female" "0.4737"
+"Yuan Ji" "Yuan" NA "male" "0.892"
+"Yuan Jiang" "Yuan" NA "male" "0.892"
+"Yuan Li" "Yuan" NA "male" "0.892"
+"Yuan Liao" "Yuan" NA "male" "0.892"
+"Yuanjia Wang" "Yuanjia" NA "unknown" NA
+"Yuanqing Ye" "Yuanqing" NA "unknown" NA
+"Yuanyuan Lin" "Yuanyuan" NA "unknown" NA
+"Yuchung J Wang" "Yuchung" NA "unknown" NA
+"Yue S Niu" "Yue" NA "male" "0.7687"
+"Yuedong Wang" "Yuedong" NA "unknown" NA
+"Yueh-Yun Chi" "Yueh-Yun" NA "unknown" NA
+"Yuexiao Dong" "Yuexiao" NA "unknown" NA
+"Yufeng Liu" "Yufeng" NA "unknown" NA
+"Yufeng Tu" "Yufeng" NA "unknown" NA
+"Yuguo Chen" "Yuguo" NA "unknown" NA
+"Yuh-Shan Jou" "Yuh-Shan" NA "unknown" NA
+"Yuhong Yang" "Yuhong" NA "unknown" NA
+"Yuhyun Park" "Yuhyun" NA "unknown" NA
+"Yuichi Kitamura" "Yuichi" NA "male" "1"
+"Yujun Wu" "Yujun" NA "unknown" NA
+"Yukio Kasahara" "Yukio" NA "male" "1"
+"Yukun Liu" "Yukun" NA "unknown" NA
+"Yulia Gavrilov" "Yulia" NA "female" "0"
+"Yulia R Gel" "Yulia" NA "female" "0"
+"Yulia V Marchenko" "Yulia" NA "female" "0"
+"Yun Ju Sung" "Yun" "Ju" "female" "0.2515"
+"Yun Sam Chong" "Yun" "Sam" "female" "0.2515"
+"Yunling Du" "Yunling" NA "unknown" NA
+"Yunming Mu" "Yunming" NA "unknown" NA
+"Yunwei Cui" "Yunwei" NA "unknown" NA
+"Yunwen Yang" "Yunwen" NA "unknown" NA
+"Yunxiao He" "Yunxiao" NA "unknown" NA
+"Yunzhang Zhu" "Yunzhang" NA "unknown" NA
+"Yuping Dong" "Yuping" NA "unknown" NA
+"Yuri Golubev" "Yuri" NA "female" "0.3816"
+"Yuval Nardi" "Yuval" NA "male" "0.6459"
+"Yuwon Kim" "Yuwon" NA "unknown" NA
+"Yuzhi Cai" "Yuzhi" NA "unknown" NA
+"Yuzo Maruyama" "Yuzo" NA "unknown" NA
+"Yve Aragon" "Yve" NA "male" "1"
+"Yves F Atchade" "Yves" NA "male" "0.9781"
+"Yves G Berger" "Yves" NA "male" "0.9781"
+"Yves Tille" "Yves" NA "male" "0.9781"
+"Yvo Pokern" "Yvo" NA "unknown" NA
+"Yvonne H S Ho" "Yvonne" NA "female" "0.0039"
+"Yvonne Pittelkow" "Yvonne" NA "female" "0.0039"
+"Z Harchaoui" NA NA "unknown" NA
+"Z I Botev" NA NA "unknown" NA
+"Z L Wang" NA NA "unknown" NA
+"Zahra Montazeri" "Zahra" NA "female" "0"
+"Zaiying Huang" "Zaiying" NA "unknown" NA
+"Zbigniew Szkutnik" "Zbigniew" NA "male" "1"
+"Zehua Chen" "Zehua" NA "unknown" NA
+"Zengri Wang" "Zengri" NA "unknown" NA
+"Zhangsheng Yu" "Zhangsheng" NA "unknown" NA
+"Zhaohui Su" "Zhaohui" NA "unknown" NA
+"Zhaohui Zou" "Zhaohui" NA "unknown" NA
+"Zhaosong Lu" "Zhaosong" NA "unknown" NA
+"Zhen Liu" "Zhen" NA "male" "1"
+"Zhen Pang" "Zhen" NA "male" "1"
+"Zheng Su" "Zheng" NA "male" "1"
+"Zheng Yuan" "Zheng" NA "male" "1"
+"Zhenghui Feng" "Zhenghui" NA "unknown" NA
+"Zhengjun Zhang" "Zhengjun" NA "unknown" NA
+"Zhengyan Lin" "Zhengyan" NA "unknown" NA
+"Zhengyuan Zhu" "Zhengyuan" NA "unknown" NA
+"Zhezhen Jin" "Zhezhen" NA "unknown" NA
+"Zhi Geng" "Zhi" NA "male" "0.8775"
+"Zhi Liu" "Zhi" NA "male" "0.8775"
+"Zhi Wei" "Zhi" NA "male" "0.8775"
+"Zhibiao Zhao" "Zhibiao" NA "unknown" NA
+"Zhidong Bai" "Zhidong" NA "unknown" NA
+"Zhigang Zhang" "Zhigang" NA "unknown" NA
+"Zhigen Zhao" "Zhigen" NA "unknown" NA
+"Zhiguo Li" "Zhiguo" NA "unknown" NA
+"Zhihong Cai" "Zhihong" NA "unknown" NA
+"Zhihua Su" "Zhihua" NA "unknown" NA
+"Zhijian Chen" "Zhijian" NA "unknown" NA
+"Zhijie Xiao" "Zhijie" NA "unknown" NA
+"Zhijin Wu" "Zhijin" NA "unknown" NA
+"Zhiliang Ying" "Zhiliang" NA "unknown" NA
+"Zhiqiang Tan" "Zhiqiang" NA "unknown" NA
+"Zhishen Ye" "Zhishen" NA "unknown" NA
+"Zhishui Hu" "Zhishui" NA "unknown" NA
+"Zhiwei Zhang" "Zhiwei" NA "unknown" NA
+"Zhiyi Chi" "Zhiyi" NA "unknown" NA
+"Zhiyi Zhang" "Zhiyi" NA "unknown" NA
+"Zhong Guan" "Zhong" NA "unknown" NA
+"Zhonghua Gu" "Zhonghua" NA "unknown" NA
+"Zhongyi Zhu" "Zhongyi" NA "unknown" NA
+"Zhou Zhou" "Zhou" NA "unknown" NA
+"Ziding Feng" "Ziding" NA "unknown" NA
+"Zinoviy Landsman" "Zinoviy" NA "unknown" NA
+"Zonghui Hu" "Zonghui" NA "unknown" NA
+"Zongming Ma" "Zongming" NA "unknown" NA
+"Zongwu Cai" "Zongwu" NA "unknown" NA
+"Zsolt Talata" "Zsolt" NA "male" "1"
+"Zudi Lu" "Zudi" NA "unknown" NA
+"Zuoheng Wang" "Zuoheng" NA "unknown" NA
+"Zuoqin Wang" "Zuoqin" NA "unknown" NA
